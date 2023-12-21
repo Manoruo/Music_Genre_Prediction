@@ -26,4 +26,7 @@ Note: If you would like to create a dataset using a different playlist update th
 2. For Genuis lyrics https://lyricsgenius.readthedocs.io/en/master/- 
 3. Playlist used - https://open.spotify.com/playlist/5ABHKGoOzxkaa28ttQV9sE
 
+
+Note: The genre's given to each song is the genre of the artist.
+
 ![!\[Alt text\](images/Genuis_Spot.png)](images/Genuis_Spot_2.png)
