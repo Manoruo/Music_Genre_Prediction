@@ -4,7 +4,7 @@ import spacy
 nlp = spacy.load("en_core_web_md")
 
 
-def get_closest_genres(tag, genres, threshold=0.5):
+def get_closest_genres(tag, genres, threshold=0.6):
     # Calculate similarity between the tag and each genre discription 
     similarities = {}
     
@@ -12,7 +12,7 @@ def get_closest_genres(tag, genres, threshold=0.5):
         # get the best similarity between the tag and current list of discriptors 
         
         scores = []
-        
+        # go through all discriptors for the genre and see if any of them are similar to the current tag 
         for disc in discs:
             m1 = nlp(tag.lower())
             m2 = nlp(disc.lower())
@@ -27,11 +27,11 @@ def get_closest_genres(tag, genres, threshold=0.5):
         similarities[genre] = best_score # the best similarity score represents how well the tag matches the current genre
 
     # Filter genres with similarity above the threshold
-    similar_genres = [{'genre': genre, 'sim': similarity} for genre, similarity in similarities.items()]
+    similar_genres = [{'genre': genre, 'sim': similarity} for genre, similarity in similarities.items() if similarity > threshold]
     sorted(similar_genres, key=lambda x: x['sim'], reverse=True) # sort genre's according to how well they match the tag 
     return similar_genres
 
-def tags_to_genre(tags, genres, threshold=.4):
+def tags_to_genre(tags, genres, threshold=.6):
  
     genre_scores = {}   
     for tag in tags:

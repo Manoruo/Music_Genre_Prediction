@@ -38,7 +38,6 @@ def findJunk(sentence):
    
 def pre_process_lyrics(lyrics):
    lines = lyrics.split('\n')[1:]
-   pattern = re.compile(r'\d+Embed$')
    new_lyrics = []
    
    for line in lines:

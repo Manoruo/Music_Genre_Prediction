@@ -3,7 +3,7 @@ import ast
 import numpy as np
 
 from utils.data_prep import dataset_to_X_y, load_datachunks
-from utils.data_visualization import visualize_data, plot_confusion_matrix
+from utils.data_visualization import visualize_data, plot_multilabel_confusion_matrix
 
 from tensorflow.keras.layers import LSTM, Dropout, Dense, Conv1D, GlobalMaxPooling1D, Activation
 from tensorflow.keras.models import Sequential
@@ -55,7 +55,7 @@ def get_lstm():
     Dense(64, activation='relu', 
           kernel_regularizer=regularizers.l2(0.01), 
           activity_regularizer=regularizers.l1(0.01)),
-    Dense(len(ALL_GENRES.keys()), activation='softmax')  # number of classes (sentiment categories)
+    Dense(len(ALL_GENRES.keys()), activation='sigmoid') 
     ])
     return model
 
@@ -72,7 +72,7 @@ def get_cnn():
     cnn_model.add(Dropout(0.2))
     cnn_model.add(Activation('relu'))
     cnn_model.add(Dense(len(ALL_GENRES.keys())))
-    cnn_model.add(Activation('softmax'))
+    cnn_model.add(Activation('sigmoid'))
     
     return cnn_model
     
@@ -83,7 +83,7 @@ def train_model(model, train_data, val_data, epochs=10):
     
     # define optimizer and compile
     optimzer = Adam(learning_rate=.001)
-    model.compile(loss='categorical_crossentropy', optimizer=optimzer, metrics=['accuracy'])
+    model.compile(loss='binary_crossentropy', optimizer=optimzer, metrics=['accuracy'])
 
     # Create early stopping object
     early_stopping = EarlyStopping(monitor='val_loss', min_delta=0, patience=3, verbose=1, mode='auto')
@@ -103,16 +103,15 @@ def eval_model(model, test_data):
 
     # Calculate precision, recall, F1 score
     y_pred = model.predict(x_test)
-    y_pred = np.argmax(y_pred, axis=1)
-    y_test_argmax = np.argmax(y_test, axis=1)
+    y_pred = (y_pred > 0.5).astype(int) # round all elements above .5 up to 1 
     
-    acc = accuracy_score(y_test_argmax, y_pred)
+    acc = accuracy_score(y_test, y_pred)
     #print('Precision:', precision_score(y_test_argmax, y_pred, average='weighted'))
     #print('Recall:', recall_score(y_test_argmax, y_pred, average='weighted'))
     #print('F1 score:', f1_score(y_test_argmax, y_pred, average='weighted'))
     #print('Accuracy:', acc)
     
-    plot_confusion_matrix(y_test_argmax, y_pred, INDEX_TO_GENRE)
+    plot_multilabel_confusion_matrix(y_test, y_pred, INDEX_TO_GENRE)
     
     return acc 
 
@@ -152,15 +151,15 @@ if __name__ == "__main__":
     test_df, val_df = train_test_split(test_val_df, test_size=0.5, random_state=42)
     
     # turn dataframes into inputs we can process 
-    X_train, y_train = dataset_to_X_y(train_df, word_embeddings)
-    X_test, y_test = dataset_to_X_y(test_df, word_embeddings)
-    X_val, y_val = dataset_to_X_y(val_df, word_embeddings)
+    X_train, y_train = dataset_to_X_y(train_df, word_embeddings, multi_class=True)
+    X_test, y_test = dataset_to_X_y(test_df, word_embeddings, multi_class=True)
+    X_val, y_val = dataset_to_X_y(val_df, word_embeddings, multi_class=True)
     
     # take a look at our label breakdown for each dataset
     #visualize_data([INDEX_TO_GENRE[y] for y in np.argmax(y_test, axis=1)], False)
     #visualize_data([INDEX_TO_GENRE[y] for y in np.argmax(y_train, axis=1)], False)
     models = {
-        'lstm': get_lstm(),
+        #'lstm': get_lstm(),
         'cnn': get_cnn()
     }
     

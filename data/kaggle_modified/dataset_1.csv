@@ -1,5 +1,5 @@
 song,artist,genres,lyrics
-No Matter What,T.I.,['hip hop'],"[Verse 1]
+No Matter What,T.I.,"['hip hop', 'r&b']","[Verse 1]
 Never have you seen in your lifetime
 A more divine southern rapper with a swag like mine
 Facin' all kinda time, but smile like I'm fine
@@ -84,7 +84,7 @@ I ain't break (never), I ain't fold (never)
 They hate me more (so?) Yeah I know (haha!)
 Here I go, yeah, no matter what shawty, here I go
 No matter what, shawty"
-Drunk and Hot Girls,Kanye West,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz']","[Intro: Mos Def]
+Drunk and Hot Girls,Kanye West,"['hip hop', 'r&b']","[Intro: Mos Def]
 La-da-da da-da da-da da-da da-da da
 Blap!
 
@@ -182,7 +182,7 @@ All of these drunk and hot girls
 [Outro: Mos Def]
 La-da-da da-da da-da da-da da-da da
 Blap!"
-Strong Will Continue,Nas & Damian Marley,"['hip hop', 'r&b']","[Intro: Nas]
+Strong Will Continue,Nas & Damian Marley,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Intro: Nas]
 All I do is stay focused
 Looking straight forward at the world and beyond
 I feel people pulling me down
@@ -329,7 +329,7 @@ If a pimp slippin and a ho plot
 Ain't nothin to a G in a two-tone drop, kid
 And it don't stop, See a nigga dissapearin
 With the baddest honeys in the whole spot, yeah"
-Say Something,Timbaland,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: Drake]
+Say Something,Timbaland,"['hip hop', 'r&b']","[Chorus: Drake]
 This shit was all I knew, you and me only
 I did it all for you, still you were lonely
 We could've worked it out, uh, but I guess things change
@@ -401,7 +401,7 @@ Say-say something, baby
 Say something, babe, say something
 I'm gon' need you to say something, baby
 I'm gon' need you to say something, baby, ohh-whoa"
-4 My Town Play Ball,Birdman,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Birdman]
+4 My Town Play Ball,Birdman,"['hip hop', 'r&b']","[Intro: Birdman]
 Play ball!
 Yeah, so priceless
 Life's so priceless nigga, you understand me? It's just like that
@@ -499,7 +499,7 @@ Straight over old school, just like
 Just like that, CMB
 Drizzy, 1 hunnid
 Brr-eah"
-Rumble Young Man Rumble,Juelz Santana,['hip hop'],"[Juelz Santana]
+Rumble Young Man Rumble,Juelz Santana,"['hip hop', 'r&b']","[Juelz Santana]
 Juelz Santana. Ain't no turning back from here [Thats right]
 
 [VERSE 1]
@@ -565,7 +565,7 @@ Don't feel sorry for me, have a party for me
 Bitches, balloons, Bacardi and weed
 And let niggas know that I died with a heart of a G [AYE]
 [Hook]"
-Straight Outta Compton,N.W.A,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Intro: Dr. Dre]
+Straight Outta Compton,N.W.A,"['hip hop', 'r&b']","[Intro: Dr. Dre]
 You are now about to witness the strength of street knowledge
 
 [Verse 1: Ice Cube]
@@ -669,7 +669,7 @@ Word to the motherfucker, straight outta Compton
 (City of Compton, City of Compton)
 [Outro: Dr. Dre]
 Damn, that shit was dope!"
-I Live in a TV,Gucci Mane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+I Live in a TV,Gucci Mane,"['hip hop', 'r&b']","[Intro]
 1 for the money, 2 for my jewelry game
 3 for my luggage game (Dram' cruise!)Crazy luggage game Gucci
 4 for shoes, 5 for my closet same size as your apartment
@@ -718,7 +718,7 @@ I’m international and I’m icy like your baby daddy
 No, I’m 10 times icier than your daddy
 Tell your boy the truth: that his daddy is a faggot
 Only reason that you had him was for your fucking taxes"
-Superstar Remix,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1 - Young Jeezy]
+Superstar Remix,Lupe Fiasco,"['hip hop', 'r&b']","[Verse 1 - Young Jeezy]
 Ah, ah, oh my God
 All this for me, I must be on my job
 First album was a classic, never got an award
@@ -845,7 +845,7 @@ Then have no fear
 Cause the gangsters here
 And I'm gonna blow the dro
 You already know"
-Successful,Drake,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Trey Songz]
+Successful,Drake,"['hip hop', 'r&b']","[Intro: Trey Songz]
 The money (Money), cars (Cars)
 The clothes (Clothes), the hoes
 I suppose
@@ -959,7 +959,7 @@ Ha, ain't that a female dog?
 Ask her who I am to her, and she yell, ""God""
 Weezy Baby, I go re-al hard
 No further details, boy"
-My President,Jeezy,['hip hop'],"[Intro: Young Jeezy]
+My President,Jeezy,"['hip hop', 'r&b']","[Intro: Young Jeezy]
 Yeah, be the realest shit I never wrote
 I ain't write this, by the way, nigga
 Some real shit right here, nigga
@@ -1083,7 +1083,7 @@ I'm important too though
 I was the first nigga to ride through my hood in a Lamborghini
 Yeah, haha, you know what I'm sayin'?
 Nah, for real, though, we ready for change"
-Hands Up,eLZhi,['hip hop'],"[Intro: Elzhi]
+Hands Up,eLZhi,"['hip hop', 'r&b']","[Intro: Elzhi]
 Alright El
 Get it together nigga
 Take a deep breath
@@ -1193,7 +1193,7 @@ Freeze!, freeze!, freeze!, freeze!
 Put 'em up!
 Freeze!, freeze!, freeze!, freeze!
 Hands up!"
-Mighty D-Block 2 Guns Up,Sheek Louch,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Jadakiss]
+Mighty D-Block 2 Guns Up,Sheek Louch,"['hip hop', 'r&b']","[Intro: Jadakiss]
 D-Block (Yeah, D-Block)
 D-Block (Green Lantern, blast that, daddy)
 Everywhere we go, people wanna know (Uh-huh)
@@ -1303,7 +1303,7 @@ With the burners and the hawks, nigga, being the hood
 Everywhere we go, people wanna know (Uh-huh)
 Who we are (Yeah), so we tell them
 This is D-Block, mighty, mighty D-Block"
-One Mic,Nas,['hip hop'],"[Produced by Chucky Thompson and Nas]
+One Mic,Nas,"['hip hop', 'r&b']","[Produced by Chucky Thompson and Nas]
 
 [Intro]
 One time
@@ -1398,7 +1398,7 @@ All I need is one mic (Yeah, yeah, yeah, yeah)
 All I need is one mic (All I ever needed in this world, fuck cash)
 All I need is one mic (Fuck the cars, the jewelry)
 All I need is one mic (To spread my voice to the whole world, baby)"
-Shadrach,Beastie Boys,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative', 'rock']","[Intro: Rose Stewart]
+Shadrach,Beastie Boys,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Intro: Rose Stewart]
 Ah-ha-yeah-hey
 Ah-ha-yeah-hey
 Ah-ha-yeah-hey
@@ -1509,7 +1509,7 @@ Ah-ha-yeah-hey
 Ah-ha-yeah-hey
 Ah-ha-yeah-hey
 Ah-ha-yeah-hey"
-Super High,Rick Ross,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Intro: Rick Ross]
+Super High,Rick Ross,"['hip hop', 'r&b']","[Intro: Rick Ross]
 Uh, uh, uh
 
 [Verse 1: Rick Ross]
@@ -1590,7 +1590,7 @@ What the fuck are they yellin'? (Rozay)
 What the fuck are they yellin'? (Rozay)
 What the fuck are they yellin'?
 What the fuck are they yellin'? (Super high, ooh)"
-Heartless,Kanye West,"['hip hop', 'pop', 'r&b']","[Chorus]
+Heartless,Kanye West,"['pop', 'hip hop', 'r&b']","[Chorus]
 In the night, I hear 'em talk
 The coldest story ever told
 Somewhere far along this road
@@ -1664,7 +1664,7 @@ Oh, how could you be so heartless?
 [Outro]
 On and on and on and on
 And on and, and on and on and on"
-Str8 Ballin,Thug Life,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Str8 Ballin,Thug Life,"['hip hop', 'r&b']","[Intro]
 I would share the definition of ballin’
 With you white folks, but no
 The game is to be sold and not told, so fuck you
@@ -1801,7 +1801,7 @@ I'm on the block slanging drugs with the young thugs
 And motherfucka, we be ballin'!
 All motherfuckin' day long! Stay strong!
 We straight ballin'"
-I Got It Made,Special Ed,['hip hop'],"[Verse 1]
+I Got It Made,Special Ed,"['hip hop', 'r&b']","[Verse 1]
 I'm your idol, the highest title, numero uno
 I'm not a Puerto Rican, but I'm speaking so that you know
 And understand I got the gift of speech
@@ -1876,7 +1876,7 @@ I got the army brigade
 I'm not a trader, if what you got is greater I'll trade
 But maybe later 'cause my waiter made potato and alligator soufflé
 I got it made..."
-Rite Where U Stand,Gang Starr,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz']","[Verse 1 - Guru]
+Rite Where U Stand,Gang Starr,"['hip hop', 'r&b']","[Verse 1 - Guru]
 Yo, I don't even want to fight with you, man
 I'll lay you right where you stand
 You can catch a few shells
@@ -1948,7 +1948,7 @@ I got game to make Janet wanna spend on me
 Some say I'm triflin', and sometimes I rightfully am
 Get your man: I'll lay him right where he stand
 [Hook]"
-Miss Me,Drake,['hip hop'],"[Verse 1: Drake & Bun B]
+Miss Me,Drake,"['hip hop', 'r&b']","[Verse 1: Drake & Bun B]
 I said, ""Tell me what's really goin' on""
 Drizzy back up in this thing, I'm ready, what's hannenin'?
 Gone for surgery but now I'm back again
@@ -2046,7 +2046,7 @@ Miss me, miss me
 Miss me a little when I’m gone
 Miss me a little when I’m gone, gone, gone
 Oh-woah, oh-woah, oh-woah"
-99 Problems,JAY-Z,"['hip hop', 'alternative', 'r&b']","[Produced by Rick Rubin]
+99 Problems,JAY-Z,"['hip hop', 'r&b']","[Produced by Rick Rubin]
 
 [Chorus]
 If you're havin' girl problems, I feel bad for you, son
@@ -2137,7 +2137,7 @@ I got 99 problems, but a bitch ain't one – hit me!
 [Outro]
 You crazy for this one, Rick
 It's your boy"
-Nas Is Like,Nas,"['hip hop', 'r&b', 'pop']","[Produced by DJ Premier]
+Nas Is Like,Nas,"['hip hop', 'r&b']","[Produced by DJ Premier]
 
 [Intro]
 (Nas is; Nas is; Nas is; Nas is; Nas is; Nas is; Nas is;
@@ -2237,7 +2237,7 @@ Nas is like; life or death; I'm a rebel
 My poetry's deep, I never fell
 Nas is like; half-man, half-amazing
 No doubt (Uh); Nas is like"
-Run,Ghostface Killah,"['hip hop', 'alternative', 'r&b', 'pop']","[Intro: Ghostface Killah]
+Run,Ghostface Killah,"['hip hop', 'r&b']","[Intro: Ghostface Killah]
 Psst
 Yo (Yo), yo-yo (Yo), yo (Five-O)
 Oh shit, yo (Yo, let me out), run
@@ -2313,7 +2313,7 @@ That next felony, nigga, is life, three-zip
 So, run, hop fences, jump over benches
 When you see me coming, get the fuck out the entrance
 Run, fuck that, run, cops got guns, motherfucker"
-The Thrill,Wiz Khalifa,['hip hop'],"[Intro: Wiz Khalifa]
+The Thrill,Wiz Khalifa,"['hip hop', 'r&b']","[Intro: Wiz Khalifa]
 Searching for the thrill of it, thrill of it
 Say that it's love, but to me it's looking counterfeit
 I get done with one, and move right on to another bitch (Ha)
@@ -2391,7 +2391,7 @@ They just wanna know where the planes at (Planes at)
 [Outro: Empire of the Sun]
 Catch me, I'm fallin' down
 Catch me, I'm fallin' down"
-Who I Am,Wiz Khalifa,"['hip hop', 'r&b', 'alternative', 'pop']","[Intro]
+Who I Am,Wiz Khalifa,"['hip hop', 'r&b']","[Intro]
 Yeah
 You are now tuned in to W.E.E.D
 I am your host, Mr. EZ Rider, ya dug?
@@ -2482,7 +2482,7 @@ They be runnin' up and showin' all this love
 'Cause they know who I am
 Didn't notice it, but now you're goin' nuts
 'Cause you know who I am"
-Let the Beat Build Freestyle,Fabolous,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse]
+Let the Beat Build Freestyle,Fabolous,"['hip hop', 'r&b']","[Verse]
 I came back for it like I left it, nigga
 You try me and get more than a ""E"" for effort, nigga
 My shorty don't curse, so she said eff her nigga
@@ -2515,7 +2515,7 @@ This is Loso, case you didn't know so
 Damn, the lights are coming on; guess it's time to go, so
 The end of the night, a real nigga need a real bitch
 And this is how getting money feel, bitch"
-Home of the Brave Shitty Mortal Kombat Version,Mr. Lif,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","Mr. Lif - “Home of the Brave”
+Home of the Brave Shitty Mortal Kombat Version,Mr. Lif,"['hip hop', 'r&b']","Mr. Lif - “Home of the Brave”
 [Emcee(s): Mr. Lif]
 [Producer(s): Mr. Lif]
 [Scratches: Fakts One]
@@ -2585,7 +2585,7 @@ But my eyes are wide-open and my TV is off
 Great 'cause I save on my electricity cost
 And you can wave that piece of shit flag if you dare
 But they killed us because we've been killing ‘em for years"
-The Message,Grandmaster Flash & The Furious Five,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Duke Bootee]
+The Message,Grandmaster Flash & The Furious Five,"['hip hop', 'r&b']","[Intro: Duke Bootee]
 It's like a jungle sometimes
 It makes me wonder how I keep from going under
 It's like a jungle sometimes
@@ -2754,7 +2754,7 @@ Get in the car, get in the car
 Get in the God—
 I said, ""Get in the car""
 Why is he doggin' us, man?"
-No Love,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro: Haddaway, Eminem, & Lil Wayne]
+No Love,Eminem,"['hip hop', 'r&b']","[Intro: Haddaway, Eminem, & Lil Wayne]
 Love, love
 Love, love, love
 [Mumbling chorus]
@@ -2882,7 +2882,7 @@ Ha, bitch, you get (No love)
 No! (No love) No! (No love)
 And I don't need you (No more)
 Ha, bitch, you get (No love)"
-The Real Slim Shady,Eminem,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz']","[Intro]
+The Real Slim Shady,Eminem,"['hip hop', 'r&b']","[Intro]
 May I have your attention, please?
 May I have your attention, please?
 Will the real Slim Shady please stand up?
@@ -3090,7 +3090,7 @@ Just gonna stand there and hear me cry?
 Well, that's all right because I love the way you lie
 I love the way you lie
 I love the way you lie"
-Cold Wind Blows,Eminem,"['hip hop', 'alternative', 'r&b']","[Produced by Just Blaze]
+Cold Wind Blows,Eminem,"['hip hop', 'r&b']","[Produced by Just Blaze]
 
 [Intro]
 'Cause some things just don't change
@@ -3212,7 +3212,7 @@ But I'll probably be this way 'til my dyin' day
 I don't know why I'm so, I'm so cold
 Mean things I don't mean to say
 I guess this is how you made me"
-Watch My Shoes,Lil Wayne,['hip hop'],"[Verse]
+Watch My Shoes,Lil Wayne,"['hip hop', 'r&b']","[Verse]
 OK, No Ceilings, motherfucker, good morning
 Dick in your mouth while you're yawning, I'm going in
 Gudda, why they started me? Marley, why they started me?
@@ -3406,7 +3406,7 @@ I'm infinite
 [Outro: Mr. Porter]
 '95 ('95), '96 ('96)
 And on, and on, and on, and on (And on)"
-Unforgettable,Drake,"['hip hop', 'r&b', 'dance']","[Intro: Aaliyah]
+Unforgettable,Drake,"['hip hop', 'dance', 'r&b']","[Intro: Aaliyah]
 Let me know, let me know
 Ahhh, let me know
 Let me know, let me know
@@ -3478,7 +3478,7 @@ Yeah, Drizzy we got 'em lil' bruh, unforgettable
 You’ll never forget this, ya understand me?
 Timeless homie, unforgettable
 Let me know, let me know"
-Winner,Jamie Foxx,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: T.I., Jamie Foxx & Justin Timberlake]
+Winner,Jamie Foxx,"['hip hop', 'r&b']","[Intro: T.I., Jamie Foxx & Justin Timberlake]
 T.I.P. (Yo, uh)
 Ay Jamie, JT (Oh)
 I'm 'bout to get back hot again man
@@ -3579,7 +3579,7 @@ Hey man, you thought a little vacation was gonna hold me back homeboy
 Man, I'm back man, brighter than ever
 You understand that?
 If you didn't like me then, ha, you gonna hate me now nigga"
-Good Love,Sheek Louch,['hip hop'],"[Intro]
+Good Love,Sheek Louch,"['hip hop', 'r&b']","[Intro]
 Hey, I'm looking for (Good love, yeah)
 Met a lot of women out there on tour
 Ran through 'em all but I'm just not sure (Good love, said I like that baby)
@@ -3661,7 +3661,7 @@ Good love, yeah
 Good love, said I like that baby
 Good love, yeah
 Just can't keep still"
-Beanie Mack Bitch,Beanie Sigel,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Just Blaze]
+Beanie Mack Bitch,Beanie Sigel,"['hip hop', 'r&b']","[Produced by Just Blaze]
 
 [Beanie Sigel]
 You know my name, bitch
@@ -3740,7 +3740,7 @@ BEANIE! Sigel was the name that they gave me
 BEANIE! Sigel was the name that they gave me
 BEANIE! Sigel was the name that they gave me
 BEANIE! Yeah, but guess who back"
-Arab Money Remix,Busta Rhymes,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Busta Rhymes & Ron Browz]
+Arab Money Remix,Busta Rhymes,"['hip hop', 'r&b']","[Intro: Busta Rhymes & Ron Browz]
 Ayo, somebody tell Steven Spielberg and George Lucas thank you for directing this movie!
 Hashi Miki Hallah! Means ""It's The Remix!""
 
@@ -3974,7 +3974,7 @@ And make it all light up
 Wait until the sun goes down
 We gon' make this bitch light up
 Even when the sun goes down I'ma make it go"
-Ghetto Supastar That Is What You Are,Pras,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Ghetto Supastar That Is What You Are,Pras,"['hip hop', 'dance', 'r&b']","[Intro]
 Man, man
 Look at the sky
 All the stars, man, the stars is beautiful tonight
@@ -4081,7 +4081,7 @@ We can rely on each other, uh-huh
 From one corner to another, uh-huh
 (Uh-huh, yeah)
 (Heeee, ahhh)"
-Thank You,MC Jin,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Jin]
+Thank You,MC Jin,"['hip hop', 'r&b']","[Jin]
 This feels good right here, uh
 I'm just happy to be here... I mean
 I gotta take a moment to thank those that made a difference
@@ -4205,7 +4205,7 @@ And I don't really drink like that, heh
 I love y'all, ""The Rest is History"" baby
 
 (I gotta thank, God; I wanna thank, y'all) {*4X*}"
-Froze Prose,J.J. Brown,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","Intro:
+Froze Prose,J.J. Brown,"['hip hop', 'r&b']","Intro:
 5 G's Productions
 
 [Block McCloud Speaking]
@@ -4307,7 +4307,7 @@ Jehovah's Witness with a sawed off and I'll ring your door
 Oh, I'll watch the exercise video and thought an ab crunch was new cereal
 Huh?
 [Hook]"
-POWER,Kanye West,"['hip hop', 'r&b', 'alternative']","[Produced by Andrew Dawson, Jeff Bhasker, Kanye West, Mike Dean & S1]
+POWER,Kanye West,"['hip hop', 'r&b']","[Produced by Andrew Dawson, Jeff Bhasker, Kanye West, Mike Dean & S1]
 
 [Intro: Kanye West]
 I'm living in that 21st century, doing something mean to it
@@ -4393,7 +4393,7 @@ Jumping out the window, letting everything go
 Letting everything go
 You got the power to let power go?
 (21st-century schizoid man)"
-Lose My Mind,Jeezy,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues']","[Intro: Jeezy]
+Lose My Mind,Jeezy,"['hip hop', 'r&b']","[Intro: Jeezy]
 Let's get it, shawty!
 Oh, this that shit right here, nigga
 What's up? Yeah! What's up?
@@ -4491,7 +4491,7 @@ What's up? (Nigga)
 Nigga, 103 (A-yo! A-yo!)
 Nigga, 103! (A-yo! Yo!)
 It go, it go..."
-Rock Bottom,Eminem,"['hip hop', 'r&b', 'alternative']","[Produced by Bass Brothers]
+Rock Bottom,Eminem,"['hip hop', 'r&b']","[Produced by Bass Brothers]
 
 [Intro]
 Ayo, this song is dedicated
@@ -4582,7 +4582,7 @@ That's rock bottom, when you want somethin' bad enough to steal
 That's rock bottom, when you feel like you've had it up to here
 'Cause you mad enough to scream, but you sad enough to tear
 That's rock bottom"
-Bad Meets Evil,Eminem,"['hip hop', 'r&b', 'alternative']","[Produced by Jeff Bass]
+Bad Meets Evil,Eminem,"['hip hop', 'r&b']","[Produced by Jeff Bass]
 
 [Intro: Cowboy (Jeff Bass)]
 I reckon you ain't familiar with these here parts
@@ -4683,7 +4683,7 @@ It's too bad they had to go out the way they did
 Got shot in the back comin' out of that old saloon
 But their spirits still live on 'til this day
 Shh, wait, did y'all hear that?"
-9AM in Dallas,Drake,"['hip hop', 'pop', 'r&b', 'alternative', 'jazz', 'blues', 'rock']","[Verse]
+9AM in Dallas,Drake,"['hip hop', 'pop', 'r&b']","[Verse]
 These are my One St. Thomas flows
 Me, my niggas and some Madonna hoes
 That look just like virgins but trust they down to go
@@ -4754,7 +4754,7 @@ Thank me later in this bitch wasssup
 Free Weezy in this bitch wasup
 June 15th in this bitch wasup
 Noel That’s it Ahhhhhh"
-Diamonds From Sierra Leone Remix,Kanye West,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Intro: Shirley Bassey]
+Diamonds From Sierra Leone Remix,Kanye West,"['hip hop', 'pop', 'r&b']","[Intro: Shirley Bassey]
 Diamonds are forever
 They are all I need to please me
 They can stimulate and tease me
@@ -4849,7 +4849,7 @@ Hahahahaha
 Good night!
 
 [Produced by Kanye West, Devo Springsteen and Jon Brion]"
-The Resistance,Drake,"['hip hop', 'r&b', 'alternative']","[Intro]
+The Resistance,Drake,"['hip hop', 'r&b']","[Intro]
 Yesterday when we were getting high
 You were invited, you woulda liked it
 I-I- I know you all too well
@@ -4928,7 +4928,7 @@ Did I just trade free time for camera time?
 Will I blow all of this money baby, hammer time?
 Yeah, I just need some closure
 Ain't no turning back for me, I'm in it 'til it's over"
-Up All Night,Drake,['hip hop'],"[Verse 1: Drake]
+Up All Night,Drake,"['hip hop', 'r&b']","[Verse 1: Drake]
 Kush rolled, glass full: I prefer the better things
 Niggas with no money act like money isn't everything
 I'm havin' a good time, they just trying to ruin it
@@ -5106,7 +5106,7 @@ Thank me later, yeah I know what I said (What I said)
 But later doesn't always come so instead
 It's okay, you could thank me now
 It's a- okay (Okay)"
-Jesus Walks,Kanye West,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Jesus Walks,Kanye West,"['hip hop', 'r&b']","[Intro]
 We at war
 We at war with terrorism, racism
 But most of all we at war with ourselves
@@ -5301,7 +5301,7 @@ You can sound the alarm, you can call out your guards
 You can fence in your yard, you can hold all the cards
 But I won't back down
 Oh no, I won't back down, oh no"
-Mahogany,Eric B. & Rakim,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative', 'rock']","[Verse 1]
+Mahogany,Eric B. & Rakim,"['hip hop', 'r&b']","[Verse 1]
 Me and Eric B was coolin’ at the Palladium
 Seen a all-world cover girl, I said hey lady I’m
 Sorry if you’re in a rush - don’t let me hold you up
@@ -5384,7 +5384,7 @@ She said she’d have my kids and help me make my next G
 Tell me I ain’t finessed mahogany
 
 [Produced by Eric B., Rakim, Paul C, and Large Professor]"
-Spaceship,Kanye West,"['hip hop', 'r&b', 'pop', 'jazz', 'blues']","[Produced by Kanye West]
+Spaceship,Kanye West,"['hip hop', 'r&b']","[Produced by Kanye West]
 
 [Chorus: Kanye West & GLC]
 I've been working this grave-shift
@@ -5523,7 +5523,7 @@ I wanna fly
 I said I want my chariot to pick me up
 And take a brother for a ride
 (Heaven knows, heaven knows)"
-Flashing Lights,Kanye West,"['hip hop', 'pop', 'r&b']","[Intro: Connie Mitchell]
+Flashing Lights,Kanye West,"['pop', 'hip hop', 'r&b']","[Intro: Connie Mitchell]
 Flashing lights (Lights, lights)
 Flashing lights (Lights, lights)
 Flashing lights (Lights, lights)
@@ -5587,7 +5587,7 @@ Flashing lights (Lights, lights)
 What do you know? Know
 Flashing lights (Lights, lights)
 Flashing lights (Lights, lights, lights, lights...)"
-If I Had,Eminem,"['hip hop', 'r&b', 'alternative']","[Intro]
+If I Had,Eminem,"['hip hop', 'r&b']","[Intro]
 ""Life,"" by Marshall Mathers
 What is life?
 Life is like a big obstacle in front of your optical to slow you down
@@ -5778,7 +5778,7 @@ In the trap, shawty said he need another one
 Told them call up Waka, he said ""What the fuck you want?""
 Pull up in the dunk followed by a yellow one
 So Icey, Fetti Gang, pussy keep them Tommy guns"
-Almost Famous,Eminem,['hip hop'],"[Intro]
+Almost Famous,Eminem,"['hip hop', 'r&b']","[Intro]
 I can almost taste it
 This shit makes no sense to me
 What does it all mean?
@@ -5890,7 +5890,7 @@ Higher than my opinion of these women's been lowered
 So bear witness to some biblical shit, there's a cold wind blowin'
 This world ain't gonna know what hit it
 He did it, he made it, he's finally famous"
-Underground,Eminem,"['hip hop', 'r&b', 'alternative']","[Intro]
+Underground,Eminem,"['hip hop', 'r&b']","[Intro]
 A lot of people ask me
 Where the fuck I've been at the last few years
 Shit, I don't know
@@ -6133,7 +6133,7 @@ Hahaha
 I say what I want
 And I don't want nothing
 'Cause I got everything, bitch"
-A Milli Mixtape Version,Lil Wayne,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Lil Wayne]
+A Milli Mixtape Version,Lil Wayne,"['hip hop', 'r&b']","[Intro: Lil Wayne]
 Bangladesh
 Young Money!
 You dig?
@@ -6252,7 +6252,7 @@ Hip-hop just ain't hip-hop without me
 [Outro: Lil Wayne]
 Young Moola, baby
 C3"
-Ridin,Chamillionaire,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: Chamillionaire]
+Ridin,Chamillionaire,"['hip hop', 'r&b']","[Chorus: Chamillionaire]
 They see me rollin', they hatin'
 Patrollin' and tryna catch me ridin' dirty
 Tryna catch me ridin' dirty, tryna catch me ridin' dirty
@@ -6375,7 +6375,7 @@ My music's so loud, I'm swangin'
 They hopin' that they gon' catch me ridin' dirty
 Tryna catch me ridin' dirty, tryna catch me ridin' dirty
 Tryna catch me ridin' dirty, tryna catch me ridin' dirty"
-We Made You,Eminem,"['hip hop', 'r&b', 'alternative']","[Intro: Eminem]
+We Made You,Eminem,"['hip hop', 'r&b']","[Intro: Eminem]
 Guess who? D'you miss me?
 Jessica Simpson, sing the chorus!
 
@@ -6497,7 +6497,7 @@ I can't wait, I'm going back
 Ha-ha, woo!
 Dr. Dre! 2020!
 Yeah!"
-Cant C Me,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro: George Clinton]
+Cant C Me,2Pac,"['hip hop', 'r&b']","[Intro: George Clinton]
 The blind stares of a million pairs of eyes
 Lookin' hard but won't realize
 That they will never see the P!
@@ -6610,7 +6610,7 @@ You can't see me
 Right between your eyes and you'll never realize
 Right before your eyes, you won't even realize
 Visualize what you can't see"
-Beautiful,Eminem,"['hip hop', 'r&b', 'alternative']","[Intro: Paul Rodgers]
+Beautiful,Eminem,"['hip hop', 'r&b']","[Intro: Paul Rodgers]
 Lately I've been hard to reach
 I've been too long on my own
 Everybody has a private world where they can be alone
@@ -6774,7 +6774,7 @@ Be proud of who you are
 Even if it sounds corny
 Don't never let no one tell you
 You ain't beautiful (So-oh-oh-oh-oh)"
-Jimmy Crack Corn,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro: Eminem & 50 Cent]
+Jimmy Crack Corn,Eminem,"['alternative', 'hip hop', 'r&b']","[Intro: Eminem & 50 Cent]
 Man! Let's go
 Hey yo, Fif'!
 Yeah?
@@ -6890,7 +6890,7 @@ I like that
 Haha, haha, haha, haha
 Hehehe
 You don't think they're gonna think we're really crazy, right?"
-Wasted,Lil Wayne,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Wasted,Lil Wayne,"['hip hop', 'r&b']","[Intro]
 Ha...
 Take it, FATBOI
 No Ceilings
@@ -6972,7 +6972,7 @@ As we look up—where did the ceilings go?
 [Outro]
 Hahaha
 No Ceilings"
-Houstatlantavegas,Drake,['hip hop'],"[Verse 1]
+Houstatlantavegas,Drake,"['hip hop', 'r&b']","[Verse 1]
 Hey there, pretty girl
 You know exactly what you got
 And I don't blame you at all
@@ -7049,7 +7049,7 @@ And she dance to the song
 And she dance to the song
 And it go, ""Hey now, now, watch her go down""
 Oh, oh, oh"
-Im So Over You,Lil Wayne,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Lil Wayne]
+Im So Over You,Lil Wayne,"['hip hop', 'r&b']","[Intro: Lil Wayne]
 Turn it up
 Turn it up
 Turn it up
@@ -7096,7 +7096,7 @@ Don't know what to believe, don't know what to believe
 Don't know what to believe, don't care what you believe!
 Cause I'm so over you, yeah I'm so over you
 Yeah I fly over you, cause I'm so over you"
-Nissan Honda Chevy Remix,Joell Ortiz,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook]
+Nissan Honda Chevy Remix,Joell Ortiz,"['hip hop', 'r&b']","[Hook]
 Nissan, Honda, Chevy, Nissan, Honda, Chevy
 Nissan, Honda, Chevy, my stash is never empty baby
 Nissan, Honda, Chevy, Nissan, Honda, Chevy
@@ -7138,7 +7138,7 @@ Used to watch my uncle do it, scoop 'em up in the Buick
 One chick Dolores turned fiend, she was gorgeous
 Speakin' about cars, I think we still got a Taurus
 I ain't gon' mention bout the color cause it's still takin' orders"
-Bout It Bout It,Cam'ron,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1 - Cam'ron]
+Bout It Bout It,Cam'ron,"['hip hop', 'r&b']","[Verse 1 - Cam'ron]
 I represent where them killers at
 145th and Broadway. You get your head cracked
 Get your legs snapped, arm-twist, ribs cracked
@@ -7310,7 +7310,7 @@ Comin' home again
 Loy-oy-al, loy-oy-al
 Comin' home again
 Maybe we can start again"
-Resurrection,Common,"['hip hop', 'alternative', 'r&b', 'pop', 'jazz']","[Scratched]
+Resurrection,Common,"['hip hop', 'r&b']","[Scratched]
 ""Resurrection""
 
 [Intro]
@@ -7377,7 +7377,7 @@ And I'm gone with the storm
 [Scratched Hook]
 ""Resurrection""
 [Produced by: No I.D.]"
-Criminal,Eminem,"['hip hop', 'r&b', 'alternative', 'jazz', 'pop']","[Intro]
+Criminal,Eminem,"['hip hop', 'r&b']","[Intro]
 A lot of people ask me stupid fuckin' questions
 A lot of people think that what I say on a record
 Or what I talk about on a record
@@ -7522,7 +7522,7 @@ And keep goin', I don't take shit from no one
 
 [Outro]
 (I am) I'm a criminal!"
-Re:Definition,Black Star,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: Mos Def]
+Re:Definition,Black Star,"['hip hop', 'r&b']","[Chorus: Mos Def]
 One, two, three, Mos Def and Talib Kweli
 We came to rock it on to the tip-top
 Best alliance in hip-hop, Y-O-yo!
@@ -7590,7 +7590,7 @@ Yes, we is rulin' hip-hop
 Talib Kweli is rulin' hip-hop
 Say we Black Star, we rule hip-hop-ah-ahh-ah-ahh-ahh
 Whoahhhh!"
-Hip-Hop Saved My Life,Lupe Fiasco,"['hip hop', 'r&b', 'alternative']","[Intro: Lupe Fiasco]
+Hip-Hop Saved My Life,Lupe Fiasco,"['hip hop', 'r&b']","[Intro: Lupe Fiasco]
 Dedicate, dedicate
 This one right here goes out
 To my homie with the dream, nah mean?
@@ -7692,7 +7692,7 @@ Hip-Hop, you saved my life
 [Outro: Nikki Jean]
 Hip-Hop, you saved my life
 Hip-Hop, you saved my life"
-Seduction,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro: Eminem & Sly Jordan]
+Seduction,Eminem,"['hip hop', 'r&b']","[Intro: Eminem & Sly Jordan]
 Like a verbal seduction when
 Seduction when I tell 'em girls on the floor
 I don't know, man (Geh-geh-geh)
@@ -7805,7 +7805,7 @@ Ain't nobody who's as good at what I do
 'Cause one minute she loves you, the next she don't
 She's been stolen from you
 (It's like a verbal seduction when)"
-Must Be the Ganja,Eminem,['hip hop'],"[Intro]
+Must Be the Ganja,Eminem,"['hip hop', 'r&b']","[Intro]
 Yeah, ohh, yeah yeah, ohh
 I feel like dancing, I feel like dancing
 I smell something in the air that's making me (High)
@@ -7998,7 +7998,7 @@ So let's have us a little bash
 And if anyone asks, it ain't no one but us trash
 You don't know, you better ask somebody
 'Cause we're having a white trash party (White trash party)"
-So Bad,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro: Eminem]
+So Bad,Eminem,"['hip hop', 'r&b']","[Intro: Eminem]
 Yeah, haha
 You feel that, baby?
 Yeah, I feel it too, damn
@@ -8131,7 +8131,7 @@ Dr. Dre
 2010
 Lightyears ahead of you (Haha)
 Woo!"
-Space Bound,Eminem,"['hip hop', 'r&b', 'alternative']","[Verse 1: Eminem]
+Space Bound,Eminem,"['hip hop', 'r&b']","[Verse 1: Eminem]
 We touch, I feel a rush; we clutch, it isn't much
 But it's enough to make me wonder what's in store for us
 It's lust, it's torturous, you must be a sorceress
@@ -8209,7 +8209,7 @@ And I'm aimin' right at you, right at you
 250,000 miles on a clear night in June
 And I'm so lost without you
 Without you, without you"
-25 to Life,Eminem,"['hip hop', 'r&b', 'alternative', 'jazz', 'pop']","[Produced by DJ Khalil & Danny Keyz]
+25 to Life,Eminem,"['hip hop', 'r&b']","[Produced by DJ Khalil & Danny Keyz]
 
 [Chorus: Liz Rodrigues & Eminem]
 Too late for the other side
@@ -8462,7 +8462,7 @@ Can't be your Superman, your Superman, your Superman
 Can't be your Superman, can't be your Superman
 I can't be your Superman, can't be your Superman
 Can't be your Superman, your Superman, your Superman"
-On Fire,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro]
+On Fire,Eminem,"['hip hop', 'r&b']","[Intro]
 (Haha, yeah, haha)
 You know, critics, man
 Critics never got nothin' nice to say, man
@@ -8631,7 +8631,7 @@ I'm gone, yeah yeah yeah
 Now I'm all gone, yeah yeah yeah
 Now I'm all gone, yeah yeah yeah
 Now I'm all gone, gone, gone, gone, I'm gone"
-Whatz Ya Phone ,2Pac,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: 2Pac]
+Whatz Ya Phone ,2Pac,"['hip hop', 'r&b']","[Intro: 2Pac]
 What's your phone number?
 
 [Verse 1: 2Pac]
@@ -8784,7 +8784,7 @@ Bye, boo
 Haha, yeah, I'm finna get some pussy, nigga
 Heh, get some pussy, hahahaha
 What's ya phone number?"
-Dear Mama,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Dear Mama,2Pac,"['hip hop', 'r&b']","[Intro]
 You are appreciated
 
 [Verse 1]
@@ -8874,7 +8874,7 @@ Sweet lady, place no one above ya (You are appreciated)
 Sweet lady, don't you know we love ya? (Dear Mama)
 Sweet lady, lady (Dear Mama)
 Lady, lady"
-All I Need Remix,Method Man,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: Mary J. Blige & Notorious B.I.G.]
+All I Need Remix,Method Man,"['hip hop', 'r&b']","[Chorus: Mary J. Blige & Notorious B.I.G.]
 You're all, I need
 Lie together, cry together
 I swear to God I hope we fucking die together
@@ -8971,7 +8971,7 @@ No romance without finance for now
 Baby, please, '95
 Ticallion Stallion, ha ha, ha ha
 Man woman and child, yeah"
-Cinderella Man,Eminem,"['hip hop', 'r&b', 'alternative', 'jazz', 'pop']","[Intro: Eminem & Kobe]
+Cinderella Man,Eminem,"['hip hop', 'r&b']","[Intro: Eminem & Kobe]
 Yeah, you know, technically
 I'm not even really supposed to be here right now
 So fuck it, might as well make the most of it
@@ -9079,7 +9079,7 @@ Music is my time machine
 So call me
 Cinderella Man, Cinderella Man
 Cinderella Man, Cinderella Man"
-Damn,YoungBloodZ,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Sean Paul]
+Damn,YoungBloodZ,"['hip hop', 'r&b']","[Verse 1: Sean Paul]
 They calling me to come back to the streets
 Sean P., aka ""A Sharp Crease""
 Said it was necessary, these sucka niggas out here very scary
@@ -9173,7 +9173,7 @@ If you don't give a damn, we don't give a fuck (Hey!)
 Don't start no shit, it won't be no shit!
 Don't start no shit, it won't be no shit!
 Don't start no shit, it won't be no shit!)"
-Whoa,Black Rob,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Whoa,Black Rob,"['hip hop', 'r&b']","[Intro]
 I'm getting ready to put y'all up on something, man
 Yo, when you see something ill, know what I mean?
 That shit is whoa, anything ill you see is whoa
@@ -9270,7 +9270,7 @@ And whoever I forgot on this shit is, whoa
 The beat I got from big Buckwild is whoa
 That nigga Black Rob on the mic is whoa
 My whole fucking flow on the mic is whoa"
-Rap City Freestyle,Cam'ron,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro - Big Tigga]
+Rap City Freestyle,Cam'ron,"['hip hop', 'r&b']","[Intro - Big Tigga]
 It's going down! Rap City the Basement, Aphrodita
 Juelz! Twin! Cam's definitely in the building
 
@@ -9349,7 +9349,7 @@ Like its the movie theater, but its the Uzi area
 Hootie-hoo for hootie-hoo, produce hysteria
 And me, I ain't no coattail snitch
 I did the Motel 6 with them wholesale bricks"
-Going Through Changes,Eminem,['hip hop'],"[Chorus: Ozzy Osbourne]
+Going Through Changes,Eminem,"['hip hop', 'r&b']","[Chorus: Ozzy Osbourne]
 I'm going through changes
 I'm going through changes
 
@@ -9449,7 +9449,7 @@ I guess I'm—
 [Chorus: Eminem & Ozzy Osbourne]
 (I'm going through changes) Don’t know what I’m gonna do
 (I'm going through changes) But I just keep on going through changes"
-Untitled,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro: Eminem & Lesley Gore]
+Untitled,Eminem,"['hip hop', 'r&b']","[Intro: Eminem & Lesley Gore]
 You don't own me
 Nah, man—not quite finished yet
 I'm not just one of your many toys
@@ -9527,7 +9527,7 @@ Thank you for coming out
 I hope you enjoyed the show
 'Til next time (Ha-ha)
 Peace (Peace, peace)"
-Find Your Love,Drake,['r&b'],"[Verse 1]
+Find Your Love,Drake,"['pop', 'r&b', 'hip hop', 'jazz', 'blues']","[Verse 1]
 I'm more than just an option (Hey, hey, hey)
 Refuse to be forgotten (Hey, hey, hey)
 I took a chance with my heart (Hey, hey, hey)
@@ -9573,7 +9573,7 @@ I better find your loving, I better find your heart
 I better find your loving
 I bet if I give all my love then nothing's gonna tear us apart
 I bet if I give all my love then nothing's gonna tear us apart"
-Youre Never Over,Eminem,"['hip hop', 'r&b', 'alternative']","[Chorus]
+Youre Never Over,Eminem,"['hip hop', 'r&b']","[Chorus]
 The days are cold, livin' without you
 The nights are long, I'm growin' older
 I miss the days of old, thinkin' about you
@@ -9668,7 +9668,7 @@ And I miss you, oh-oh
 I just miss you, oh-oh
 I just miss you, oh-oh
 Homie, I'll never forget you, no"
-Hype Boys,Sway,['hip hop'],"[Verse 1]
+Hype Boys,Sway,"['hip hop', 'r&b']","[Verse 1]
 Hype boys, hype boys, everyone's a killer
 Drug dealer with a nine mill-a
 That's not sensible, and I can sense the bull
@@ -9778,7 +9778,7 @@ On the mic boys, mic boys
 (And everyone's a bad man now)
 And the semi goes bratatatatatatatata (Yeah right)
 And the semi goes ratata, bang, bang"
-Doin It Again,The Roots,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook: John Legend]
+Doin It Again,The Roots,"['hip hop', 'r&b']","[Hook: John Legend]
 I keep it doin' it again
 Oh, I'm doin' it again
 Yes, I'm doin' it again
@@ -9900,7 +9900,7 @@ Hot jacuzzis, watching movies, Glock and uzis
 Shots of Louis, busting cuties popping jeweries
 Ooh, Ultramag' MC in a M3
 Whole body tatted straight up outta NP"
-Intro,J.R. Writer,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1]
+Intro,J.R. Writer,"['hip hop', 'r&b']","[Verse 1]
 Get it clear -- hater, I'm here
 Still Standing, welcome to the tape of the year
 Haze in the air, I done turned it up another notch
@@ -9950,7 +9950,7 @@ Still scrambling cause yes, I'm a real champion
 Of course, come mess with a real cannon
 You thought I fell off, well welcome to Still Standing
 Writer!"
-GOAT,J.R. Writer,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1 - J.R. Writer]
+GOAT,J.R. Writer,"['hip hop', 'r&b']","[Verse 1 - J.R. Writer]
 I'm the greatest of all time
 Nigga, ask around -- I've been great for a long time
 On grind, I be amazing, I'm off mines
@@ -10002,7 +10002,7 @@ You jokes could get smoked like incense, motherfucker
 Gee I'm hung, but I ain't get lynched, motherfucker
 That's why I walk with a limp, motherfucker
 I'm a pimp, motherfucker"
-Fireworks,Drake,['hip hop'],"[Verse 1: Drake]
+Fireworks,Drake,"['hip hop', 'r&b']","[Verse 1: Drake]
 Money just changed everything
 I wonder how life without it would go
 From the concrete who knew that a flower would grow
@@ -10104,7 +10104,7 @@ All I see is fireworks
 All I see is fireworks
 Taking off like fireworks
 Taking off like—Oh"
-Show Me a Good Time,Drake,['hip hop'],"[Pre-Chorus]
+Show Me a Good Time,Drake,"['hip hop', 'r&b']","[Pre-Chorus]
 How did I end up right here with you?
 After all the things that I've been through?
 It's been one of those days you try and forget about
@@ -10305,7 +10305,7 @@ You—you fancy huh? Oh, you fancy, huh?
 Nails done, hair done, everything did
 Nails done, hair done, everything did
 Oh, you fancy, huh? (Fancy)"
-Champions,Metta Sandiford-Artest,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Ron Artest]
+Champions,Metta Sandiford-Artest,"['hip hop', 'r&b']","[Ron Artest]
 Moment of silence for the champions
 For those who make goin' hard a lifestyle
 Never waver
@@ -10412,7 +10412,7 @@ Can't nobody compare with us
 There ain't no competitors
 No wonder why we are
 We are the champions"
-45th,Juelz Santana,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Cam'Ron] up
+45th,Juelz Santana,"['hip hop', 'r&b']","[Cam'Ron] up
 Uh, Uh Yeah
 We back in the fucking building
 Diplomats, Young Guru, Jim Jones, Santana, Freaky
@@ -10505,7 +10505,7 @@ You don't sit in the dirt, clips'll disperse
 Don't play with this, I'm so great at this
 Santana, bandana, release the eight a spit (COME ON...)
 [Hook]"
-Gully TV DVD Freestyle,Loaded Lux,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","I been rocking since the cradle
+Gully TV DVD Freestyle,Loaded Lux,"['hip hop', 'r&b']","I been rocking since the cradle
 Barfight, my jaw tight, my chin is stable
 My kenel cable won't be stripped by any label
 We gots to sticks together like chinks at the dinner table
@@ -10521,7 +10521,7 @@ I got scripts in the mail, paint the slum block vivid
 Where that young Pac kick it there's always some cop frisking
 Heavy metal banging and we don't let the punks rock
 And a nigga with the jumpshot clicking always the gunshot victim"
-Crumblin Erb,OutKast,"['hip hop', 'r&b', 'pop', 'jazz', 'dance', 'blues']","[Produced by Organized Noize]
+Crumblin Erb,OutKast,"['dance', 'hip hop', 'r&b']","[Produced by Organized Noize]
 
 [Verse 1: André 3000]
 Yessuh, let me dig into your brain, folks falling like rain
@@ -10625,7 +10625,7 @@ Niggas killing niggas they don't understand (that's the master plan)
 I'm just crumblin' erb, I'm just crumblin' erb
 There's only so much time left in this crazy world
 I'm just crumblin' erb, I'm just crumblin' erb"
-Dear God 2.0,The Roots,"['hip hop', 'r&b', 'jazz', 'blues', 'alternative', 'pop']","[Hook: Jim James]
+Dear God 2.0,The Roots,"['blues', 'hip hop', 'jazz', 'r&b']","[Hook: Jim James]
 Dear God, I'm trying hard to reach you
 Dear God, I see your face in all I do
 Sometimes, it's so hard to believe in
@@ -10681,7 +10681,7 @@ A second is a minute, every hour's infinite
 Dear God, I'm trying hard to reach you
 Dear God, I see your face in all I do
 Sometimes, it's so hard to believe in"
-How I Got Over,The Roots,['hip hop'],"[Intro: Black Thought]
+How I Got Over,The Roots,"['hip hop', 'r&b']","[Intro: Black Thought]
 Ugh, uh-huh
 Ugh, uh-huh
 
@@ -10773,7 +10773,7 @@ Out on the streets, where I grew up
 First thing they teach you is not to give a fuck
 That type of thinking can't get you nowhere
 Someone has to care"
-Forgot About Dre,Dr. Dre,"['hip hop', 'r&b', 'pop', 'jazz']","[Verse 1: Dr. Dre]
+Forgot About Dre,Dr. Dre,"['hip hop', 'r&b']","[Verse 1: Dr. Dre]
 Y'all know me, still the same OG
 But I been low-key
 Hated on by most these niggas
@@ -10896,7 +10896,7 @@ Nowadays, everybody wanna talk like they got somethin' to say
 But nothin' comes out when they move their lips
 Just a bunch of gibberish
 And motherfuckers act like they forgot about Dre"
-The Fire,The Roots,"['hip hop', 'r&b', 'jazz', 'pop', 'alternative']","[Intro: John Legend]
+The Fire,The Roots,"['hip hop', 'r&b']","[Intro: John Legend]
 Ohhhh
 The fire, the fire
 Ohhhh
@@ -10977,7 +10977,7 @@ Ohhhh
 The fire, inside you
 The fire, inside you
 The fire, inside you"
-Just the Two of Us,Eminem,['hip hop'],"[Produced by Bass Brothers]
+Just the Two of Us,Eminem,"['hip hop', 'r&b']","[Produced by Bass Brothers]
 
 [Intro]
 Baby, your dada loves you
@@ -11139,7 +11139,7 @@ And the Book of Right On is right on, it was right on
 [Outro]
 Take it to the very top
 Another track, I'ma do the snare roll"
-Hustla,The Roots,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Black Thought]
+Hustla,The Roots,"['hip hop', 'r&b']","[Verse 1: Black Thought]
 Let me tell you what priceless is, some advice to give
 A sacrifice is what I made for the wife and kids
 They say life's a bitch, but it's one life to live
@@ -11193,7 +11193,7 @@ Please let him be a hustla, baby be a hustla
 Hope my baby boy grows up to be a hustla
 Better be a hustla, baby be a hustla
 If not, then you're only a customer"
-Walk Alone,The Roots,"['hip hop', 'r&b', 'jazz', 'blues', 'pop']","[Verse 1: Truck North]
+Walk Alone,The Roots,"['hip hop', 'r&b', 'jazz']","[Verse 1: Truck North]
 Trapped, no shield, no sword
 The unbeaten path got my soul so sore
 Allured by the lust, something money can't cure
@@ -11353,7 +11353,7 @@ Is gonna be the day, is gonna be the day
 Is gonna be the day, is gonna be the day
 Is gonna be the day, is gonna be the day
 Is gonna be the day"
-Black Rose,Klashnekoff,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Klashnekoff]
+Black Rose,Klashnekoff,"['hip hop', 'r&b']","[Verse 1: Klashnekoff]
 This is dedicated to a black rose, I bucked her up on road
 Skin made of gold and a cocoa butter glow
 Got the combo on the go, gave the combos to the codes
@@ -11420,7 +11420,7 @@ I still soldier forth holding your picture close
 Feel (I wanna shout), feel
 Something in the way you make me feel (Oh)
 Feel (You make me feel), feel (I tell you, baby)"""
-Acknowledge,Masta Ace,"['hip hop', 'r&b', 'alternative', 'pop']","[Hook]
+Acknowledge,Masta Ace,"['hip hop', 'r&b']","[Hook]
 Pay homage, respect
 Yeah, one-two
 Acknowledge the rep
@@ -11501,7 +11501,7 @@ Fuckin' with me, you better off tryin' to hit lotto
 And don't answer back, this is hard shit to follow
 And you can't spit nigga, so you obviously must swallow
 Motherfucker"
-Radio Daze,The Roots,"['hip hop', 'r&b', 'pop']","[Hook: Dice Raw]
+Radio Daze,The Roots,"['hip hop', 'r&b']","[Hook: Dice Raw]
 And the radio daze kept us in the dark
 And the satellite age brings us to the light
 Some feeling the pinch, some feeling the bite
@@ -11908,7 +11908,7 @@ Well we gon' be livin' like this for the rest of tonight
 And you know they gon' be bangin' this shit
 For the rest of our lives, so live fast, and die young
 Live fast, and die young, live fast, and die young"
-What Goes Around,Nas,['hip hop'],"[Produced by Salaam Remi]
+What Goes Around,Nas,"['hip hop', 'r&b']","[Produced by Salaam Remi]
 
 [Intro: Nas]
 Yeah
@@ -12161,7 +12161,7 @@ The world, the world, the WORLD...
 It is my distinct honor, and privilege to introduce
 The next President of the United States - Barack Obama
 {*crowd cheers LOUDLY*}"
-Hola Hovito,JAY-Z,['dance'],"[Intro]
+Hola Hovito,JAY-Z,"['hip hop', 'dance', 'r&b']","[Intro]
 J (Uh), A (Uh-uh), Y (Uh-uh-uh)
 This that hop I'm talkin' 'bout right here, Timbo
 I can't be stopped when it hop like this, family, uh
@@ -12249,7 +12249,7 @@ Hola, Hovito
 Hola, Hovito
 Yeah, yeah, that's what they sayin' when that music get to bangin'
 Put it down for my people"
-The Whole World,OutKast,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Andre 3000]
+The Whole World,OutKast,"['hip hop', 'r&b']","[Intro: Andre 3000]
 ""Okay, here we go...""
 Yeah, I'm afraid, like I'm scared as a dog
 But I've got a new song, and I want y'all to sing along
@@ -12353,7 +12353,7 @@ And the whole world loves it when you're in the news
 (Bah bah-da, bah bah bah-da da!)
 And the whole world loves it when you sing the blues
 (Bah bah-da, bah bah bah-da da!)"
-Amazing,Kanye West,"['hip hop', 'alternative']","[Verse 1: Kanye West]
+Amazing,Kanye West,"['hip hop', 'r&b']","[Verse 1: Kanye West]
 It's amazing, I'm the reason
 Everybody fired up this evening
 I'm exhausted, barely breathing
@@ -12414,7 +12414,7 @@ So amazing, so amazing, so amazing, it's amazing
 So amazing, so amazing, so amazing, it's amazing
 So amazing, so amazing, so amazing, it's amazing
 So amazing, so amazing, so amazing, it's amazing"
-Whos the Mack?,Ice Cube,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Produced by Sir Jinx & The Bomb Squad]
+Whos the Mack?,Ice Cube,"['hip hop', 'r&b']","[Produced by Sir Jinx & The Bomb Squad]
 
 [Intro]
 One of these motherfuckers is different
@@ -12505,7 +12505,7 @@ Straight gangsta Mack
 Straight gangsta Mack
 Straight gangsta Mack
 Straight gangsta Mack"
-Put On,Jeezy,['hip hop'],"[Intro: Young Jeezy]
+Put On,Jeezy,"['hip hop', 'r&b']","[Intro: Young Jeezy]
 I put on, I put on, I put on
 I put on for my city, on-on for my city
 I put on for my city, on-on for my city
@@ -12603,7 +12603,7 @@ I see those flashing lights
 Let me see what we have tonight
 I'm high as a satellite
 I see those flashing lights"
-Microphone Freestyle,Eminem,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1]
+Microphone Freestyle,Eminem,"['hip hop', 'r&b']","[Verse 1]
 Once again, it's the sinister cynical minister Shady
 Kryptonite to Superman, he's a dentist to Amy
 Administerer of the pain, he just finished huffin' the paint
@@ -12654,7 +12654,7 @@ The Real Slim Shady's entered the buildin'
 There's nothing but crumbled leaves and tumbleweeds up in this bitch
 Mildred, he's ill with it, he still shouldn't be healed
 There's no one as sick as he, MC's will get fricassed on the grill, then"
-3 a.m.,Eminem,"['hip hop', 'r&b', 'alternative']","[Intro]
+3 a.m.,Eminem,"['hip hop', 'r&b']","[Intro]
 There is no escaping (Yo)
 There's no place to hide (Ayo)
 You scream, ""Someone save me!"" (Yo)
@@ -12768,7 +12768,7 @@ Yo, yo, ayo (Evil… rise)
 Yo, yo, ayo (Evil… rise)
 (Evil… rise)
 (Evil… rise)"
-Throw It In The Bag,Lil Wayne,"['hip hop', 'alternative']","[Chorus: The-Dream & Lil Wayne]
+Throw It In The Bag,Lil Wayne,"['hip hop', 'r&b']","[Chorus: The-Dream & Lil Wayne]
 She all on me 'cause all I do is
 Ride around in Bentley coupes
 Got no needs, she got me
@@ -12859,7 +12859,7 @@ All we do is shop until we drop
 All—All—All—All—All— (Young Money)
 All we do is shop until we drop
 Right there on the floor (Gone!)"
-I Can’t Go to Sleep,Wu-Tang Clan,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Ghostface Killah]
+I Can’t Go to Sleep,Wu-Tang Clan,"['hip hop', 'r&b']","[Verse 1: Ghostface Killah]
 The technique is ill, son, watch how I spill one
 Peace to Biggie, 2Pac, Big L, and Big Pun
 Havoc on the streets of Staten, snitches
@@ -12927,7 +12927,7 @@ Don't let the game make you lose your head
 You should be calling the shots instead
 The power is in your hands
 Stop all this crying, and be a man"
-Can It Be All So Simple / Intermission,Wu-Tang Clan,"['hip hop', 'r&b', 'pop']","[Skit]
+Can It Be All So Simple / Intermission,Wu-Tang Clan,"['hip hop', 'r&b']","[Skit]
 [RZA]: Fuck yo, we gotta get this fucking loot baby
 We gotta get this loot
 Yo back, remember back in the days
@@ -13102,7 +13102,7 @@ We ain't tryin' to hop in and hop out right quick
 Know what I'm sayin'?
 We out for the Gusto, and we gon' keep it raw
 You know what I'm sayin'? (Word)"
-Triumph,Wu-Tang Clan,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Ol' Dirty Bastard]
+Triumph,Wu-Tang Clan,"['hip hop', 'r&b']","[Intro: Ol' Dirty Bastard]
 What? Y'all thought y'all wasn't gonna see me?
 I'm the Osiris of this shit
 Wu-Tang is here forever, motherfuckers
@@ -13445,7 +13445,7 @@ Now no life to live, doc says two more years
 So after the laughter I guess comes the tears
 [Chorus]
 After laughter comes tears"
-What They Do,The Roots,"['hip hop', 'r&b', 'alternative']","[Chorus: Raphael Saadiq]
+What They Do,The Roots,"['hip hop', 'r&b']","[Chorus: Raphael Saadiq]
 Never do what they do, what they do, what they do
 Never do what they do, what they do, what they do
 
@@ -13517,7 +13517,7 @@ Never do what they do, what they do, what they do
 Never do what they do, what they do, what they do
 Never do what they do, what they do, what they do
 Never do what they do, what they do, what they do"
-The Lesson Pt. 1,The Roots,"['hip hop', 'r&b', 'alternative']","[Verse 1: Black Thought]
+The Lesson Pt. 1,The Roots,"['hip hop', 'r&b']","[Verse 1: Black Thought]
 Lyrically versatile, my rap definition is wild
 I wrote graffiti as a juvenile
 Restin' on deuce trey and used to boost gray Kangol's
@@ -13603,7 +13603,7 @@ When I grab the microphone, it's like summertime
 Laid back, to recline in my La-Z-Boy chair
 Dice Raw, the Wild Noid, I'm the fuck up outta here
 [Instrumental outro]"
-Adrenaline,The Roots,"['hip hop', 'alternative', 'r&b', 'jazz', 'pop', 'rock', 'blues']","[Chorus: Black Thought]
+Adrenaline,The Roots,"['hip hop', 'r&b']","[Chorus: Black Thought]
 Once again, 'gain, once again, 'gain
 Once again, 'gain, 'gain, ladies and gentlemen
 Once again, 'gain, once again, 'gain
@@ -13731,7 +13731,7 @@ Once again, 'gain, once again, 'gain
 Once again, 'gain, 'gain, ladies and gentlemen
 Once again, 'gain, once again, 'gain
 Once again, 'gain, 'gain, yo, Adrenaline"
-The Seed 2.0,The Roots,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Black Thought]
+The Seed 2.0,The Roots,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Verse 1: Black Thought]
 Knocked up 9 months ago
 And what she finna have? She don't know
 She want neo-soul, this hip-hop is old
@@ -13808,7 +13808,7 @@ I would name her ""Rock-n-roll""
 I would name her ""Rock-n-roll""
 I would name her ""Rock-n-roll"", yeah
 I would name it ""Rock-n-roll"""
-I Can,Nas,['hip hop'],"[Intro: Children's Choir]
+I Can,Nas,"['hip hop', 'r&b']","[Intro: Children's Choir]
 I know I can
 Be what I wanna be
 If I work hard at it
@@ -13915,7 +13915,7 @@ Save the music, y'all
 Save the music
 
 [Produced by Salaam Remi]"
-Past My Shades,B.o.B,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: B.o.B]
+Past My Shades,B.o.B,"['hip hop', 'r&b']","[Intro: B.o.B]
 If you asked me what's on my mind, you probably won't believe it
 'Cause if life was one big pool, I'd be in the deep end
 So I play my role and never ever speak it, like a secret
@@ -13980,7 +13980,7 @@ And you can't see past my shades
 Past my shades, past my shades
 And you can't see past my shades
 Past my shades, past my shades"
-Karaoke Night,MC Jin,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Jin]
+Karaoke Night,MC Jin,"['hip hop', 'r&b']","[Jin]
 Ladies and gentlemen
 Welcome to the world famous ""Karaoke Night"" at the Ruff Ryder Lounge
 {*clapping*} Tonight we gon' try somethin a little different
@@ -14053,7 +14053,7 @@ While the deacon's speakin at church - ""Oh Lord!""
 Aiyyo Jin, make sure you bring me to China (y'know?)
 So I can get all the fuckin new Nikes
 Camcorders and all that, yeah"
-Ready or Not,Fugees,"['hip hop', 'r&b', 'pop']","[Chorus: Lauryn Hill & Wyclef Jean]
+Ready or Not,Fugees,"['hip hop', 'r&b']","[Chorus: Lauryn Hill & Wyclef Jean]
 Ready or not, here I come, you can't hide
 Gonna find you and take it slowly
 Ready or not (Uh-huh), here I come, you can't hide
@@ -14223,7 +14223,7 @@ Slaughterhouse equals swine flu, are South flying
 We do it to try to do without tryin' (Slaughterhouse!)
 'Cause to it's us it's so easy
 Where's ""Jumpoff"" Joe Beezy?"
-Cum on Everybody,Eminem,"['hip hop', 'r&b', 'alternative']","[Produced by Bass Brothers]
+Cum on Everybody,Eminem,"['hip hop', 'r&b']","[Produced by Bass Brothers]
 
 [Intro]
 (Ha-ha-ha-ha-ha) Yo, mic check
@@ -14333,7 +14333,7 @@ Cum on everybody (Get down tonight)
 Cum on everybody (Get down tonight)
 Cum on everybody (Get down tonight)
 Cum on everybody (Get down tonight)"
-Warning,Nicki Minaj,['r&b'],"[Nicki Minaj]
+Warning,Nicki Minaj,"['hip hop', 'r&b']","[Nicki Minaj]
 Who the hell is this?
 Calling me at 12:47 in the night
 While I'm watching the fight
@@ -14398,7 +14398,7 @@ Leave all them foul bitches wet
 I give a fuck about you and your bum crew
 Mami I'm the truth, they salute when I come through
 I'm not running bitch, I bust my gun, hold on I hear somebody coming"
-Things Done Changed,The Notorious B.I.G.,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Chorus]
+Things Done Changed,The Notorious B.I.G.,"['hip hop', 'r&b']","[Chorus]
 Back in the day
 Things done changed on this side
 Remember they used to thump, but now they blast, right? (Uh)
@@ -14520,7 +14520,7 @@ Remember they used to thump, but now they blast, right?
 Back in the day
 Things done changed on this side
 Remember they used to thump, but now they blast, right?"
-Brave in the Heart,Big Pun,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Triple Seis]
+Brave in the Heart,Big Pun,"['hip hop', 'r&b']","[Verse 1: Triple Seis]
 I'll battle you all, from the charts to ghetto stars
 Face Triple Seis: the God of War like Mars
 That leave MC's smashed by my Squad
@@ -14620,7 +14620,7 @@ Hungry and shit, it don't get more lovely than this
 Blow a hole through your ribs just for runnin' your lips
 The street's a trip: either you deep or you sleep with the fish
 I keep a fifth for them niggas that's seekin' to flip"
-Erase Me,Kid Cudi,"['hip hop', 'pop', 'rock', 'r&b', 'alternative', 'jazz', 'blues']","[Verse 1: Kid Cudi]
+Erase Me,Kid Cudi,"['hip hop', 'pop', 'rock', 'r&b', 'metal', 'alternative', 'blues', 'jazz']","[Verse 1: Kid Cudi]
 She said I don't spend time like I really should
 She said she don't know me anymore
 I think she hates me deep down, I know she does
@@ -14677,7 +14677,7 @@ I keep on running, keep on running
 And nothing works, I can't get away from you, no
 I keep on ducking, keep on ducking you, nothing helps
 I can't stop missing you"
-Old Times Sake,Eminem,['hip hop'],"[Intro: Eminem]
+Old Times Sake,Eminem,"['hip hop', 'r&b']","[Intro: Eminem]
 Good evening
 This is your fucking captain speaking
 We will soon be reaching an altitude of
@@ -14789,7 +14789,7 @@ I said, one more time for old time's sake
 Dre, drop that beat and scratch that break
 Now just send a little bit of that smoke my way
 And let's go (You are now smokin' with the best)"
-Super High Remix,Rick Ross,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1 - Currency]
+Super High Remix,Rick Ross,"['hip hop', 'r&b']","[Verse 1 - Currency]
 You think you got the bond cause I rolled you a joint?
 I smoke with all mine, baby girl, what's your point?
 Don't front, you in the back of a long line
@@ -14855,7 +14855,7 @@ If you looking for me, you can find me in the Guinness Book
 Only fly bitches ride with the Boss, take a look
 I'm super fly, I'm super high (Super duper, super duper high)
 You getting yours, I'm getting mine"
-Mo Milly,Birdman,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Birdman]
+Mo Milly,Birdman,"['hip hop', 'r&b']","[Intro: Birdman]
 Make it so fresh: YM
 So fly, so priceless (CMB bitch)
 Just another day on the
@@ -14949,7 +14949,7 @@ Give it up to him; it's a jack
 Don't move! This is murder music, nigga
 Don't disturb this room. 2 trill Ent Cash Money and October's Own
 We true playas down to the last chromosome"
-Hip Hop Quotables,Ludacris,['hip hop'],"[Verse: Ludacris]
+Hip Hop Quotables,Ludacris,"['hip hop', 'r&b']","[Verse: Ludacris]
 Hi, my name's Ludacris, and I'm high as giraffe pussy
 And I'm close to the edge, so your parents can come push me
 I curse so much just to get on they nerves
@@ -15014,7 +15014,7 @@ I buy cars with straight cash, have meetings with Donald Trump
 Y'all meet with Honda, no payments for twelve months (Uh-huh)
 Take a look at yo' life, and no wonder you so sad
 Y'all put up with more shit than a colostomy bag (Fool)"
-Boom,"Royce da 5'9""","['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Boom,"Royce da 5'9""","['hip hop', 'r&b', 'pop', 'blues', 'jazz']","[Intro]
 Ugh
 Boom, boom
 Tick-tick-tick
@@ -15093,7 +15093,7 @@ Leave me in the deck too long, I blow up your box—boom!
 ""Royce 5'9""""
 ""Boom, boom, bam, God-damn""
 ""Royce 5'9"""""
-Paparazzi,Xzibit,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Paparazzi,Xzibit,"['hip hop', 'r&b']","[Intro]
 Yes, 1996 marks the beginning of a new era
 The dysfunctional member of the Alkaholiks family
 It’s Xzibit!
@@ -15169,7 +15169,7 @@ It’s a shame, niggas in the rap game
 Only for the money and the fame (Extra large!)
 It’s a shame, niggas in the rap game
 Only for the money and the fame (Paparazzi!)"
-Thug Luv,Bone Thugs-N-Harmony,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: 2Pac + Bizzy Bone]
+Thug Luv,Bone Thugs-N-Harmony,"['hip hop', 'r&b']","[Intro: 2Pac + Bizzy Bone]
 Nigga, we doin' this shit from Cleveland to L.A., nigga
 Whatever you niggas want, we bring it!
 Thug Luv, (biatch!) nigga what time is it?
@@ -15307,7 +15307,7 @@ Now he long gone, long gone
 'Pac, 'Pac run with us, 'Pac and Rip, with thug love
 'Pac, 'Pac run with us, run with us, run with us!
 'Pac, 'Pac run with us, 'Pac and Rip, with thug love"
-Rewind,Nas,"['hip hop', 'r&b', 'pop']","[Verse]
+Rewind,Nas,"['hip hop', 'r&b']","[Verse]
 Listen up, gangstas and honeys with your hair done
 Pull up a chair, hon', and put it in the air, son
 Dog, whatever they call you, God, just listen
@@ -15357,7 +15357,7 @@ This dude right on the block right now, man
 I found him, right now, I see him right now
 Let's kill him
 Yo, this Nas, leave it, peace"
-Mind Playing Tricks on Me,Geto Boys,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Scarface]
+Mind Playing Tricks on Me,Geto Boys,"['hip hop', 'r&b']","[Intro: Scarface]
 I sit alone in my four-cornered room
 Starin' at candles
 Oh, that shit is on?
@@ -15454,7 +15454,7 @@ It was dark as fuck on the streets
 My hands were all bloody from punchin' on the concrete
 Goddamn, homie!
 My mind is playin' tricks on me"
-P.I.M.P.,50 Cent,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Produced by Mr. Porter]
+P.I.M.P.,50 Cent,"['hip hop', 'r&b']","[Produced by Mr. Porter]
 
 [Chorus]
 I don't know what you heard about me
@@ -15555,7 +15555,7 @@ In the hood they say, ""There's no b'ness like ho b'ness"", you know?
 They say I talk a little fast, but if you listen a little faster
 I ain't got to slow down for you to catch up, bitch
 Ha-ha-ha, yeah"
-The Food,Common,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Common]
+The Food,Common,"['hip hop', 'r&b']","[Intro: Common]
 Yeah! It's been a long time comin'
 You know what they say Kanye
 Slow motion better than no motion
@@ -15659,7 +15659,7 @@ I, no I can't let it ride
 No, no, not tonight
 See I can't run away or put my gun away
 You can't front on me"
-Ready to Die,The Notorious B.I.G.,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Intro: Puff Daddy]
+Ready to Die,The Notorious B.I.G.,"['hip hop', 'r&b']","[Intro: Puff Daddy]
 Yeah, yeah, you ready motherfucker?
 We gonna kill your ass, kill your ass
 I'm ready
@@ -15755,7 +15755,7 @@ Biggie Smalls the biggest man
 Rocking on and on in '93, Easy Mo Bee
 Third Eye and the rest of the Bad Boy fam
 I don't wanna see no crying at my funeral"
-Now or Never,The Roots,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Hook: Dice Raw]
+Now or Never,The Roots,"['hip hop', 'r&b']","[Hook: Dice Raw]
 Everything's changing around me
 And I want to change too
 It's one thing I know
@@ -15858,7 +15858,7 @@ I don't know what else to say
 But I'ma get my shit together
 It's now or never
 It's now or never"
-More Reasons,Cam'ron,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Cam'ron & Girl]
+More Reasons,Cam'ron,"['hip hop', 'r&b']","[Intro: Cam'ron & Girl]
 Oh this is my *beep*
 The reason that we here, shut the *beep* up man
 The reason that we here, *beep* you can't sing
@@ -15949,7 +15949,7 @@ So we can get with the models (all of the reasons)
 And hit the strip with the Dip, we're 'Set to blow
 (All of the reasons)
 Now you know, all of the reasons why we chase the dough"
-Still Ballin’ Nitty Remix,2Pac,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: 2Pac]
+Still Ballin’ Nitty Remix,2Pac,"['hip hop', 'r&b']","[Intro: 2Pac]
 Straight motherfuckin' ballin'
 Part 2, Still Ballin'
 Westside!
@@ -16026,7 +16026,7 @@ Still ballin', until the day I die
 (Thug life), still ballin'
 Motherfucker, still ballin'
 Straight motherfuckin' ballin'"
-Like a Pimp,David Banner,"['hip hop', 'r&b', 'pop', 'jazz', 'blues']","[Chorus: Pimp C & Lil Flip]
+Like a Pimp,David Banner,"['hip hop', 'r&b']","[Chorus: Pimp C & Lil Flip]
 Real girls get down on the flo', on the flo'
 Real girls get down on the flo', on the flo'
 Real girls get down on the flo', on the flo' (Like a pimp!)
@@ -16124,7 +16124,7 @@ Don't worry bout the next nigga
 Get yo mother fucking money
 Get yo mother fucking money nigga
 Uh get your money"
-It’s Been a Long Time,Rakim,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook: Samples with Scratches by DJ Premier]
+It’s Been a Long Time,Rakim,"['hip hop', 'r&b']","[Hook: Samples with Scratches by DJ Premier]
 “It’s been a long time” (x4)
 “Rakim… the microphone soloist”
 
@@ -16201,7 +16201,7 @@ So, yo, I’m online, it’s been a long time
 “It’s been a long time”
 “Rakim… the microphone soloist”
 “It’s been a long time” (x5)"
-Dont Sweat the Technique,Eric B. & Rakim,"['hip hop', 'r&b', 'jazz', 'pop', 'alternative']","[Hook]
+Dont Sweat the Technique,Eric B. & Rakim,"['hip hop', 'r&b']","[Hook]
 Don't sweat the technique
 Don't sweat the technique
 
@@ -16264,7 +16264,7 @@ But don't sweat the technique
 Never sweat the technique
 Don't sweat the technique
 Don't sweat the technique"
-Trying to Find a Balance,Atmosphere,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz', 'blues', 'rock']","[Intro]
+Trying to Find a Balance,Atmosphere,"['hip hop', 'r&b']","[Intro]
 They love the taste of blood
 Now I don't know what that means, but I know that I mean it
 Maybe they're as evil as they seem
@@ -16339,7 +16339,7 @@ You wait for the car at the corner
 Pretend like you know what the plot is
 Won't quit till I hit California
 And make you my Golden State goddess"
-Juice Know the Ledge,Eric B. & Rakim,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Eric B]
+Juice Know the Ledge,Eric B. & Rakim,"['hip hop', 'r&b']","[Produced by Eric B]
 
 [Verse 1]
 Sip the juice, I got enough to go around
@@ -16425,7 +16425,7 @@ Comin' out of the building, they set me up
 Sprayed with automatics, they wet me up
 In a puddle of blood, I lay close to the edge
 I guess I didn't Know the Ledge"
-Microphone Fiend,Eric B. & Rakim,"['hip hop', 'alternative', 'r&b']","[Verse: Rakim]
+Microphone Fiend,Eric B. & Rakim,"['hip hop', 'r&b']","[Verse: Rakim]
 I was a fiend before I became a teen
 I melted microphones instead of cones of ice cream
 Music orientated so when hip hop was originated
@@ -16495,7 +16495,7 @@ The fiend of a microphone, I'm the microphone fiend
 The microphone fiend
 The microphone fiend
 The microphone fiend"
-Not Yet Free,The Coup,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1 - Boots]
+Not Yet Free,The Coup,"['hip hop', 'r&b']","[Verse 1 - Boots]
 In this land I can't stand or sit
 And not get shit thrown up in my face
 A brother never gets his props
@@ -16558,7 +16558,7 @@ Well, she was wrong cause I knew what a right was
 And a left and an uppercut, too
 I had a hunch a sucker punch is what my people got
 That's why I was constantly red, black, and blue"
-Got Ur Self a...,Nas,"['hip hop', 'r&b', 'pop', 'jazz']","[Produced by Megahertz]
+Got Ur Self a...,Nas,"['hip hop', 'r&b']","[Produced by Megahertz]
 
 [Intro: Alabama 3 & Nas]
 Woke up this mornin' (Yeah)
@@ -16658,7 +16658,7 @@ You want beef? Hope you got yourself a gun
 And when I see you, I'ma take what I want, so
 You tried to front, hope you got yourself a gun
 You ain't real, hope you got yourself a gun"
-A Life in the Day of Benjamin André Incomplete,OutKast,"['hip hop', 'alternative', 'pop', 'r&b', 'jazz', 'blues']","[Verse]
+A Life in the Day of Benjamin André Incomplete,OutKast,"['hip hop', 'r&b']","[Verse]
 I met you in a club in Atlanta, Georgia
 Said me and my homeboy were coming out with an album
 You looked at me like, ""Yeah, nigga, right""
@@ -17061,7 +17061,7 @@ The Cool
 
 [Outro]
 (Cool!)"
-Penny for a Thought,Saul Williams,['hip hop'],"Cancel the apocalypse!
+Penny for a Thought,Saul Williams,"['hip hop', 'r&b']","Cancel the apocalypse!
 Cartons of the milky way with pictures of a missing planet
 Last seen in pursuit of an American dream
 This fool actually thinks he can drive his hummer on the moon
@@ -17166,7 +17166,7 @@ Shit, I think y'all motherfuckers is crazy
 I want my fuckin' MTV
 Penny for a thought, nigga, penny for a thought
 What the fuck have you bought into?"
-Murder Rap,Above the Law,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative']","[Intro: KMG]
+Murder Rap,Above the Law,"['hip hop', 'r&b']","[Intro: KMG]
 ""Yo, Cold 187. They tryin' to give you a murder rap. And you ain't even like that. Yo, serve these niggas, 'cause they deserve to get dissed.""
 (Yeah)
 (Check this out)
@@ -17264,7 +17264,7 @@ Now I got a murder rap
 Here's a murder rap to keep ya dancin'
 Now I got a murder rap
 Cause a brother like me said well"
-My Favorite Mutiny,The Coup,"['hip hop', 'alternative']","[Verse 1 - Black Thought]
+My Favorite Mutiny,The Coup,"['hip hop', 'r&b']","[Verse 1 - Black Thought]
 Move, if you got the nerve
 Lash out for your just deserts
 It's not just a word
@@ -17345,7 +17345,7 @@ Gangsta like, fuck the cops
 Talib Kweli revolutionary MC, and that ain't about to stop
 
 [HOOK]"
-Always Coming Back Home to You,Atmosphere,"['hip hop', 'r&b', 'alternative', 'jazz', 'pop']","To all my killers and my hundred dollar billers
+Always Coming Back Home to You,Atmosphere,"['hip hop', 'r&b']","To all my killers and my hundred dollar billers
 To emo kids that got too many feelings
 
 He held the register open while he counted her change
@@ -17426,7 +17426,7 @@ I'm always coming back home to you
 From the heaven I've had to the hell I been through
 I'm always coming back home to you
 I'm always coming back home to you"
-Ringtone,R. Kelly,['r&b'],"[Intro]
+Ringtone,R. Kelly,"['r&b', 'blues', 'jazz', 'hip hop', 'pop']","[Intro]
 Polow Da Don
 It's Kells!
 Haters start your engines!
@@ -17493,7 +17493,7 @@ G-g-girls in the hotel getting it on
 And they ain't leaving til six in the mornin'
 Even superstar chicks too drunk to drive home
 Wake up next day and, uh"
-Im Me Freestyle,"Royce da 5'9""",['alternative'],"[Intro: Royce da 5'9"", Lil Wayne sample, & DJ Green Lantern]
+Im Me Freestyle,"Royce da 5'9""","['hip hop', 'r&b']","[Intro: Royce da 5'9"", Lil Wayne sample, & DJ Green Lantern]
 The hottest— hottest under the sun (Nasty, baby)
 (*Brrr!*) Dad! (*Brrr! Brrr!*)
 Royce da 5'9""!
@@ -17594,7 +17594,7 @@ But understand that, if it's that, it's either gon' be me or you
 So pump your brakes before I do you like a got a key to you
 Shut your power off, I'm G-A-N-G
 S-T-arr—yes, we are! Bitch, I'm— (*gunshot*)"
-Overdose,Omen (Producer),"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Jackie Long]
+Overdose,Omen (Producer),"['hip hop', 'r&b']","[Jackie Long]
 And I'ma leave on one more note
 One more motherfuckin' note
 It's like this, look at him
@@ -17716,7 +17716,7 @@ Kush is in the air, we good (OD, OD)
 Bitches over there, we good (OD, OD)
 Money on the floor, we good
 OD, OD, everybody know me"
-Bohemian Rhapsody,Queen,"['rock', 'blues', 'pop', 'r&b', 'jazz']","[Intro]
+Bohemian Rhapsody,Queen,"['rock', 'blues']","[Intro]
 Is this the real life? Is this just fantasy?
 Caught in a landslide, no escape from reality
 Open your eyes, look up to the skies and see
@@ -17774,7 +17774,7 @@ Nothing really matters, anyone can see
 Nothing really matters
 Nothing really matters to me
 Any way the wind blows"
-Informer,Snow,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative', 'dance', 'rock']","[Intro: MC Shan & Snow]
+Informer,Snow,"['dance', 'hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Intro: MC Shan & Snow]
 What's up man, hey yo what's up
 Yeah what's going on here?
 Sick and tired of 5-0 running up on the block here
@@ -17896,7 +17896,7 @@ A licky boom boom dem
 
 [Outro]
 Diggity dum, diggity diggity dum, an' wo ee, an wo, an wo ee"
-What’s Your Fantasy,Ludacris & Shawnna,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Ludacris & Shawnna]
+What’s Your Fantasy,Ludacris & Shawnna,"['hip hop', 'r&b']","[Intro: Ludacris & Shawnna]
 Yeah, yeah, yeah, yeah
 Give it to me now, give it to me now
 Give it to me now, give it to me now
@@ -18014,7 +18014,7 @@ I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
 Then I wanna, ""Ahh ahh,"" you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?"
-Soul Survivor,Jeezy,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues']","[Intro: Akon & Young Jeezy]
+Soul Survivor,Jeezy,"['hip hop', 'r&b']","[Intro: Akon & Young Jeezy]
 Konvict, Konvict (Chea)
 Akon and Young Jeezy (Ay)
 Tryna take it easy (Ay, chea)
@@ -18118,7 +18118,7 @@ I'm just a soul survivor (Yeah)
 Tryna make it to the top 'fore your ass get popped now
 If you a rider (Yeah)
 Or just a soul survivor (Yeah)"
-One Way Trip,Lil Wayne,['hip hop'],"[Verse 1: Lil Wayne]
+One Way Trip,Lil Wayne,"['hip hop', 'r&b']","[Verse 1: Lil Wayne]
 Beat the beat up 'til the beat get punchdrunk
 Drown in my flow motherfucker bring your swimmin' trunks
 Everybody say they just do it, well I just don't
@@ -18291,7 +18291,7 @@ Just make sure they that special somebody
 Young Money, yeah, yeah
 You know who you are
 I got you"
-Get Ya Gun,Cam'ron,['hip hop'],"[Verse 1]
+Get Ya Gun,Cam'ron,"['hip hop', 'r&b']","[Verse 1]
 That's my word (word!); I flip herb, birds
 Coke, crack, dope, smack; oh, snap! Heard, herb
 Should talk in sign language, y'all don't deserve words
@@ -18342,7 +18342,7 @@ In front of the corner store under the canopy
 Chick wanna stand with me, she gotta drink a can of pee (here, drink this)
 That's a pineapple soda (what's this) this a pineapple Rover (what happened?)
 Don't sit on the hood, time after time I done told ya"
-People Going Down,Hi-Tek,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook: singers]
+People Going Down,Hi-Tek,"['hip hop', 'r&b']","[Hook: singers]
 Time to change your way, people act cra-zay
 Gotta face it now, people going down
 Children running wild, running with the crowd
@@ -18366,7 +18366,7 @@ People going down {*4X*}
 
 [Singers]
 People going down {*4X to fade*}"
-I Made It Cash Money Heroes,Kevin Rudolf,"['hip hop', 'r&b', 'pop']","[Intro: Birdman]
+I Made It Cash Money Heroes,Kevin Rudolf,"['pop', 'hip hop', 'r&b', 'jazz', 'blues']","[Intro: Birdman]
 Yeah, Cash Money Heroes
 Private Jets
 Polished, Jay Sean, fly
@@ -18491,7 +18491,7 @@ Yes I did, yes I did
 Yes I did, yes I did
 Yes I did
 I-I-I made it"
-Off That,JAY-Z,"['hip hop', 'r&b', 'pop']","[Intro: Jay-Z (Timbaland)]
+Off That,JAY-Z,"['hip hop', 'r&b']","[Intro: Jay-Z (Timbaland)]
 Welcome
 To the future, uhh (Blueprint, 3, ay-ay, oh, hey-hey)
 Hey, count me in (Blue-print, 3, ay, hey, hey-hey)
@@ -18600,7 +18600,7 @@ Hey, hey, hey, hey
 Hey, hey, hey, hey
 Hey, hey, hey, hey
 Hey, hey, hey"
-Beautiful Bliss,Wale,['hip hop'],"[Chorus: Melonie Fiona & Wale]
+Beautiful Bliss,Wale,"['hip hop', 'r&b']","[Chorus: Melonie Fiona & Wale]
 Babe, you know it gets no better than this
 It's like, sunshine on a rainy day
 It's like a high, could you take me away?
@@ -18700,7 +18700,7 @@ It's a beautiful bliss, oh (When you feel like this)
 Beautiful bliss, oh (When you spill out hits)
 Beautiful bliss, oh, oh, oh (When you fly as a bitch)
 And you ride with this, and you ain't bothered a bit now, baby"
-Simba,J. Cole,['hip hop'],"[Verse]
+Simba,J. Cole,"['hip hop', 'r&b']","[Verse]
 Straight out The Ville and I made it
 Like a villain I'm hated
 I see 'em grillin', I ate it though
@@ -18749,7 +18749,7 @@ Word on the streets is I'm the prince nigga, check the splendor
 And I can't wait to be the King, nigga: young simba
 Word on the streets is I'm the Prince nigga, check the splendor
 And I can't wait to be the king, nigga: young simba"
-A Star is Born BET Performance,J. Cole,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: J. Cole]
+A Star is Born BET Performance,J. Cole,"['hip hop', 'r&b']","[Verse 1: J. Cole]
 And could I be a star?
 Does fame in this game have to change who you are?
 Or could I be the same one who came from a far away life
@@ -18791,7 +18791,7 @@ See me, I’d rather cut let ya body give birth
 Now, if you was the last man walking on Earth
 Turn this up, clap ya hands like this was church
 Hey…and clap for him…"
-Say Ya Prayers,Dom Pachino,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Dom Pachino]
+Say Ya Prayers,Dom Pachino,"['hip hop', 'r&b']","[Intro: Dom Pachino]
 Golden Child, what it is, baby? Tell me
 Que te pasa..
 
@@ -18810,7 +18810,7 @@ Circulate like a ceiling fan
 Napalm is the new shit, man, the Team's official
 Set it off like a missile
 My music get under your skin, like your muthafucking tissue"
-Ugly Freestyle,Skillz,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","I ain't choose too rhyme, y'all betta get it right
+Ugly Freestyle,Skillz,"['hip hop', 'r&b']","I ain't choose too rhyme, y'all betta get it right
 ""The Saga Continues"", another ""Bad Boy for life""
 The F-A-B-O-L-O know who I am
 Cuz he heard me and he like (De de de de DAMN!)
@@ -19089,7 +19089,7 @@ Yeah, uh, feels good to be home, baby!
 Feels good to be home!
 
 [Produced by Just Blaze]"
-Lights Please,J. Cole,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative']","[Verse 1]
+Lights Please,J. Cole,"['hip hop', 'r&b']","[Verse 1]
 Yeah, I had this little bad thing, somethin' like them tens
 She gave a nigga mad brain, somethin' like The Wiz
 But, you see, the sad thing fuckin' with her is
@@ -19170,7 +19170,7 @@ Lights, please
 
 [Outro]
 Alright, if y'all niggas heard the first one, The Come Up and shit, then you would have heard part 1 of this joint right here. It's ""Dead Presidents"", you know classic nigga, that's classic Jay shit. So I did it, threw it on the first mixtape, this is about a year ago. We let niggas hear like you know the mixtape whatever, and there was always this one nigga that stuck out to me like a year ago. This nigga's like ""yo"". like I thought I did my thing on this shit, that was like two of my favorite verses that I did, but he was just like ""Yo"", like, ""Yo you didn't come right man. If you gon' come on Dead Presidents son, you gotta come, hard son, you gotta come harder than that son, you gotta come harder than that."" I was like, man what you mean I came hard? But, that shit always stuck in my mind, so doing this next, you know, doing this The Warm Up I was like, damn, I gotta get on it again, I gotta do it again. Just almost like, just to prove to that nigga and kinda prove to myself that you I can, I can maybe get a little..."
-Free Mason,Rick Ross,['hip hop'],"[Intro: Rick Ross]
+Free Mason,Rick Ross,"['hip hop', 'r&b']","[Intro: Rick Ross]
 This is for the soldiers that see the sun at midnight
 You dig?
 Let me slow down
@@ -19266,7 +19266,7 @@ I go to the grave before I be a bitch nigga
 Better behave, you dealing with some rich niggas
 Started in the ghetto, now we worldwide
 Multiplying and I pray to God we never die"
-Gone,Kanye West,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Produced by Kanye West]
+Gone,Kanye West,"['hip hop', 'r&b']","[Produced by Kanye West]
 
 [Intro: Otis Redding and Kanye West]
 Wished I had told ooh was (the) only one (uh oh)
@@ -19488,7 +19488,7 @@ Your love
 Baby, you're the illest
 Your love
 Your love"
-Thiefs Theme,Nas,['hip hop'],"[Intro]
+Thiefs Theme,Nas,"['hip hop', 'r&b']","[Intro]
 One, two
 Check, one, two
 One, two, who got more style, the son do
@@ -19552,7 +19552,7 @@ Check, one, two
 One, two
 Check, one, two
 One, two, who got more style, the son do"
-Cee-Lo,Goodie Mob,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","I knew, I kinda pieced together what they was kinda trying to say man
+Cee-Lo,Goodie Mob,"['hip hop', 'r&b']","I knew, I kinda pieced together what they was kinda trying to say man
 Because in a way, God is everything, yaknowhatI'msayin? He he he workin
 Through them crackers to save us, in a sense, knowhatI'msayin? The evil
 That they do. I mean he made the devil, you understand whatI'msayin?
@@ -19666,7 +19666,7 @@ I struggle and fight to stay alive
 Hoping that one day I'd earn the chance to die
 Pallbearer to this one, pallbearer to that one
 Can't seem to get a grip cause, my palms is sweatin' ..."
-Where Are They Now,Nas,"['hip hop', 'r&b', 'pop', 'alternative']","[Produced by Salaam Remi & Nas]
+Where Are They Now,Nas,"['hip hop', 'r&b']","[Produced by Salaam Remi & Nas]
 
 (""HIT MEH!!"")
 
@@ -19723,7 +19723,7 @@ Juice Crew All-Stars, MC Shan, Tragedy, Craig G
 Yeah nigga, yeah nigga
 Shan whaddup baby?
 Where are they now?"
-Champion,Kanye West,"['hip hop', 'alternative', 'r&b']","[Refrain]
+Champion,Kanye West,"['alternative', 'hip hop', 'r&b']","[Refrain]
 Did you realize
 That you were a champion in their eyes?
 
@@ -19817,7 +19817,7 @@ Did you realize
 That you were a champion in their eyes?
 
 [Produced by Kanye West and Brian Miller]"
-Young Forever,JAY-Z,['hip hop'],"[Intro: Mr. Hudson]
+Young Forever,JAY-Z,"['hip hop', 'r&b']","[Intro: Mr. Hudson]
 Let's dance in style, let's dance for a while
 Heaven can wait, we're only watching the skies
 Hoping for the best but expecting the worst
@@ -19892,7 +19892,7 @@ I'm painting you a portrait of Young
 [Chorus: Mr. Hudson]
 Forever young, I wanna be forever young
 Do you really want to live forever, forever? Forever young"
-Drug Ballad,Eminem,"['hip hop', 'alternative', 'r&b']","[Intro: Eminem & Dina Rae]
+Drug Ballad,Eminem,"['hip hop', 'r&b']","[Intro: Eminem & Dina Rae]
 Yeah, hahahaha
 Whoo, shit
 Mmm
@@ -20024,7 +20024,7 @@ Drugs really got a hold of me
 Really got a hold of me
 These drugs really got a hold of me
 They really got a hold of me"
-Ridaz,Eminem,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Ridaz,Eminem,"['hip hop', 'r&b']","[Intro]
 Aw, man, yeah
 You ever be in the club, man
 You get in a fight
@@ -20128,7 +20128,7 @@ Ayy, Dre
 You got me feelin' like
 I can't be touched right now, fool, haha!
 I'm unstoppable, damn"
-Its Over,Freeway,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1]
+Its Over,Freeway,"['hip hop', 'r&b']","[Verse 1]
 Things just ain't the same for gangsters
 But I don't give a fuck, I'm back without a Just track
 Tried to reach out and work, but he ain't chirp back
@@ -20180,7 +20180,7 @@ Y'all smoking bullshit, I'm smoking firey piff
 Since the age of thirteen, I acquired the gift to spit
 And I'm coming, when that Philly Freezer running with it
 Non-stop gunning when they making them hits, holla"
-Last Night Episode,Big Daddy Kane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","* phone is dialed, rings, and is picked up *
+Last Night Episode,Big Daddy Kane,"['hip hop', 'r&b']","* phone is dialed, rings, and is picked up *
 
 [Kane has a conversation with himself]
 Aiyyo what happened last night, did you forget?
@@ -20202,7 +20202,7 @@ Besides player, what's a couple of bucks?
 Was it lobster?
 Fuck no, cheeseburger deluxe
 AIGHT?"
-I Know,JAY-Z,"['hip hop', 'r&b', 'pop']","[Intro: Jay-Z]
+I Know,JAY-Z,"['hip hop', 'r&b']","[Intro: Jay-Z]
 Hov'!
 
 [Chorus: Pharrell Williams & Jay-Z]
@@ -20297,7 +20297,7 @@ And I know, and I know, and I know, and I know
 And I know, and I know, and I know, and I know (Baby you love ....Hov'!)
 Everything you like, everything you love (Baby you like ....Hov'! Baby you like ....Hov'!)
 Everything you like, everything you love, damn (Baby you like ....Hov'!)"
-Dont Ever Fucking Question That,Atmosphere,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative']","[Verse 1: Slug]
+Dont Ever Fucking Question That,Atmosphere,"['hip hop', 'r&b']","[Verse 1: Slug]
 Enough to hold you to the brightest of lights
 To place you dangerously close to that sun
 Enough to acknowledge the flaws you can't ignore
@@ -20360,7 +20360,7 @@ I love you, don't ever fucking question that
 That's why we'll probably never get along
 If I was better at finding the right words to say
 I wouldn't need to write these motherfucking songs"
-Suicidal Thoughts,The Notorious B.I.G.,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Puff Daddy]
+Suicidal Thoughts,The Notorious B.I.G.,"['hip hop', 'r&b']","[Intro: Puff Daddy]
 Hello?
 Aw shit, nigga! The fuck time is it, man?
 Oh, God damn
@@ -20412,7 +20412,7 @@ Ayo, Big! Ayo, Big!
 [Outro]
 Please hang up and try your call again
 Please hang up— Is a recording"
-GodLovesUgly,Atmosphere,['hip hop'],"[Intro]
+GodLovesUgly,Atmosphere,"['hip hop', 'r&b']","[Intro]
 ""Hey, hey what are you doing over there?""
 ""I... I'm just standing, I...""
 ""Come here, come here. What are you doing?""
@@ -20517,7 +20517,7 @@ God loves ugly, God loves-God loves ugly
 God loves ugly, God loves-God loves ugly
 God loves ugly, God loves-God loves ugly
 God loves ugly, God loves-God loves ugly"
-Hair,Atmosphere,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative']","[Intro: Slug and girl talking]
+Hair,Atmosphere,"['hip hop', 'r&b']","[Intro: Slug and girl talking]
 And she still wonders why I'm so insecure
 She giggles because I sleep with a-
 Could I throw my panties on stage?
@@ -20600,7 +20600,7 @@ You're so beautiful from the hair to the soul
 I can't believe that I've never met you before
 It feels like I've been waiting for you my whole life
 She missed the red light, hit a pickup truck and we both died"
-Picture Me Rollin,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Picture Me Rollin,2Pac,"['hip hop', 'r&b']","[Intro]
 Yeah, clear enough for ya? (alright)
 Why niggas look mad?
 Y'all supposed to be happy I'm free
@@ -20735,7 +20735,7 @@ Is y'all ready for me? We up out this bitch
 Any time y'all wanna see me again
 Rewind this track right here
 Close your eyes and picture me rollin'"
-Walk It Off,Lil Wayne,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative', 'rock']","[Intro: Lil Wayne, DJ Drama, & DJ tags]
+Walk It Off,Lil Wayne,"['hip hop', 'r&b']","[Intro: Lil Wayne, DJ Drama, & DJ tags]
 Yeah
 This go out to Hollygrove!
 Okay
@@ -20874,7 +20874,7 @@ This just the warm-up!
 DJ Drama, Gangsta Grillz album
 Watch what I do
 Streets gon' be so proud, they might name one after me"
-Dance with the Devil,Immortal Technique,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz', 'blues', 'rock']","[Part I: Dance with the Devil]
+Dance with the Devil,Immortal Technique,"['hip hop', 'r&b']","[Part I: Dance with the Devil]
 
 [Verse 1]
 I once knew a nigga whose real name was William
@@ -21073,7 +21073,7 @@ Your mind is empty and spacious
 Like the part of the brain that appreciates culture in a racist
 Face it, you’re too basic, you’re never gonna make it
 Like children walkin' through Antarctica, butt-naked"
-Let the Beat Build,Lil Wayne,['hip hop'],"[Produced by Deezle & Kanye West]
+Let the Beat Build,Lil Wayne,"['hip hop', 'r&b']","[Produced by Deezle & Kanye West]
 
 [Intro]
 Yeah, I see you big bro
@@ -21302,7 +21302,7 @@ I got Bobby by the pound, Whitney by the key
 DJ Screw by the gallon, bitch, the game belong to me
 I got Bobby by the pound, Whitney by the key
 DJ Screw by the gallon, bitch, the game belong to me"
-Roses,OutKast,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative']","[Verse 1: André 3000]
+Roses,OutKast,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Verse 1: André 3000]
 Caroline (Caroline), see, Caroline
 All the guys would say she's mighty fine (mighty fine)
 But mighty fine only got you somewhere half the time
@@ -21484,7 +21484,7 @@ I'm a nigga, he's a nigga, she's a nigga, we some niggers
 Wouldn't you like to be a nigga, too
 They like to strangle niggers, blamin' niggers, shootin' niggers, hangin' niggers
 Still you wanna be a nigga, too? True"
-Represent,Nas,['hip hop'],"[Produced by DJ Premier]
+Represent,Nas,"['hip hop', 'r&b']","[Produced by DJ Premier]
 
 [Chorus]
 Represent, represent
@@ -21586,7 +21586,7 @@ Come to Queensbridge, motherfucker!
 Yeah, yeah, let's bring it back
 That's just a warm up
 ‘Cause I can– on anybody, anybody"
-P.I.M.P G-Unit Remix,50 Cent,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: 50 Cent]
+P.I.M.P G-Unit Remix,50 Cent,"['hip hop', 'r&b']","[Chorus: 50 Cent]
 I don't know what you heard about me
 But a bitch can't get a dollar outta me
 No Cadillac, no perms, you can't see
@@ -21682,7 +21682,7 @@ In Hollywood, they say ""there's no business like show business
 In the hood, they say, ""there's no business like ho business""
 They say I talk a lil' fast, but if you listen a lil' faster
 I ain't got to slow down for you to catch up, bitch!"
-Its Okay One Blood Remix,The Game,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Jim Jones, Junior Reid, & The Game]
+Its Okay One Blood Remix,The Game,"['hip hop', 'r&b']","[Intro: Jim Jones, Junior Reid, & The Game]
 Dre, I see more dead people
 (Blood) Uh-huh, Jones
 (Blood hunt) Dipset, Byrdgang, bitch!
@@ -21983,7 +21983,7 @@ Who sadly gets torn between one Crip and one (Blood!)
 
 [Outro: Ja Rule]
 Y'all niggas know me, haha, yeah!"
-Mafia Music,Rick Ross,['hip hop'],"[Verse]
+Mafia Music,Rick Ross,"['hip hop', 'r&b']","[Verse]
 Yeah, I got a feelin' nigga, really that my money be the root
 Look up at the stars, she like, ""Honey, where the roof?""
 Pull up, hear the dogs, Canaries, they gon' woof
@@ -22061,7 +22061,7 @@ They callin' all my jewelers up, askin what he spendin' (whaaat?)
 Thinkin' 'bout Boss, not thinkin' 'bout them
 This a letter to my enemies, one I won't send
 Amen"
-This Is Why Im Hot,M.I.M.S,['hip hop'],"[Chorus]
+This Is Why Im Hot,M.I.M.S,"['hip hop', 'r&b']","[Chorus]
 This is why I'm hot (Hot!), this is why I'm hot (Hot!) (Yeah!)
 This is why, this is why, this is why I'm hot (Huh!)
 This is why I'm hot (Hot!), this is why I'm hot (Hoo!)
@@ -22232,7 +22232,7 @@ So when they look at me I don't look away
 I spread love it's the Brooklyn way
 Now let the hook play
 (Hook)"
-Just Begun,Reflection Eternal,['hip hop'],"[Intro: Talib Kweli & The Singers Unlimited]
+Just Begun,Reflection Eternal,"['hip hop', 'r&b']","[Intro: Talib Kweli & The Singers Unlimited]
 We've only just be—...
 Oh, yes indeed
 I like this, I like this
@@ -22323,7 +22323,7 @@ You're welcome, thanks
 Appreciation for your participation
 Special dedication
 Celebration, bitches!"
-How Do U Want It,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Chorus: K-Ci & JoJo]
+How Do U Want It,2Pac,"['hip hop', 'r&b']","[Chorus: K-Ci & JoJo]
 How do you want it?
 How do you feel?
 Comin' up as a nigga in the cash game
@@ -22455,7 +22455,7 @@ How do you want it?
 How do you feel?
 Comin' up as a nigga in the cash game
 Livin' in the fast lane, I'm for real"
-Im Beamin,Lupe Fiasco,['alternative'],"[Intro]
+Im Beamin,Lupe Fiasco,"['hip hop', 'r&b']","[Intro]
 Today, nobody cares
 But tomorrow, they will, they will
 Today, nobody cares
@@ -22542,7 +22542,7 @@ They said my future was dark, see me now
 Just look around, I'm beaming
 They used to talk, when I wasn't around
 You see me now, I'm beaming"
-N.Y. State of Mind Pt. II,Nas,"['hip hop', 'r&b', 'alternative']","[Produced by DJ Premier]
+N.Y. State of Mind Pt. II,Nas,"['hip hop', 'r&b']","[Produced by DJ Premier]
 
 [Intro]
 Uhh.. yo
@@ -22634,7 +22634,7 @@ But I'm a big dreamer, so watch me come up with somethin'
 [Chorus]
 New York, New York
 New York, New York"
-Threat,JAY-Z,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Produced by 9th Wonder]
+Threat,JAY-Z,"['hip hop', 'r&b']","[Produced by 9th Wonder]
 
 [Intro: Cedric the Entertainer]
 Yo, what's up, pimp, this threats
@@ -22748,7 +22748,7 @@ Chew your food up and put the shit back in your mouth nigga
 And help you swallow
 Nigga I take a mop handle off nigga
 And sweep nigga, hold on, I'll be, nigga what?"
-Neighborhood 2 Laïka,Arcade Fire,"['alternative', 'rock', 'metal']","[Verse 1]
+Neighborhood 2 Laïka,Arcade Fire,"['rock', 'alternative', 'pop']","[Verse 1]
 Alexander, our older brother
 Set out for a great adventure
 He tore our images out of his pictures
@@ -22888,7 +22888,7 @@ Move, bitch! Get out the way
 Get out the way, bitch, get out the way
 
 [Instrumental Outro]"
-Nowalaters,The Coup,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz', 'rock', 'blues']","[Intro]
+Nowalaters,The Coup,"['hip hop', 'r&b']","[Intro]
 Oh, baby
 Oh, baby
 Oh, baby
@@ -22997,7 +22997,7 @@ Hey, hey!
 
 [Outro: Keneice]
 Hey, hey, hey"
-Poet Laureate II,Canibus,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative']","[Intro: James Dickey sample]
+Poet Laureate II,Canibus,"['hip hop', 'r&b']","[Intro: James Dickey sample]
 Uh, I don’t understand how a writer would ever get writer’s block, so-called. My problem is having too much and being unable to get it down
 
 [Verse: Canibus]
@@ -23269,7 +23269,7 @@ Ha ha! Sexy sexy (snap your fingers now, uh, woo!)
 Ha ha! (Your boy is back, uh-huh, uh, uh)
 (The bounce is back, uh, uh woo!)
 (Uh, Young is back, hahahaha - PEACE!!!)"
-Opposite of Adults,Chiddy Bang,"['hip hop', 'pop', 'alternative', 'r&b']","[Intro]
+Opposite of Adults,Chiddy Bang,"['hip hop', 'r&b']","[Intro]
 Fresh kid Z, fresh kid C (Yes, sir)
 Fresh kid P, fresh kid T (Oh yeah, we back)
 Oh, and Xaphoon, by the way (Yeah, Jones)
@@ -23350,7 +23350,7 @@ Ayo, I once was a kid with the other little kids
 Now I'm rippin' up shows and them fans going wild with us
 Tell Mommy I'm sorry, this life is a party
 I'm never growin' up"
-Maybach Music,Rick Ross,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Maybach Music,Rick Ross,"['hip hop', 'r&b']","[Intro]
 Heh, what is this? (Maybach music)
 I like this Maybach music
 (Sweet!) Hahahaha
@@ -23449,7 +23449,7 @@ Massage for frauds, I'm livin' large, my fat rocks
 It's eat to kill in the field of hip-hop
 Runnin' up on the car, you get popped, mopped and dropped
 I'm the boss"
-Maybach Music II,Rick Ross,['hip hop'],"[Intro]
+Maybach Music II,Rick Ross,"['hip hop', 'r&b']","[Intro]
 J.U.S.T.I.C.E. League
 
 [Chorus: T-Pain]
@@ -23549,7 +23549,7 @@ You gotta see it (Hey!)
 'Cause I'm in it to win now, niggas can't take that
 Listen to my Maybach music
 To my Maybach music"
-Heavy,Gucci Mane,['hip hop'],"[Intro]
+Heavy,Gucci Mane,"['hip hop', 'r&b']","[Intro]
 Gucci (Gucci)
 What's up, Corey?
 Back in the trap
@@ -23642,7 +23642,7 @@ My ego gettin' too big, it's too heavy (Ow, ow)
 My head gettin' too big, it's so heavy (Ow, ow)
 Somebody help me to tote this cash, it's too heavy (Yeah)
 Heavy"
-Airplanes Pt. 2,B.o.B,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: Hayley Williams]
+Airplanes Pt. 2,B.o.B,"['hip hop', 'r&b']","[Chorus: Hayley Williams]
 Can we pretend that airplanes
 In the night sky are like shooting stars?
 I could really use a wish right now
@@ -23753,7 +23753,7 @@ Can we pretend that airplanes
 In the night sky are like shooting stars?
 I could really use a wish right now
 Wish right now, wish right now"
-God of Rap,Afu-Ra,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues']","[Afu-Ra]
+God of Rap,Afu-Ra,"['hip hop', 'r&b']","[Afu-Ra]
 Yo, I'm straight rockin' it
 Hit the block with it, chessboxing it
 If I can't shoot it, I ox it
@@ -23821,7 +23821,7 @@ Listen to the way that I scream it now
 [Hook]
 
 [Hook]"
-Bad Bad Bad,Gucci Mane,['hip hop'],"[Intro: Gucci Mane & Keyshia Cole]
+Bad Bad Bad,Gucci Mane,"['hip hop', 'r&b']","[Intro: Gucci Mane & Keyshia Cole]
 What's happenin'? It's Gucci
 Hey Keyshia, you feelin' this girl, man but...
 She ain't right, you know what I'm saying? (Fatboi, Fatboi!)
@@ -23891,7 +23891,7 @@ I can do bad, bad, bad, bad, bad all by myself (Can you hear me?)
 [Outro: Keyshia Cole]
 But I ain't going, bad! Oh!
 Aye-yeah! Can you hear me?"
-All About The Money,Gucci Mane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Gucci Mane]
+All About The Money,Gucci Mane,"['hip hop', 'r&b']","[Verse 1: Gucci Mane]
 I'm on my way to see my P.O
 I ain't talking about probation officer
 Talking about my P.O. box, they just sent me 3 million dollars
@@ -23976,7 +23976,7 @@ I'm all about that money
 Don't make me send my goons to gunning
 I'm all about that money
 Don't make me send my goons to gunning"
-Sex In Crazy Places,Gucci Mane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Pre-Chorus: Bobby V]
+Sex In Crazy Places,Gucci Mane,"['hip hop', 'r&b']","[Pre-Chorus: Bobby V]
 I wanna do you at yo momma house, on the couch
 Do you in the bathroom of the airplane
 Do you on a balcony, in the taxi
@@ -24067,7 +24067,7 @@ Say we could do it anywhere (Crazy places)
 I wanna freak you anywhere (Crazy)
 We could do it anywhere (Crazy places)
 I wanna freak you anywhere (Crazy)"
-The Movie,Gucci Mane,['hip hop'],"[Verse 1 - Gucci Mane]
+The Movie,Gucci Mane,"['hip hop', 'r&b']","[Verse 1 - Gucci Mane]
 I'm jumping out my coupe with the missing roof
 And I'm so fucking high I need a parachute
 ""Gucci Mane, do you remember me from last month?""
@@ -24120,7 +24120,7 @@ I got three mansions but I'm from Sun Valley apartments
 Bouldercrest, Flat Shoals and Gresham is where I started
 You wanna find me bitch just keeping riding down Moreland
 [Hook]"
-Kush Is My Cologne,Gucci Mane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook: Gucci Mane]
+Kush Is My Cologne,Gucci Mane,"['hip hop', 'r&b']","[Hook: Gucci Mane]
 Kush is my cologne, gone on that stupid strong
 I know kush is my cologne, Ku-Kush is my cologne
 Kush is my cologne, gone on that stupid strong
@@ -24199,7 +24199,7 @@ And it all seems worth it
 Weed smell so loud that you think you heard that purp
 
 [Hook: Gucci Mane]"
-Worst Enemy,Gucci Mane,['hip hop'],"[Intro]
+Worst Enemy,Gucci Mane,"['hip hop', 'r&b']","[Intro]
 Listen to this track, bitch
 
 [Chorus]
@@ -24295,7 +24295,7 @@ Then history repeated itself through me and I made history
 (It’s Gucci)
 So I don’t turn around no more, I look at whats in front of me
 I’m focused on the future 'cause yesterday is history"
-Digital Girl Remix,Jamie Foxx,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: The-Dream]
+Digital Girl Remix,Jamie Foxx,"['hip hop', 'r&b']","[Intro: The-Dream]
 I wanna see what's under therrrrrrrre...baby
 
 [Verse 1: Drake]
@@ -24512,7 +24512,7 @@ And this concludes our Chicago show. Please stay tuned.
 
 [Interlude: Unknown voice]
 Roughneck, what's up babe-ooh? This your man, It's Real, a.k.a. Pharaoh. Captain Jack Sparrow. Just pulled up on the internet. Ooh, I see y'all in the mirror. Washing off your face! This that shit. That's what I'm talking 'bout, son. Just getting rap! Word up! What I'm saying, where the rock is, rght? I need some of that, son. That's that inspiration. I love you to death, bro-dog"
-Exhibit C,Jay Electronica,['hip hop'],"[Produced by Just Blaze]
+Exhibit C,Jay Electronica,"['hip hop', 'r&b']","[Produced by Just Blaze]
 
 [Intro: Just Blaze]
 Hey!
@@ -24612,7 +24612,7 @@ We moving out, onto the next record
 And, um, I'ma let this just ride
 Ride, ride, ride
 Hahaha"
-It Aint Hard to Tell,Nas,"['hip hop', 'r&b', 'pop', 'jazz']","[Produced by Large Professor]
+It Aint Hard to Tell,Nas,"['hip hop', 'r&b']","[Produced by Large Professor]
 
 [Verse 1]
 It ain't hard to tell, I excel, then prevail
@@ -24658,7 +24658,7 @@ Vocals will squeeze Glocks
 MCs eavesdrop, though they need not to sneak
 My poetry's deep, I never fell
 Nas' raps should be locked in a cell; it ain't hard to tell"
-Memory Lane Sittin in da Park,Nas,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by DJ Premier]
+Memory Lane Sittin in da Park,Nas,"['hip hop', 'r&b']","[Produced by DJ Premier]
 
 [Intro]
 Aight, fuck that shit! Word, word
@@ -24753,7 +24753,7 @@ I pour my Heineken brew to my deceased crew on memory lane
 ""Comin' outta Queensbridge""
 ""The most dangerous MC is…""
 ""Me number one, and you know where me from"""
-One Time 4 Your Mind,Nas,['hip hop'],"[Produced by Large Professor]
+One Time 4 Your Mind,Nas,"['hip hop', 'r&b']","[Produced by Large Professor]
 
 [Intro: Nas + Grand Wizard]
 Yeah, it's Illmatic
@@ -24840,7 +24840,7 @@ Know what I’m sayin'?
 But check it, you got another verse for me
 I want you to kick it, you know what I'm sayin'?
 Kick that shit for the projects"
-All I Do Is Win,DJ Khaled,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: DJ Khaled & T-Pain]
+All I Do Is Win,DJ Khaled,"['dance', 'hip hop', 'r&b']","[Intro: DJ Khaled & T-Pain]
 DJ Khaled
 Hey, yeah
 We the best
@@ -24928,7 +24928,7 @@ And they stay there (There), and they say yeah (Yeah)
 And they stay there, up, down, up, down, up, down
 'Cause all I do is win (Win), win (Win), win
 And if you going in put your hands in the air, make 'em stay there"
-Born to Roll,Masta Ace,['hip hop'],"[Verse 1]
+Born to Roll,Masta Ace,"['hip hop', 'r&b']","[Verse 1]
 Brainiac, dumb-dumbs, bust the scientifical
 Approach to the course and the force is centrifugal
 Can you find ya way through the lyrics that be catching 'em
@@ -25003,7 +25003,7 @@ Coming out, they coming out the woofers in my Jeep
 [Hook]
 Check it out baby, check it out y'all
 I was born to roll (repeat several)"
-Seasons,CunninLynguists,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Masta Ace]
+Seasons,CunninLynguists,"['hip hop', 'r&b']","[Intro: Masta Ace]
 One two
 It's Masta Ace, Cunninlynguists
 We about to get into the seasons
@@ -25093,7 +25093,7 @@ And so much ice on ya body that you can get pneumonia
 Even at the beaches of Daytona it's gotten colder
 But it's about time for the cycle to start over (echo)
 How we gon' start it?"
-Like Toy Soldiers,Eminem,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz']","[Intro]
+Like Toy Soldiers,Eminem,"['hip hop', 'r&b']","[Intro]
 Step by step, heart to heart
 Left, right, left, we all fall down...
 
@@ -25406,7 +25406,7 @@ Miya hee, miya ho, miya hu, miya ha-ha
 
 [Outro: Just Blaze]
 So live your life"
-Area Codes,Ludacris,['hip hop'],"[Chorus: Nate Dogg]
+Area Codes,Ludacris,"['hip hop', 'r&b']","[Chorus: Nate Dogg]
 I’ve got hoes, I’ve got hoes
 In different area codes (Area), area codes (Codes)
 Hoes! Hoes, hoes, in different area codes (Area)
@@ -25496,7 +25496,7 @@ Ha-ha, no need to get all ho-stile
 Def Jam South baby, Disturbing Tha Peace
 Jazze Pheezy, Uncle Face
 Ludacris, uh, hoes...[whistling] I'm sweating like a motherf"
-Dear Hip-Hop,King Chip,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook]
+Dear Hip-Hop,King Chip,"['hip hop', 'r&b']","[Hook]
 Dear hip-hop, please
 Don't you forget about little old me
 Oh, I'm just a little O.G
@@ -25560,7 +25560,7 @@ I give a fuck about the songs y'all leaking
 I’m done preaching, sip the Hennessey, burn the incense
 Dear hip-hop, yours truly, 6th Sense
 [Hook]"
-Anxiety,Black Eyed Peas,"['hip hop', 'pop', 'rock', 'r&b', 'blues', 'jazz', 'alternative']","[Verse 1]
+Anxiety,Black Eyed Peas,"['pop', 'rock', 'hip hop', 'r&b']","[Verse 1]
 I feel like I wanna smack somebody
 Turn around and bitch slap somebody
 But I ain't goin' out bro (no, no, no)
@@ -25642,7 +25642,7 @@ The sane and the insane rivalry
 Paranoias brought me to my knees
 Lord, please, please, please
 Take away my anxiety"
-Seven,Army of the Pharaohs,"['hip hop', 'alternative', 'r&b', 'rock', 'pop', 'jazz']","[Verse 1: Planetary]
+Seven,Army of the Pharaohs,"['hip hop', 'r&b']","[Verse 1: Planetary]
 Yeah! Yo, uh
 A lot of rappers try approaching the omen
 My poems will punish your people while I’m up at the podium
@@ -25940,7 +25940,7 @@ Dead Sea Scrolls out here!
 Y'all don't want it!
 It's fucking raw rap!
 A-O-T-P!"
-Dead Presidents,JAY-Z,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Ski Beatz]
+Dead Presidents,JAY-Z,"['hip hop', 'r&b']","[Produced by Ski Beatz]
 
 [Chorus: Nas]
 Presidents to represent me (Get money!)
@@ -26102,7 +26102,7 @@ Killa and Capo, we chill in Morocco for reala
 We got dough, chinchilla dough and fill with them hollows, huh
 It's the (boy), I said it's the (boy)
 I'm the (boy, boy, boy, boy) Killa"
-All I Do Is Win Remix,DJ Khaled,['hip hop'],"[Chorus: T-Pain]
+All I Do Is Win Remix,DJ Khaled,"['hip hop', 'r&b']","[Chorus: T-Pain]
 All I do is win, win, win, no matter what
 Got money on my mind I can never get enough
 Whenever me and Khaled do the remix everybody's hands go up
@@ -26232,7 +26232,7 @@ And they stay there
 Up, down, up, down, up, down
 Cause all I do is win, win, win
 And if you going in put your hands in the air make em stay there"
-Get Em High,Kanye West,"['hip hop', 'r&b', 'jazz', 'pop', 'blues', 'alternative']","[Intro: Kanye West]
+Get Em High,Kanye West,"['hip hop', 'r&b']","[Intro: Kanye West]
 Uh-uh, I'm tryna catch the beat
 Uh, I'm tryna catch the beat
 I'm tryna catch the beat, uh-uh, uh-uh
@@ -26404,7 +26404,7 @@ Look, there's Doom now!
 I followed him to the studio, but I was too late to stop him
 That's right! You'll never stop me!
 You're dead! You're all dead! Doom!"
-Against All Odds,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Against All Odds,2Pac,"['hip hop', 'r&b']","[Intro]
 To my niggas that went out in line on duty
 21-gun salute! One love, one thug, one nation
 (Let’s get down, let’s do this!)
@@ -26524,7 +26524,7 @@ Hell nah, I ain't forgot, nigga
 I just remember what you told me
 You said don't go to war unless I got my money right
 I got my money right now, now I want war"
-As the World Turns,Eminem,"['hip hop', 'r&b', 'alternative']","[Chorus]
+As the World Turns,Eminem,"['hip hop', 'r&b']","[Chorus]
 (I don't know) Yes, man
 (Why this world keeps turning) As the world turns
 ('Round and 'round) We all experience things in life
@@ -26641,7 +26641,7 @@ That surround us through our atmosphere
 ('Round and 'round) Keeps turning
 (But I wish it would stop and let me off right now) Keeps turning
 (I don't know why this world keeps turning)"
-Beautiful Music,Drake,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","You can't love, but I bet ya
+Beautiful Music,Drake,"['hip hop', 'r&b']","You can't love, but I bet ya
 Yo can't hine yeah
 
 [Verse 1]
@@ -26811,7 +26811,7 @@ Hold it down, baby, hold it down
 Hold it down, baby, hold it down
 Hold it down, baby, hold it down
 Uh, uh, uh, uh"
-La-La-Land,Big Daddy Kane,['hip hop'],"[Verse 1]
+La-La-Land,Big Daddy Kane,"['hip hop', 'r&b']","[Verse 1]
 Don't you know it ain't what you got y'all it's how you use it
 Any way you choose it, baby, yes I doos it
 Laying it out with swift vocabulary
@@ -26872,7 +26872,7 @@ With girls I just mack this, stick em in just like cactus
 Watch me now, baby it's all right
 I got bunions on my game from it being too tight
 [Chorus]"
-Terra N Ya Era,Big Daddy Kane,['hip hop'],"You looking in the mouth of madness, skilled out since I had this
+Terra N Ya Era,Big Daddy Kane,"['hip hop', 'r&b']","You looking in the mouth of madness, skilled out since I had this
 I'm talking bout nothing but pure D badness
 My acceleration is compatible to a bima
 My pockets looking greener, from the funky cold medina
@@ -26940,7 +26940,7 @@ Me no run with the gun or speak of none for action
 When you get done scream I'm the one, it looks like an illusion
 I deal with equality so never call my brethren son
 Yes mon, me got mad flava just like jerk chicken"
-Do U Really Know?,Big Daddy Kane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Kane talking]
+Do U Really Know?,Big Daddy Kane,"['hip hop', 'r&b']","[Kane talking]
 Here's a little food for thought
 As I tell it, cause if it happened to this cat
 Then it can happen to you
@@ -27042,7 +27042,7 @@ One more time
 Y'all gangsta acts y'all be guerillas on tracks
 But relax, this just wax, nigga, damn
 [Chorus X2]"
-The Next Episode,Dr. Dre,"['hip hop', 'r&b', 'pop', 'jazz']","[Chorus: Snoop Dogg & Kurupt]
+The Next Episode,Dr. Dre,"['hip hop', 'r&b']","[Chorus: Snoop Dogg & Kurupt]
 La-da-da-da-dah
 It's the motherfuckin' D-O-double-G (Snoop Dogg!)
 La-da-da-da-dah
@@ -27103,7 +27103,7 @@ Hope you ready for the next episode
 Hey, hey, hey, hey
 Smoke weed every day
 [Produced by Dr. Dre]"
-Deadly Combination,Big L,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Ron G & 2Pac]
+Deadly Combination,Big L,"['hip hop', 'r&b']","[Intro: Ron G & 2Pac]
 Yes, indeed, it's the mix king Ron G
 I got somethin' the world ain't ready for
 New York City, L.A., Chicago, Atlanta
@@ -27163,7 +27163,7 @@ On this underground real shit, nigga, it's the heat, nigga
 Now, rewind this motherfucker
 You know you can't help it
 Deadly combination, boy"
-My Life,The Game,"['hip hop', 'alternative', 'r&b']","[Intro: The Game]
+My Life,The Game,"['hip hop', 'r&b']","[Intro: The Game]
 Punk-ass motherfucker, checkin' shit
 What you was gonna do?
 Kill me in my sleep, you bitch-ass nigga?
@@ -27257,7 +27257,7 @@ Lookin' to find a way through the day, a light for the night
 Dear Lord, you done took so many of my people
 I'm just wonderin' why you haven't taken my life
 Like what the hell am I doin' right? My life"
-Never Change,JAY-Z,"['hip hop', 'r&b', 'pop']","[Intro: JAY-Z]
+Never Change,JAY-Z,"['hip hop', 'r&b']","[Intro: JAY-Z]
 Never, never, never, never change
 Never change, this is Jay every day
 I never change
@@ -27478,7 +27478,7 @@ My midwest niggas hard, quick ta pull ya fuckin' card
 And down south we set if off, blow ya fuckin' face off
 And down south we set if off, blow ya fuckin' face off
 (Real nigga role call!)"
-Toss It Up,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'blues']","[Segue from ""Hail Mary""]
+Toss It Up,2Pac,"['hip hop', 'r&b']","[Segue from ""Hail Mary""]
 
 [Intro: 2Pac]
 The money behind the dreams
@@ -27607,7 +27607,7 @@ You know who beat we took, and we took y'all beat
 'Cause you wasn't rocking it right! (Toss it up now)
 Tired of suckers rocking beats that don't belong to them, toss it up, it's on, it's out there now, it's our beat now
 Yeah, toss it up now!"
-Get By,Talib Kweli,['hip hop'],"[Produced by Kanye West]
+Get By,Talib Kweli,"['hip hop', 'r&b']","[Produced by Kanye West]
 
 [Verse 1]
 Yeah
@@ -27702,7 +27702,7 @@ But there's people you find
 Strong or feeble in mind, I stay readin' the signs
 Y-y-y-yo, yo
 (Someone's feelin' it, that's what's up)"
-The 4th Branch,Immortal Technique,"['hip hop', 'alternative', 'r&b', 'pop', 'jazz']","[Intro]
+The 4th Branch,Immortal Technique,"['hip hop', 'r&b']","[Intro]
 The new age is upon us
 And yet the past refuses to rest in its shallow grave
 For those who hide behind the false image of the son of man
@@ -27868,7 +27868,7 @@ Killing and killing
 They sort of develop a taste for blood
 My God, so they are killers
 My God— My God, so they are killers"
-Ransom,Drake,['hip hop'],"[Intro - Drake]
+Ransom,Drake,"['hip hop', 'r&b']","[Intro - Drake]
 Yeah
 It's Drizzy, baby
 You already know what it is
@@ -27986,7 +27986,7 @@ Then, the heat I send burn skin
 [Outro: Lil Wayne]
 The end
 Young Mula, baby, ha"
-Da Graveyard,Big L,"['hip hop', 'pop', 'r&b']","[Intro]
+Da Graveyard,Big L,"['hip hop', 'r&b']","[Intro]
 It's the number one crew in the area
 
 [Verse 1: Big L]
@@ -28207,7 +28207,7 @@ You're my moonlight
 You're the starry skies above me
 Won't you please come down and hug me
 Think I found love in this club tonight"
-Dont Believe the Hype,Public Enemy,"['hip hop', 'r&b', 'jazz', 'pop']","[Intro: Flavor Flav + Sample]
+Dont Believe the Hype,Public Enemy,"['hip hop', 'r&b']","[Intro: Flavor Flav + Sample]
 Don't—
 Don't—
 Don't—
@@ -28378,7 +28378,7 @@ Don't believe the hype
 Don't—
 Don't believe—
 Don't believe the hype"
-Lucifer,JAY-Z,"['hip hop', 'r&b', 'pop']","[Produced by Kanye West]
+Lucifer,JAY-Z,"['hip hop', 'r&b']","[Produced by Kanye West]
 
 [Intro]
 Kanyeezy you did it again, you a genius, nigga!
@@ -28454,7 +28454,7 @@ Lord forgive him, we all have sinned
 But Bob's a good dude, please let him in
 And if you feel in my heart that I long for revenge
 Please blame it on the son of the morning, thanks again"
-Fuck You,CeeLo Green,"['r&b', 'pop']","[Chorus]
+Fuck You,CeeLo Green,"['r&b', 'pop', 'blues', 'jazz', 'hip hop']","[Chorus]
 I see you drivin' 'round town with the girl I love
 And I'm like, ""Fuck you"" (Ooh, ooh, ooh)
 I guess the change in my pocket wasn't enough
@@ -28526,7 +28526,7 @@ Said, if I was richer, I'd still be with ya
 Hah, now ain't that some shit? (Ain't that some shit?)
 And although there's pain in my chest, I still wish you the best
 With a ""Fuck you"" (Ooh, ooh, ooh-ooh)"
-Dig a Hole,JAY-Z,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Jay-Z]
+Dig a Hole,JAY-Z,"['hip hop', 'r&b']","[Intro: Jay-Z]
 Dig a hole, bury yourself, nigga!
 Go head! Keep goin'!
 I got some nice dresses for you guys
@@ -28638,7 +28638,7 @@ Dig a hole (Go ahead, bury yourself)
 Dig a hole (Dig a hole)
 Dig a hole (Dig a hole)
 Dig a hole (Go ahead, bury yourself)"
-Paragraph President,Blackalicious,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Intro]
+Paragraph President,Blackalicious,"['hip hop', 'r&b']","[Intro]
 We got the run on
 
 [Verse 1]
@@ -28837,7 +28837,7 @@ Fakts, yo, cut this motherfucker up, man
 
 [Scratches]
 ""I ain't the one"""
-La La La,Chris Webby,['hip hop'],"[Verse 1: Chris Webby]
+La La La,Chris Webby,"['hip hop', 'r&b']","[Verse 1: Chris Webby]
 We rollin' trees and smokin' la la la la la
 Another weed song from me
 Burnin' more trees than Cheech Chong
@@ -29054,7 +29054,7 @@ No Vaseline
 [Outro]
 Motherfuckin' nosejob havin'-ass
 Motherfuckin' Jheri Curl light, Ambi wearing motherfuckin' bitch"
-Blue Magic,JAY-Z,['hip hop'],"[Produced by The Neptunes]
+Blue Magic,JAY-Z,"['hip hop', 'r&b']","[Produced by The Neptunes]
 
 [Intro: Jay-Z]
 Roc-A-Fella Records
@@ -29249,7 +29249,7 @@ I'm on to the next one, on to the next one
 I'm on to the next one, on to the next one
 (Hold up) Freeze! Ay!
 Somebody bring me back some money please"
-Aston Martin Music,Rick Ross,['hip hop'],"[Intro: Rick Ross]
+Aston Martin Music,Rick Ross,"['hip hop', 'r&b']","[Intro: Rick Ross]
 Oh
 Let's pull the 2-seater out baby
 It's where ever you wanna go!
@@ -29368,7 +29368,7 @@ Girl, I told you I was coming back
 [Outro: Chrisette Michele]
 Aston Martin Music, Music
 Aston Martin Music, Music"
-Ready for Whatever,T.I.,"['hip hop', 'r&b', 'pop', 'alternative', 'rock']","[Intro]
+Ready for Whatever,T.I.,"['hip hop', 'r&b']","[Intro]
 Hate the price of fame 'cause it cost too much (Uh-yeah, boy)
 Lame niggas, these niggas talk too much (Uh-yeah)
 I'm ready for whatever, somebody better tell 'em (Uh-yeah, boy)
@@ -29477,7 +29477,7 @@ Now, true enough, I was dead wrong, I broke the law, I deserve to be punished. I
 Now, for all of y'all who think I was just ridin' around on some dumb shit: you know I'm smarter than you man! You know I'm smarter than you dawg! Ay, if you think I was just being stupid, shawty, I got some muhfuckin' oceanfront property in Idaho for sale, homie. If you believe that, I got a bridge in Brooklyn I wanna sell you, partner
 Ay, man, real talk: In order to understand my train of thoughts, you have to put yourself in my position. You can't expect me to think like you, 'cause my life ain't like yours, you know what I'm sayin?
 If you don't understand that, you don't understand English. I'm done talking"
-Insane,Eminem,['hip hop'],"[Produced by Dr. Dre]
+Insane,Eminem,"['hip hop', 'r&b']","[Produced by Dr. Dre]
 
 [Verse 1]
 I was born with a dick in my brain, yeah, fucked in the head
@@ -29607,7 +29607,7 @@ Say ""you can't afford it"". Yo, I can't ignore it
 Well go call them dope boys, you know you feel boring!
 You know that you fiending, you know that you need it
 It's Gucci, I'm greedy. My niggas stay eating"
-Upgrade,Lil Wayne,"['hip hop', 'alternative']","[Intro]
+Upgrade,Lil Wayne,"['hip hop', 'r&b']","[Intro]
 Yessir
 Three
 Ha, I love this shit
@@ -29691,7 +29691,7 @@ Ha, let me upgrade you
 Upgrade you, ah
 Ahhhh....
 Weezy!"
-Paris Morton Music,Drake,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus]
+Paris Morton Music,Drake,"['hip hop', 'r&b']","[Chorus]
 Would've came back for you, I just needed time
 To do what I had to do, caught in the life
 I can't let it go
@@ -29756,7 +29756,7 @@ Hope you forgive me, never meant wrong
 Tried to be patient but waited too long
 But I would've came back, but I would've came back for you
 Would've came back, would've came back"
-On the Run Untouchable,Kool G. Rap & DJ Polo,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Voices]
+On the Run Untouchable,Kool G. Rap & DJ Polo,"['hip hop', 'r&b']","[Voices]
 
 You be careful crossin the street
 Hey mister, you forgot your things, hey mister
@@ -29859,7 +29859,7 @@ Another life I had to waste
 He fell on his back, and then I spit right in his guinea face
 He saw the barrel of the devil’s gun
 Now they no longer got a brother on the run"
-Up Up  Away,Kid Cudi,['hip hop'],"[Verse 1]
+Up Up  Away,Kid Cudi,"['pop', 'hip hop', 'r&b']","[Verse 1]
 Now when the sun come up
 I'll be there to say ""What up"" in the morning
 Brush my teeth
@@ -29945,7 +29945,7 @@ A new hell he must conquer and destroy
 A new level of growth he must confront himself
 The machine and the ghost within
 This is the journey, of the Man on the Moon"
-143,Bobby Brackins,['hip hop'],"[Intro]
+143,Bobby Brackins,"['hip hop', 'r&b']","[Intro]
 Knockout
 Yeah, Ray J, Bobby Brackins
 Yeah
@@ -30033,7 +30033,7 @@ And pop pa pop bub
 I'm just looking for some love in the club
 
 143 I la la la love you x4 143!"
-Ambitionz Az a Ridah,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Ambitionz Az a Ridah,2Pac,"['hip hop', 'r&b']","[Intro]
 I won't deny it, I'm a straight ridah
 You don't wanna fuck with me
 Got the police bustin' at me
@@ -30145,7 +30145,7 @@ Got the police bustin' at me
 But they can't do nothin' to a G
 I won't deny it, I'm a straight ridah
 You don't wanna fuck with me"
-Victory,Diddy,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Sean Combs and Steven ""Stevie J"" Jordan for The Hitmen]
+Victory,Diddy,"['hip hop', 'r&b']","[Produced by Sean Combs and Steven ""Stevie J"" Jordan for The Hitmen]
 
 [Intro: The Notorious B.I.G.]
 One, one two
@@ -30287,7 +30287,7 @@ Can y'all hear me out there?
 Fuck y'all niggas wanna do
 It's all fucked up now.. what I'ma do now, huh?
 What I'ma do now? It's all fucked up now"
-You Must Love Me,JAY-Z,"['hip hop', 'pop', 'r&b', 'alternative', 'jazz', 'blues', 'rock']","[Intro: Kelly Price (Jay-Z)]
+You Must Love Me,JAY-Z,"['pop', 'hip hop', 'r&b']","[Intro: Kelly Price (Jay-Z)]
 Throughout my life (uh huh uh huh uh)
 No matter what I've done (right)
 You've been merciful and your love endureth (yeah)
@@ -30396,7 +30396,7 @@ You've always shown it
 You love me yea yeah
 Oh yeah
 I know that you love me"
-Better on the Other Side,The Game,['hip hop'],"[Intro: Diddy & Boyz II Men]
+Better on the Other Side,The Game,"['hip hop', 'r&b']","[Intro: Diddy & Boyz II Men]
 I remember the first time I seen you moonwalk (Oh woah)
 I believed I could do anything (Oh, ooh)
 You made the world dance
@@ -30485,7 +30485,7 @@ Do we live and let die?
 This the kinda song that make the angels cry
 Look up in the sky and ask God, why, why, why
 Do we live and let die?"
-Stop the Music,P-Money (Producer),"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Scribe]
+Stop the Music,P-Money (Producer),"['hip hop', 'r&b']","[Verse 1: Scribe]
 And I hope you feel my pain
 Hope you don't forget my name
 For the cause I claim and the reason I came
@@ -30539,7 +30539,7 @@ They can't hold me down no more
 They got to let me go!
 
 Chorus x3"
-Put It Down,Bun B,['hip hop'],"[Verse 1: Bun B]
+Put It Down,Bun B,"['hip hop', 'r&b']","[Verse 1: Bun B]
 Now when it come to makin' money, I'm a printing press (Press)
 And when it come to bein' trill, I'm the litmus test
 Run it like a fitness test (Test)
@@ -30645,7 +30645,7 @@ I threw some tints on it, he woulda loved it how I
 Put it down, put it down
 You know how I put it down, put it down
 Every time I come around"
-White Riot,The Clash,"['rock', 'alternative', 'blues', 'pop', 'jazz']","[Intro]
+White Riot,The Clash,"['rock', 'alternative', 'pop', 'blues', 'hip hop']","[Intro]
 1,2,3,4
 
 [Chorus]
@@ -30699,7 +30699,7 @@ White riot, I wanna riot
 White riot, a riot of my own
 White riot, I wanna riot
 White riot, a riot of my own"
-What You Know,T.I.,['hip hop'],"[Produced by DJ Toomp]
+What You Know,T.I.,"['hip hop', 'r&b']","[Produced by DJ Toomp]
 
 [Intro]
 Yeah, ayy, ayy, ayy, ayy
@@ -30809,7 +30809,7 @@ Loaded .44 on the low, where the cheese at?
 Fresh off the jet to the 'jects where the G's at
 What you know about that? What you know about that?
 What you know about that? Hey, I know all about that"
-All I Want Is You,Miguel,['r&b'],"[Intro: J. Cole]
+All I Want Is You,Miguel,"['r&b', 'jazz', 'hip hop', 'blues']","[Intro: J. Cole]
 Damn
 Damn
 Heheheh
@@ -30898,7 +30898,7 @@ Ooh, ooh
 Ooh, ooh, oh
 Yeah, now that you're gone, gone, gone
 I want you back"
-Chillin,Wale,['hip hop'],"[Intro]
+Chillin,Wale,"['hip hop', 'r&b']","[Intro]
 Na-na-na-na
 Na-na-na-na
 Hey, hey, hey
@@ -30996,7 +30996,7 @@ Flyest of the boys, flyest at the bars
 Flying in the sky with that money and arts
 We want it all now, we got it all, yup
 Look at that, look at how they lookin' at us"
-Dolla and a Dream II,J. Cole,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Dolla and a Dream II,J. Cole,"['hip hop', 'r&b']","[Intro]
 Yeah, aye wassup man? Aye, uh, aye look man, can I- can I get on- can I just get on this bus? All I got is a dollar fifty, I'm just sayin'. I just tryna get- I'm tryna get on the bus, man. I ain't got no mon- all I got is a dollar fifty, I don't go two dollars. Man, fuck you and yo' bus, nigga!
 (Yeah)
 Hey, hey (Yeah, got a dollar and a dream)
@@ -31087,7 +31087,7 @@ And I know in my heart one day that I'm gon' pay you back
 I got a dollar and a dream
 [Outro]
 I'll pay you back. Look, can we- can we set up some type of payment plan or somethin'? Like, you know what I'm sayin'? Like, you know? I just graduated six months ago so you know, times is kinda- times is kinda hard, baby. I- I just- can I just pay you like a lil' bit right now and then I pay you- I pay you the rest next- next month when I get paid. Can I just do somethin' like that? I gotta- I'm not even gon' lie to you, I don't, I don't really have it right now. I gotta pay how much? Five thousand dol- Aw, nigga is you crazy? Bitch you lucky I even answered the phone, I shouldn't have even picked up this motherfucker, I s- Look, what's ya- what's ya name? Can I- can I speak to a manager? You are the manager? Look, look can I speak to yo' manager? Who's- who owns this motherfucker? Let me talk to the owner! God damn it, I ain't- y'all niggas crazy... hahaha"
-Hustlin,Rick Ross,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Hustlin,Rick Ross,"['hip hop', 'r&b']","[Intro]
 Every day, I'm hustlin', hustlin', hustl—
 Hustlin', hustlin', hustl—
 Hustlin', hustlin', hustl—
@@ -31166,7 +31166,7 @@ Every day, I'm hustlin', e—every day, I'm hustli—
 Every day, I'm hustlin', e—every day, I'm hustlin'
 Every day, I'm hustlin', every day, I'm hustlin'
 Every day, I'm hustlin', every day, I'm— every day, I'm"
-Lost One,JAY-Z,"['hip hop', 'r&b', 'pop']","[Intro: Jay-Z]
+Lost One,JAY-Z,"['hip hop', 'r&b']","[Intro: Jay-Z]
 Uh, uh, uh, uh
 Uh, uh (It's not a diss song, it's just a real song)
 Uh, uh (You feel me?)
@@ -31246,7 +31246,7 @@ Get, one, lose some to win some
 One, one, one, Colleek, I lost one
 Story of a champion (One, one, one)
 Colleek, you're a champion, I lost one (One, one, one)"
-Uncut Pure,Big Daddy Kane,"['hip hop', 'blues', 'r&b', 'pop', 'jazz']","[Verse 1]
+Uncut Pure,Big Daddy Kane,"['hip hop', 'r&b']","[Verse 1]
 See the crowd in an uproar actin' unstable
 Here comes Dark Gable raps remarkable
 The mic ripper, cash flipper, Cristal sipper
@@ -31336,7 +31336,7 @@ Bringin' you that uncut pure, knockin' at your door
 About to give you more of the raw
 Point yo' hands up to the sky, high
 Get on down, baby, we keep it live"
-Lost Angels L.A. L.A.,Cold 187um,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Cold 187Um Talking]
+Lost Angels L.A. L.A.,Cold 187um,"['hip hop', 'r&b']","[Intro: Cold 187Um Talking]
 Chop, chop, chop, chop, chop, chop ""that's right""
 Shot you, shot you, shot you, ""that's been real right""
 Chop, chop, chop, chop, chop, chop ""in City Of Angels y'all""
@@ -31419,7 +31419,7 @@ And the feeling that you get is somewhat spiritual
 I'mma have to let you know how reality goes
 Makes you fly like the Crow as you slide into limbo...
 [Hook]"
-Earth Wind  Fire,Big Daddy Kane,['hip hop'],"I'm from Brooklyn, New York C
+Earth Wind  Fire,Big Daddy Kane,"['hip hop', 'r&b']","I'm from Brooklyn, New York C
 
 I be the Earth motherin', smotherin' MC's
 Sha Queen covering 360 degrees
@@ -31500,7 +31500,7 @@ This rap skill here, I destined for a mill-aire
 And this is one ass whippin' you will wear, you still here?
 
 [Chorus: Sha-Queen]x2"
-Shame,Big Daddy Kane,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1]
+Shame,Big Daddy Kane,"['hip hop', 'r&b']","[Verse 1]
 There's no myth or fable about the pimpin' at your label
 What goes on under the table, why you think your deal is so unstable?
 Now, whose the macaroni, A&R's acting phony
@@ -31584,7 +31584,7 @@ Shame
 Now who the blame
 I need to be the Mayor, so I can change the things around here
 I need to be the Governor, I need to be the Governor"
-2 Killaz,Cold 187um,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Xzibit]
+2 Killaz,Cold 187um,"['hip hop', 'r&b']","[Xzibit]
 Let me ask you an question (Whats Up)
 You Ever been arrested (Hell Yea)
 So what you think that long ride downtown in the back of that car
@@ -31640,7 +31640,7 @@ So many niggas to die three strikes
 You better pray to god I don't catch you swerving
 Im going to dick that ass out like an virgin
 [Xzibit Chorus 2x]"
-Piggy Bank,50 Cent,['hip hop'],"[Produced by Needlz]
+Piggy Bank,50 Cent,"['hip hop', 'r&b']","[Produced by Needlz]
 
 [Chorus]
 Clickity-clank, clickity-clank
@@ -31736,7 +31736,7 @@ Yayo give my orders to my niggas on the phone
 And tell the niggas I said clip up
 Niggas got a green light on these monkies
 Hahahaha"
-Retrospect for Life,Common,"['hip hop', 'r&b', 'pop']","[Intro: Common]
+Retrospect for Life,Common,"['hip hop', 'r&b']","[Intro: Common]
 Yo, we gotta start respectin' life more y'all
 You look at your brother man you gotta see yourself
 Gotta see the God within him
@@ -31814,7 +31814,7 @@ Why didn't you stay
 I never dreamed you'd leave in summer
 Now the situations made things change
 Why didn't you stay"
-Two Words,Kanye West,"['hip hop', 'r&b', 'jazz', 'pop', 'blues', 'alternative']","[Chorus: Kanye West]
+Two Words,Kanye West,"['hip hop', 'r&b']","[Chorus: Kanye West]
 We in the streets, playa, get your mail
 It's only two places you end up: either dead or in jail
 Still nowhere to go
@@ -31905,7 +31905,7 @@ Ghetto people, get this shit off your chest
 North to the south, to the east, to the west
 Black Jack Johnson, it's no contest
 (High) And show it to 'em like"
-The Die,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Lupe Fiasco]
+The Die,Lupe Fiasco,"['hip hop', 'alternative', 'r&b']","[Intro: Lupe Fiasco]
 I present...
 The death...
 Of The Cool
@@ -32022,7 +32022,7 @@ Ay, nigga hurry your ass up, nigga! Damn
 [Other voice]
 Whats up now nigga?
 Ain't too cool now is you nigga?"
-Pressure,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Lupe Fiasco]
+Pressure,Lupe Fiasco,"['hip hop', 'rock', 'pop', 'blues', 'jazz', 'r&b', 'alternative']","[Intro: Lupe Fiasco]
 Roc-A-Fella
 1st and...!
 Jay! Lupe!
@@ -32109,7 +32109,7 @@ Everything I do I do for you (I do it all for you)
 Everything I say, you know it's the truth (I'll say it is the truth)
 I'll take all the pressure off of you (Take pressure off of you)
 I'll take the pressure off of you"
-Primos Four Course Meal,Celph Titled,"['hip hop', 'r&b', 'pop']","[Intro]
+Primos Four Course Meal,Celph Titled,"['hip hop', 'r&b']","[Intro]
 Heheheheheh
 Celph Titled the motherfuckin' landmine lieutenant
 Back up in this biznatch fo' sho' tho'
@@ -32203,7 +32203,7 @@ We bring that real shit back, that raw shit
 You heard the word?
 Yo, better say cheese motherfuckers. Before I squeeze motherfuckers [x3]
 Motherfucka"
-Catacomb Kids,Aesop Rock,"['hip hop', 'rock', 'r&b', 'pop', 'alternative', 'jazz']","[Verse 1]
+Catacomb Kids,Aesop Rock,"['rock', 'hip hop', 'r&b']","[Verse 1]
 I was a dark, dumb student, no hooky rookie
 Day tripping on visions of chickens that look like R. Crumb drew em
 They grew em in a royal dirt of Suffolk County's
@@ -32292,7 +32292,7 @@ What's this
 Watch me jump
 What's this
 Knock em out the box, Aes"
-Buffalo Bill,Eminem,['hip hop'],"[Intro]
+Buffalo Bill,Eminem,"['hip hop', 'r&b']","[Intro]
 Ahh! You sick asshole, let me go
 Somebody please! Help!
 Oh my God, please help me! Oh
@@ -32382,7 +32382,7 @@ Man, you don't want to go up in those hills
 Up in those hills, uppa-up in those hills
 You better beware, stay clear of Buffalo Bill
 Buffalo Bill, Buffa-Buffalo Bill"
-Mean  Vicious,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Mean  Vicious,Lupe Fiasco,"['hip hop', 'r&b']","[Intro]
 He's meaaaan, and vicious
 
 [Verse 1]
@@ -32476,7 +32476,7 @@ Doin' his thang, doin' his thang
 
 [Outro]
 It's meaaaaan, and vicious"
-Certified,Diverse,['hip hop'],"I dont believe youre ready for this
+Certified,Diverse,"['hip hop', 'r&b']","I dont believe youre ready for this
 Are you ready for this?
 We'd like to capture your minds right now
 Take you a little bit higher
@@ -32572,7 +32572,7 @@ Certified
 Call me super
 Certified
 Call me super"
-Without Me,Eminem,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz']","[Intro: Obie Trice]
+Without Me,Eminem,"['hip hop', 'r&b']","[Intro: Obie Trice]
 Obie Trice, real name, no gimmicks (*record scratch*)
 
 [Refrain 1: Eminem]
@@ -32692,7 +32692,7 @@ La-la-la-la-la, la-la-la-la
 Hum, dei-dei, la-la, la-la-la-la-la
 La-la-la-la-la, la-la-la-la
 Kids!"
-Muddy Swim Trunks,Asher Roth,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Muddy Swim Trunks,Asher Roth,"['hip hop', 'r&b']","[Intro]
 Seared Foie Gras with Quince and Cranberry
 One day, I'm gonna say something really impressive
 
@@ -32755,7 +32755,7 @@ And hugging on the nuts of some owner of some buzz-nuss
 All for some bucks and some buzz cause, tut tut
 I'll be doing this just for fun stuff (like what?)
 Jumping in the mud in my swim trunks"
-Public Service Announcement,JAY-Z,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Just Blaze]
+Public Service Announcement,JAY-Z,"['hip hop', 'r&b']","[Produced by Just Blaze]
 
 [Jay-Z]
 This is a public service announcement
@@ -32813,7 +32813,7 @@ Man, you was who you was 'fore you got here
 Only God can judge me, so I'm gone
 Either love me, or leave me alone
 Now, back to our regularly scheduled program, L'Album Noir: The Black Album"
-My Dads Gone Crazy,Eminem,"['hip hop', 'r&b', 'alternative']","*Television static*
+My Dads Gone Crazy,Eminem,"['hip hop', 'r&b']","*Television static*
 *Eminem begins to snort cocaine*
 
 [Speech: Steve King & Hailie Jade]
@@ -32988,7 +32988,7 @@ And I'm what all the fuss about
 And if they talkin', I bet I'm what they discussion 'bout
 Hit me at the office, same extension
 Consider me the reason y'all should pay attention"
-Encore,JAY-Z,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Kanye West]
+Encore,JAY-Z,"['rock', 'hip hop', 'r&b']","[Produced by Kanye West]
 
 [Intro]
 Thank you, thank you, thank you!
@@ -33082,7 +33082,7 @@ Send Just some dust, send Hip a grip
 Then you gotta spit a little somethin' like this
 [Outro]
 (What the hell are you waiting for?)"
-Lovalot,M.I.A.,['hip hop'],"[Intro]
+Lovalot,M.I.A.,"['hip hop', 'r&b']","[Intro]
 They told me this is a free country
 But now it feels like a chicken factory
 I feel cooped up, I wanna bust free;
@@ -33152,7 +33152,7 @@ But I fight
 Nookie clean, nookie tight, and that's no lie)
 But I fight
 But I fight the ones that fight me"
-Leave the Bourbon on the Shelf,The Killers,"['rock', 'alternative', 'metal', 'blues']","[Verse 1]
+Leave the Bourbon on the Shelf,The Killers,"['rock', 'alternative', 'pop', 'metal']","[Verse 1]
 Shaking like the devil when she lets me go
 Got a new place, and how it's so much better
 Falling over myself, the television's on
@@ -33196,7 +33196,7 @@ And I'll drink it by myself
 And I'll love you endlessly
 Darling, don't you see?
 I'm not satisfied"
-Dirty South,Goodie Mob,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Dirty South,Goodie Mob,"['hip hop', 'r&b']","[Intro]
 One to da two da three da four
 Dem dirty Red Dogs done hit the door
 And they got everybody on they hands and knees
@@ -33273,7 +33273,7 @@ See powder gets you hyper, reefa makes you calm
 Cigarettes give you cancer, woo woo's make you dumb
 What you niggas know about the Dirty South?
 What you niggas know about the Dirty South?"
-Trill,Clipse,['hip hop'],"[Chorus: Pharrell]
+Trill,Clipse,"['hip hop', 'r&b']","[Chorus: Pharrell]
 Uh, I got jewels (Uh), plus wheels (What?)
 Pullin' up in your grill, I'm so trill
 Your girl want Cosmos, Cristeels (Fuck out of here)
@@ -33397,7 +33397,7 @@ Bitch, I'm trill (You don't hear me though)
 Bitch, I'm so trill (What?)
 Nigga, I'm trill (You don't hear me though)
 Nigga, I'm so trill (What? What?)"
-Chapter 13 Rich Man vs. Poor Man,Common,"['hip hop', 'r&b', 'jazz', 'pop', 'alternative', 'blues', 'rock']","[Intro]
+Chapter 13 Rich Man vs. Poor Man,Common,"['hip hop', 'jazz', 'blues', 'r&b', 'pop']","[Intro]
 Let's talk about money
 Ynot get the money
 Common Sense want the money
@@ -33539,7 +33539,7 @@ Two thousand and thirteen shot
 Common Sense and Ynot
 UAC and Darian combined
 We rock while you rot, no stress"
-Doo Wop That Thing,Lauryn Hill,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Doo Wop That Thing,Lauryn Hill,"['hip hop', 'r&b']","[Intro]
 Yo, remember back on the Bully
 When cats used to harmonize like (Ooh, ooh-ooh, ooh)
 Yo, yo, my men and my women
@@ -33650,7 +33650,7 @@ Well, you tell me. What’s the difference?
 (Maybe they ain’t never been loved before or been in love before, they don’t know what the feeling is to be loved)
 (She poetic)
 She killed it, we could end that conversation with that, right?"
-The Instrumental,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Lupe Fiasco & Jonah Matranga]
+The Instrumental,Lupe Fiasco,"['hip hop', 'rock', 'r&b', 'metal', 'alternative']","[Intro: Lupe Fiasco & Jonah Matranga]
 Uh!
 And he never lies
 And he never lies
@@ -33738,7 +33738,7 @@ And you can't tell me just who you are
 You buy new clothes just to hide those scars
 You built that roof just to hide those stars
 Now you can't take it back to the start"
-Theifs Theme,Nas,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Theifs Theme,Nas,"['hip hop', 'r&b']","[Intro]
 One, two
 Check, one, two
 One, two, who got more style, the son do
@@ -33809,7 +33809,7 @@ One, two
 Check, one, two
 One, two, who got more style, the son do {*echoes*}
 {*explosion*}"
-My Chick Bad Remix,Ludacris,['hip hop'],"[Chorus]
+My Chick Bad Remix,Ludacris,"['hip hop', 'r&b']","[Chorus]
 My chick bad, my chick hood
 My chick do stuff that your chick wish she could
 My-my chick bad, my chick hood
@@ -33922,7 +33922,7 @@ And I'm lovin it, HEY!
 Let's go, all my chicks are bad
 All my chicks is hood
 All my chicks is better than yours, AH!"
-Keep Ya Head Up,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro: 2Pac]
+Keep Ya Head Up,2Pac,"['hip hop', 'r&b']","[Intro: 2Pac]
 Little something for my godson Elijah
 And a little girl named Corin
 
@@ -34135,7 +34135,7 @@ I know you wanna
 I know you wanna
 I know you wanna
 Globel express, International baby"
-Shooter,Lil Wayne,['hip hop'],"[Intro: Lil Wayne & Robin Thicke]
+Shooter,Lil Wayne,"['hip hop', 'r&b']","[Intro: Lil Wayne & Robin Thicke]
 Yeah, yeah, yeah, haha
 Weezy Baby, y'all (Yeah)
 Don't get shot
@@ -34227,7 +34227,7 @@ No, no, me won't surrender, no
 No, I promise no surrender
 I got my burner
 And I'm the shooter"
-Dollaz  Sense,DJ Quik,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1]
+Dollaz  Sense,DJ Quik,"['hip hop', 'r&b']","[Verse 1]
 Now let's get down to business, bitches!
 'Cause it seems like y'all just keep on tryin' to diss this
 Nigga that you know that's been down for years
@@ -34369,7 +34369,7 @@ Y'all don't understand, y'all can't fade this
 I'm the first nigga that was ""Bangin on Wax""
 Yeah, if you remember, 1987 underground tapes
 And it don't stop, and it won't stop"
-The Day After,Goodie Mob,"['r&b', 'alternative']","[Hook]
+The Day After,Goodie Mob,"['alternative', 'hip hop', 'r&b']","[Hook]
 I'm so happy we made it
 I knew one day we would
 All these years of strugglin'
@@ -34471,7 +34471,7 @@ Were never understood
 Now my eyes are open and I can clearly see
 We didn't die for nothin' cuz we're finally free
 I'm so happy"
-Fighting,Goodie Mob,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative', 'rock']","(T-Mo)
+Fighting,Goodie Mob,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","(T-Mo)
 Put me in a serious situation hope I get another chance
 To live life as I know
 4:30 was the time, I'm feelin' a pain in my chest
@@ -34571,7 +34571,7 @@ Goodie Mob means, ""The Good Die Mostly Over Bullshit""
 You take away one ""O"" and it will let you know
 ""God is Every Man of Blackness""
 The Lord has spoken thru me and the G-Mo-B!"
-Free,Goodie Mob,"['hip hop', 'r&b', 'alternative']","Lord it's so hard, living this life
+Free,Goodie Mob,"['hip hop', 'r&b']","Lord it's so hard, living this life
 A constant struggle each and every day
 Some wonder why I'd rather die
 Than to continue living this way
@@ -34584,7 +34584,7 @@ Cause I wanna be free, completely free
 Lord won't you please come and save me
 I wanna be free, totally free
 I'm not gon' let this world worry me"
-This Plane,Wiz Khalifa,"['hip hop', 'r&b', 'pop']","[Intro]
+This Plane,Wiz Khalifa,"['hip hop', 'r&b']","[Intro]
 Yeah it's young Khalifa man
 Mr. Spacely
 Everyone call me man
@@ -34797,7 +34797,7 @@ But no, you'll never find
 Hot shit like mine
 'Cause I provide
 That new new"
-Cash Flow,Ace Hood,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: DJ Khaled, T-Pain & Rick Ross]
+Cash Flow,Ace Hood,"['hip hop', 'r&b']","[Intro: DJ Khaled, T-Pain & Rick Ross]
 We the best Def Jam
 I introduce you to Ace; Ace, let's get money!!
 (Cash flow) Haha, it's too easy, nigga
@@ -34975,7 +34975,7 @@ On the for reala, my nigga, just call me Scarface
 Nobody know my name, they only know my face
 (All I have in this world, all I have in this world)
 On the for reala, my nigga, just call me Scarface"
-God Bless the Dead,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro: 2Pac]
+God Bless the Dead,2Pac,"['hip hop', 'r&b']","[Intro: 2Pac]
 Rest in peace to my motherfucker Biggy Smallz
 That's right, bwoy, it's goin' on, right here
 Thug Life, God bless the dead
@@ -35065,7 +35065,7 @@ God bless the dead
 God bless the dead
 God bless the dead
 God bless the dead"
-Breathe Easy Lyrical Exercise,JAY-Z,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Breathe Easy Lyrical Exercise,JAY-Z,"['hip hop', 'r&b']","[Intro]
 So I had to memorize these rhymes until I got home, you understand?
 So, and they'll do— you know
 Once you memorize a sentence, it's like an exercise
@@ -35141,7 +35141,7 @@ One, one, two, two, three, three, four
 Breathe easy
 One, two, three, four
 Breathe easy"
-Candy Drippin Like Water,Snoop Dogg,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook]
+Candy Drippin Like Water,Snoop Dogg,"['hip hop', 'r&b']","[Hook]
 You want 'em? I got 'em, drippin' like water
 You want 'em? I got 'em, drippin' like water
 You want 'em? I got 'em, drippin' like water
@@ -35263,7 +35263,7 @@ You want 'em? I got 'em, drippin' like water
 You want 'em? I got 'em, drippin' like water
 You want 'em? I got 'em, drippin' like water
 You want 'em? I got 'em, drippin' like water"
-Money Dont Make U Rich,Hi-Tek,"['hip hop', 'alternative']","[Hook: Mitchy Slick]
+Money Dont Make U Rich,Hi-Tek,"['hip hop', 'r&b', 'alternative']","[Hook: Mitchy Slick]
 No talkin don't pay the rent
 And sittin won't let you style like this
 But money don't make you rich
@@ -35324,7 +35324,7 @@ Violate and come to your final destination
 Mouth{?} pacin - Pacific Ocean main land
 Chasin retail, re-up in rotation
 [Hook] - 2X"
-Super Supreme,The Lady of Rage,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Verse 1]
+Super Supreme,The Lady of Rage,"['hip hop', 'r&b']","[Verse 1]
 Now I be drilling emcees
 When my lyrics spill like Valdez, oil
 Bubble and toil, the brew without the bitches
@@ -35420,7 +35420,7 @@ Uhh, sheeyit, microphone fiend
 Ahh.. definitely rough..
 
 Sheeyit"
-Ladies,Lakim Shabazz,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Lakim Shabazz]
+Ladies,Lakim Shabazz,"['hip hop', 'r&b']","[Verse 1: Lakim Shabazz]
 Time to jam, I got about grand ready to splurge
 Suddenly I got the urge to watch some bodyslam
 Ready to go clubs-hoppin', my pockets full of money
@@ -35656,7 +35656,7 @@ I'm from the city in the Midwest
 Best city in the whole wide-wide world, hey
 City in the whole wide world, hey
 City in the whole wide world, hey"
-Welcome to Assholeville,Apathy,"['hip hop', 'r&b', 'alternative']","[Verse: Apathy]
+Welcome to Assholeville,Apathy,"['hip hop', 'r&b']","[Verse: Apathy]
 I talk shit like my shit dont stink
 I don't front like I'm rich,I don't rock no link
 I never, puff piff, and my clothes ain't pink
@@ -35714,7 +35714,7 @@ I rap and produce to
 A felon and boost to
 Beileve me cause cd's ain't sellin like they used to
 Believe me coz CD’s ain't selling like they used to…"
-2 Minute Warning,Snoop Dogg,['hip hop'],"[Snoop Dogg]
+2 Minute Warning,Snoop Dogg,"['hip hop', 'r&b']","[Snoop Dogg]
 Sometimes I feel lost like a runaway, read over the dire
 Reap while I stay gettin Richard like Pryor
 Need to put the gun away cause I got priors
@@ -35761,7 +35761,7 @@ Fuck this rap shit!
 Shots fired
 Suspect down
 Request EMT immediately"
-If I Was President Dave Chappelle Version,Wyclef Jean,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook]
+If I Was President Dave Chappelle Version,Wyclef Jean,"['hip hop', 'r&b']","[Hook]
 If I was president
 I'd get elected on Friday, assassinated on Saturday
 Buried on Sunday, they'd go back to work on Monday
@@ -35795,7 +35795,7 @@ Tell them about JFK
 If I was President
 
 [Hook]"
-Do It All,Drake,['hip hop'],"[Hook]
+Do It All,Drake,"['hip hop', 'r&b']","[Hook]
 Somebody remind me where I am
 That's right I’m at home, yeah I’m right where I belong
 Girl you say you feeling faded yeah me too
@@ -35904,7 +35904,7 @@ Going harder than I did
 Watch me do it
 
 [Instrumental Outro]"
-Fear,Drake,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Fear,Drake,"['hip hop', 'r&b']","[Intro]
 This is why I do this shit
 I think they call this ""venting""
 
@@ -35985,7 +35985,7 @@ Don't believe the lies, look me in my eyes
 Please don't be scared of me, please don't be scared of me
 I remember you, this feeling isn't new
 So please don't be scared of me, please don't be scared of me"
-Thug Passion,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro: 2Pac]
+Thug Passion,2Pac,"['hip hop', 'r&b']","[Intro: 2Pac]
 Alright, new drink: one part Alizé, one part Cristal
 Thug's passion, baby, y'all know what time it is
 This drink is guaranteed to get the pussy wet and the dick hard
@@ -36110,7 +36110,7 @@ Give me some of your thug passion, baby
 You got me drippin' wet
 From the way you make me sweat
 Give me some of your thug passion, baby, ohh"
-That Funny Feeling,Lupe Fiasco,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz', 'blues', 'rock']","[Verse 1]
+That Funny Feeling,Lupe Fiasco,"['hip hop', 'r&b']","[Verse 1]
 Yeah
 It's Hirst verses and Murakami rhyming
 All my raps is superflat, all your raps is super wack
@@ -36140,7 +36140,7 @@ And plus the real God has been on my side since birth
 I hope that he forgives me, I hope I do his work in every single verse
 Now I might do a dance, I might even jerk, tell them niggas don't hate
 Only God is great, Enemy Of The State"
-B.M.F. Blowin Money Fast,Rick Ross,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Lex Luger]
+B.M.F. Blowin Money Fast,Rick Ross,"['hip hop', 'r&b']","[Produced by Lex Luger]
 
 [Intro: Rick Ross]
 Ugh
@@ -36230,7 +36230,7 @@ Real niggas gettin' money from the fuckin' start
 
 [Outro]
 Maybach Music"
-Make You Feel That Way,Blackalicious,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook]
+Make You Feel That Way,Blackalicious,"['hip hop', 'r&b']","[Hook]
 Make you feel that way, make you feel that way
 Make you feel that way, make you feel that way
 Make you feel that way, make you feel that way
@@ -36322,7 +36322,7 @@ Chillin' with your family, y'know just, y'know just really, really
 Feelin', feelin' the moment to the fullest
 Y'know, really, really, really, just chillin' (yeah)
 It's love, it's love, it's love"
-Malcolm X,"Royce da 5'9""","['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","Royce talking
+Malcolm X,"Royce da 5'9""","['hip hop', 'r&b']","Royce talking
 D-12, worst fucking rap group ever (You ready?)
 
 [Intro: Royce Da 5'9""]
@@ -36460,7 +36460,7 @@ You'll end up like click boom, bitch
 Rock City motherfucker, regardless
 Get the point bitch, or get the hollows motherfucker
 It's Cash Flow, bitch, Big Homie"
-Cant Tell Me Nothing,Kanye West,"['hip hop', 'r&b', 'jazz']","[Intro: Kanye West & Young Jeezy]
+Cant Tell Me Nothing,Kanye West,"['hip hop', 'r&b']","[Intro: Kanye West & Young Jeezy]
 La, la, la la (Yeah)
 Wait 'til I get my money right
 
@@ -36556,7 +36556,7 @@ Then you can't tell me nothing, right?
 [Connie Mitchell vocalizing]
 
 [Produced by DJ Toomp and Kanye West]"
-Hey Ma,Cam'ron,"['hip hop', 'r&b', 'pop']","[Chorus: Freekey Zekey & (Toya), Both]
+Hey Ma,Cam'ron,"['hip hop', 'r&b']","[Chorus: Freekey Zekey & (Toya), Both]
 Yeah, come on
 Hey ma (Wassup?)
 Let's slide (Alright)
@@ -36642,7 +36642,7 @@ Alright - 'cause we gon' take a ride tonight
 So ma (Wassup?)
 Let's slide (Alright)
 Alright - and we gon' get it on tonight"
-Voices of the Voiceless,Lowkey,"['hip hop', 'alternative', 'r&b', 'dance']","[Lowkey]
+Voices of the Voiceless,Lowkey,"['hip hop', 'r&b']","[Lowkey]
 From West End to the West Bank
 I write righteous rhymes with my right and wrestle the devil with my left hand
 Never work for a Zionist, never been a yes man
@@ -36755,7 +36755,7 @@ Come what may we will survive
 (Lowkey)
 You can try to avoid us but it's pointless
 You can never avoid the voices of the voiceless"""
-My Darling,Eminem,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues']","[Intro: Eminem]
+My Darling,Eminem,"['hip hop', 'r&b']","[Intro: Eminem]
 Yeah, look
 
 [Verse 1: Eminem]
@@ -36873,7 +36873,7 @@ And if I cannot have you no one can, you're my darling
 You and me were meant to be together, my darling
 And if I cannot have you no one can, you're my darling
 ‘Cause I possess your soul, your mind, your heart and your body (your body, your body, your body, your body)"
-Running From the Storm,Hilltop Hoods,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: Pressure]
+Running From the Storm,Hilltop Hoods,"['hip hop', 'r&b']","[Verse 1: Pressure]
 It's the calm before the storm that sends that feeling to my frontal lobe
 As thunder roams the sky at night I seek shelter yet run alone
 The rain soaks me to the bone, assisted by the winter wind
@@ -36944,7 +36944,7 @@ And not give into emotion, be strong, keep on
 Running
 
 [Scratches: DJ Debris]"
-The Soul of the Beat,Hilltop Hoods,"['hip hop', 'r&b', 'jazz', 'pop', 'blues']","[Verse 1: Suffa]
+The Soul of the Beat,Hilltop Hoods,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Verse 1: Suffa]
 Look
 10 stories below if you ever try finding me
 I'm the one with rhymes so high tech I write in binary
@@ -37022,7 +37022,7 @@ Summer nights on the porch with a beer
 ""This is the beat, y'all, of the year""
 
 [Outro: DJ Debris]"
-Sojourn,Hilltop Hoods,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Verse 1]
+Sojourn,Hilltop Hoods,"['hip hop', 'r&b']","[Verse 1]
 I don't represent a city (What?), I represent the whole earth
 Suck my head inside my chest so I can soul search
 Suffa MC gets deep in the cut like infections
@@ -37086,7 +37086,7 @@ You feeling me now? (You feeling me now?)
 You feeling me now? (You feeling me now?)
 You feeling me now? (You feeling me now?)
 You feeling me now? (I hope you're feeling me now)"
-Get Low,Lil Jon & The East Side Boyz,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Chorus: Big Sam]
+Get Low,Lil Jon & The East Side Boyz,"['hip hop', 'r&b']","[Chorus: Big Sam]
 3-6-9, damn, you fine
 Hoping she can sock it to me one more time
 Get low
@@ -37237,7 +37237,7 @@ Till all skeet-skeet, motherfucker (Motherfucker)
 Till all skeet-skeet, goddamn (Goddamn)
 Till all skeet-skeet, motherfucker (Motherfucker)
 Till all skeet-skeet, goddamn (Goddamn)"
-Dead Homiez,Ice Cube,"['hip hop', 'r&b', 'pop', 'rock']","[Verse 1]
+Dead Homiez,Ice Cube,"['hip hop', 'r&b']","[Verse 1]
 Up early in the morning, dressed in black
 Don't ask why? Cause I'm down in a suit and tie
 They killed a homie that I went to school with (Damn!)
@@ -37432,7 +37432,7 @@ White Sky, White Clouds, You Say It's A White Day
 White Sky, White Clouds, I Say It Look Like Yay
 
 [Hook]"
-Superstar,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus: Matthew Santos & Lupe Fiasco]
+Superstar,Lupe Fiasco,"['hip hop', 'r&b']","[Chorus: Matthew Santos & Lupe Fiasco]
 If you are what you say you are (Yeah, yeah) a superstar (Gon' say now)
 Then have no fear, the camera's here (Ugh)
 And the microphones
@@ -37522,7 +37522,7 @@ And they want a show-oh oh oh (Yeah)
 If you are
 What you say you are
 Then have no fear"
-Hand-Me-Downs,Soul Position,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Hook]
+Hand-Me-Downs,Soul Position,"['hip hop', 'r&b']","[Hook]
 Come on say it loud
 Look what we handed down
 Don't it make you proud?
@@ -37592,7 +37592,7 @@ Look what we handed down
 
 [Scratching]
 Things is bound to change"
-Old Man,Neil Young,"['rock', 'blues', 'jazz', 'alternative', 'pop', 'r&b']","[Intro]
+Old Man,Neil Young,"['rock', 'jazz', 'blues']","[Intro]
 Old man, look at my life
 I'm a lot like you were
 Old man, look at my life
@@ -37638,7 +37638,7 @@ Old man, look at my life
 I'm a lot like you were
 Old man, look at my life
 I'm a lot like you were"
-Streets on Lock,Jeezy,['hip hop'],"[Verse 1]
+Streets on Lock,Jeezy,"['hip hop', 'r&b']","[Verse 1]
 These niggas just hating they ain’t talking bout shit
 I’m a grown ass man, I flip my own bricks
 I don’t need your help I can own my own dick
@@ -37691,7 +37691,7 @@ Hit em both in the shower
 Pedal to the medal bout a buck eighty-five
 Mr. 17.5 slow head well I drive, whassup
 [Hook x2]"
-Affirmative Action,Nas,['hip hop'],"[Produced by Dave Atkinson & Trackmasters]
+Affirmative Action,Nas,"['hip hop', 'r&b']","[Produced by Dave Atkinson & Trackmasters]
 
 [Intro: AZ]
 This is what, this what they want, huh?
@@ -37792,7 +37792,7 @@ Now triple that times three
 We got three quarters of another ki
 [Outro: Foxy Brown]
 The Firm, baby, Vol. 1"
-Sex Room,Ludacris,['hip hop'],"[Intro: Trey Songz]
+Sex Room,Ludacris,"['hip hop', 'r&b']","[Intro: Trey Songz]
 Welcome to my sex room
 Sex room, room, oh, oh, oh
 Welcome to my sex room, room
@@ -37883,7 +37883,7 @@ Sex room, room, oh, oh, oh
 I got it right here
 In my sex room
 Sex room, room, oh, oh, oh"
-Biterphobia,Soul Intent,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Scratches: DJ Butter Fingers]
+Biterphobia,Soul Intent,"['hip hop', 'r&b']","[Scratches: DJ Butter Fingers]
 
 [Verse 1: Eminem]
 Sneakin' in through the back door, booty MCs get ambushed
@@ -37939,7 +37939,7 @@ And made 'em difficult to fade 'em
 Energetic and imaginative pronouns and verbs
 Predicates and adjectives will reach out and grab you 9 times out of 10
 That's why I'm spitting one-of-a-kind rhymes out a pen"
-Reign of the Tec,The Beatnuts,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[JuJu]
+Reign of the Tec,The Beatnuts,"['hip hop', 'r&b']","[JuJu]
 It's the hard little pistol-packing punk dope smuggler
 Lethal when I kill, I go straight for the jugular
 Back again to hit ya with the junkyard funk
@@ -38007,7 +38007,7 @@ When I pop the trunk, hit the deck
 ""John Wayne couldn't even stand the reign of the Tec""
 Head for the hills before you get wrecked
 ""John Wayne couldn't even stand the reign of the Tec"" (Repeat 2x)"
-Hate Me Now,Nas,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by D Moet, Pretty Boy & Trackmasters]
+Hate Me Now,Nas,"['hip hop', 'r&b']","[Produced by D Moet, Pretty Boy & Trackmasters]
 
 [Intro: Nas and Puff Daddy]
 Escobar Season has returned
@@ -38141,7 +38141,7 @@ You can hate me now
 You can hate me now, (C'mon, niggas!)
 But I won't stop now (Do it now! Get this shit over with!)
 It ain't gon' never stop, niggas!"
-Surviving The Times,Nas,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz']","[Intro]
+Surviving The Times,Nas,"['hip hop', 'r&b']","[Intro]
 But that's the whole, tragic, point my friends!
 What would I do if I could suddenly feel
 And to know once again that what I feel is real?
@@ -38236,7 +38236,7 @@ What would I do
 If I could reach inside of me
 And to know how it feels
 To say I like what I see?"
-Just Dont Give a Fuck,Eminem,"['hip hop', 'r&b', 'alternative']","[Produced by Jeff Bass]
+Just Dont Give a Fuck,Eminem,"['hip hop', 'r&b']","[Produced by Jeff Bass]
 
 [Intro: Frogg]
 Woah, a-get yo' hands in the air
@@ -38337,7 +38337,7 @@ But see me on the street and duck
 (Shit, fuck everybody)
 Outsiderz, Pacewon, Young Zee (Fuck the entire world)
 D.U"
-Still Don’t Give a Fuck,Eminem,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Bass Brothers]
+Still Don’t Give a Fuck,Eminem,"['hip hop', 'r&b']","[Produced by Bass Brothers]
 
 [Intro]
 A lot of people ask me, am I afraid of death?
@@ -38522,7 +38522,7 @@ Irvine, get your boy off of that E
 [Outro]
 Get at me, dawg
 Holla"
-One Day at a Time Em’s Version,2Pac,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1: 2Pac]
+One Day at a Time Em’s Version,2Pac,"['hip hop', 'r&b']","[Verse 1: 2Pac]
 Sometimes it's hard to wake up in the morning
 Mind full of demons, I don't wanna hear 'em anymore
 Got me heartbroken, fine, so many babies screamin'
@@ -38608,7 +38608,7 @@ They do what they gotta do to shackle and hold us
 So we gotta do what we gotta do to keep rollin'
 One way at a time, keep the faith in your mind
 \And we continue growin', one day at a time, damn"
-Say Whats Real,Drake,"['hip hop', 'r&b', 'jazz', 'blues', 'pop']","[Verse: Drake]
+Say Whats Real,Drake,"['hip hop', 'r&b', 'blues']","[Verse: Drake]
 Why do I feel so alone?
 Like everybody passing through the studio
 Is in character as if he acting out a movie role
@@ -38684,7 +38684,7 @@ And I think this got this Making-of-a-Legend feel
 Problem with these other niggas, they ain't never real
 [Outro]
 Yeah, that's all I can say"
-Go Hard,DJ Khaled,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Kanye West, DJ Khaled & T-Pain]
+Go Hard,DJ Khaled,"['hip hop', 'r&b']","[Intro: Kanye West, DJ Khaled & T-Pain]
 Ayy, we go by The Runners
 I think it's time for me to go hard as the hood I'm from, ayy
 DJ Khaled, We The Best (Go hard!)
@@ -38805,7 +38805,7 @@ So I am (Hard) I will (Hard) I gots to go (Go hard)
 You got another way to live, I gots to go hard (Go hard)
 I am gettin' it in until the end
 I gotta go (Go) go (Go) go (Go) go (Go hard)"
-Wavin Flag,K'naan,"['hip hop', 'r&b', 'pop']","[Intro]
+Wavin Flag,K'naan,"['pop', 'hip hop', 'r&b']","[Intro]
 When I get older I will be stronger
 They'll call me freedom, just like a wavin' flag
 
@@ -38963,7 +38963,7 @@ I said I'm sorry, Mama
 I never meant to hurt you
 I never meant to make you cry
 But tonight I'm cleanin' out my closet"
-The One,Slaughterhouse,"['hip hop', 'r&b', 'alternative']","[Intro]
+The One,Slaughterhouse,"['hip hop', 'r&b']","[Intro]
 Slaughterhouse
 
 [Chorus: The New Royales]
@@ -39035,7 +39035,7 @@ On the race to rule the world, you
 Cut your teeth on fame and diamonds
 Your time is up now: three, two, one
 (We number) One"
-I Got 5 on It,Luniz,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative']","[Intro: Michael Marshall]
+I Got 5 on It,Luniz,"['hip hop', 'r&b']","[Intro: Michael Marshall]
 Creep on in, on in, on in (Whoa)
 See I'm ridin' high (Whoa)
 Kinda broke this evening, y'all, so all I got's five, I got five
@@ -39121,7 +39121,7 @@ I got five on it; grab your four, let's get keyed
 I got five on it; messin' with that Indo weed
 I got five on it; it's got me stuck, and I'm tore back
 I got five on it; partner, let's go half on a sack"
-Ever So Clear,Bushwick Bill,"['hip hop', 'r&b', 'alternative', 'pop']","[Verse 1: Bushwick Bill & (Tamica)]
+Ever So Clear,Bushwick Bill,"['hip hop', 'r&b']","[Verse 1: Bushwick Bill & (Tamica)]
 See, most of my life I never had shit
 I felt like an outcast, treated like a misfit
 Damn near didn't make it on my day of birth
@@ -39226,7 +39226,7 @@ And the doctor said I wouldn't make it through the night
 But God told me, ""Everything is gonna be alright""
 And I'm glad that I'm here, G
 But it's fucked up I had to lose an eye to see shit clearly"
-Guessing Game,eLZhi,['hip hop'],"[Hook]
+Guessing Game,eLZhi,"['hip hop', 'r&b']","[Hook]
 Here we go-go, let's play a game-game
 Try to guess the word that I'm a use, I'll explain-lain
 I'm end up each and every line just the same-same
@@ -39318,7 +39318,7 @@ Here we go-go, let's play a game-game
 Try to guess the word that I'm a use, I'll explain-lain
 I'm end up each and every line just the same-same
 You fill in the blank before I say it, that's the aim-aim"
-Never,Chiddy Bang,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Intro Skit]
+Never,Chiddy Bang,"['hip hop', 'r&b']","[Intro Skit]
 “Welcome to the Swelly Express. How can I help you?‘
 ""Yeah, can I get two round-trips to New York, please?”
 “Sure that’ll be $48, cash or credit?”
@@ -39380,7 +39380,7 @@ And when you say you better, I bet I’ll say never
 And if you say you better, I bet I’ll say never
 And when you say you better, I bet I’ll say never
 And if you say you better, I bet I’ll say never"
-Shoot Em Up,Nas,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1]
+Shoot Em Up,Nas,"['hip hop', 'r&b']","[Verse 1]
 One .44, two .45's
 Three loaded clips, four niggas roll, one nigga drives
 Five hundred Benz, six reasons why this kid should die
@@ -39438,7 +39438,7 @@ Shoot 'em up, just shoot 'em up, what?
 Shoot 'em up, just shoot 'em up, what?
 Shoot 'em up, just shoot 'em up, what?
 (Kill-kill-kill, murder-murder-murder)"
-Wordsmith,Chino XL,['hip hop'],"[Hook: Chino XL]
+Wordsmith,Chino XL,"['hip hop', 'r&b']","[Hook: Chino XL]
 Perfection, flawless, masterpiece, no mistakes
 Back in the 1800s, I was burned at the stake (I am the Wordsmith)
 Metaphor Mephistopheles, degrees I’ve achieved, the brain
@@ -39559,7 +39559,7 @@ Genesis been Biblical—that’s something you got to give in to
 [Outro: Chino XL]
 I am the Wordsmith
 (“He’s crazy!”)"
-Speak Your Mind,Immortal Technique,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz', 'blues', 'rock']","[Intro]
+Speak Your Mind,Immortal Technique,"['hip hop', 'r&b']","[Intro]
 You have to speak the truth
 You have to speak your mind
 
@@ -39608,7 +39608,7 @@ And spread it through the ghetto of every city like contraband
 Stomp a man of any complexion with a devilish nature
 'Cause I'm tryin' to save the Earth
 But you're just gettin' in line to rape her"
-GO,Common,"['hip hop', 'alternative', 'r&b']","[Chorus: Kanye West (& John Mayer)]
+GO,Common,"['hip hop', 'r&b']","[Chorus: Kanye West (& John Mayer)]
 (Go) go, go, go, go, go and on the count of three
 (Go) go, go, go, go, go and on the count of three
 (Go) go, go, go, go, go, go
@@ -39671,7 +39671,7 @@ Uh, on the count of three everybody run back to your fantasy, now
 (Go) go, go, go, go, go and on the count of three
 (Go) go, go, go, go, go, go
 And on the count of three everybody run back to your fantasy, now"
-On the Floor,Brandon Flowers,"['rock', 'alternative', 'blues', 'pop', 'jazz', 'metal', 'r&b', 'hip hop']","[Verse 1]
+On the Floor,Brandon Flowers,"['rock', 'alternative', 'pop', 'metal']","[Verse 1]
 When the lights go down in the city
 Getting real low
 Settling in my room
@@ -39715,7 +39715,7 @@ Where the years have gathered and run
 That's where I'll be
 And I find myself on my knees
 Begging please"
-Brendas Got a Baby,2Pac,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro: Dave Hollister]
+Brendas Got a Baby,2Pac,"['hip hop', 'r&b']","[Intro: Dave Hollister]
 Brenda's got a baby
 Brenda's got a baby
 
@@ -39782,7 +39782,7 @@ Don't you know she's got a baby?
 Don't you know she's got a—
 Don't you know she's got a—
 Don't you know she's got a baby?"
-Deep Fried Frenz,MF DOOM,"['hip hop', 'r&b', 'pop', 'jazz', 'blues', 'alternative', 'rock']","[Intro]
+Deep Fried Frenz,MF DOOM,"['hip hop', 'blues', 'jazz', 'r&b', 'pop']","[Intro]
 Before we go any further
 Friends
 
@@ -39891,7 +39891,7 @@ He traveled through remote villages, where strangers are seldom seen
 He continued his search, never showing his face
 Unless threatened by bandits who prey on travelers
 Who foolishly wander alone through their domain"
-Brooklyn,Fabolous,['hip hop'],"[Intro - Funkmaster Flex]
+Brooklyn,Fabolous,"['hip hop', 'r&b']","[Intro - Funkmaster Flex]
 Is Brooklyn in here tonight?!?!?!?
 
 [Hook: Notorious B.I.G.]
@@ -39962,7 +39962,7 @@ That Flatbush push, nah mean Cypress Hill feel
 Crown Heights tight with it, the Williamsburg swerve
 Coney Island styling on 'em, Canarsie flossing
 Park Slope dope you know, ya dig?"
-Hometown Hero Remix,Big K.R.I.T.,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Verse 1 - Big K.R.I.T.]
+Hometown Hero Remix,Big K.R.I.T.,"['hip hop', 'r&b']","[Verse 1 - Big K.R.I.T.]
 A superhero in the flesh
 Even at my worst, I'm the best
 For the finish, I stretch
@@ -40154,7 +40154,7 @@ Four-hundred-and-eighty-seven-million-nine-hundred-and-se-
 -Seventy-three-thousand-four-hundred-and-sixty-three...
 And seventy
 Yeah"
-90210,Wale,['hip hop'],"[Chorus]
+90210,Wale,"['hip hop', 'r&b']","[Chorus]
 And she throws up whatever she eats
 She leave the bathroom with a nosebleed
 Regular girl, celebrity dreams
@@ -40246,7 +40246,7 @@ She live her whole life like TV
 And she would do anything for everything
 Regular girl, celebrity dreams
 She is 90210"
-Supa Dupa Lemonade,Big Sean,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues']","[Intro]
+Supa Dupa Lemonade,Big Sean,"['hip hop', 'r&b']","[Intro]
 I do it
 Do it, do it
 B-I G, Finally Famous getting money
@@ -40416,7 +40416,7 @@ Alright, now somebody show some money in this bitch
 And I got my b's with me like some honey in this bitch, you dig
 I got my gun in my boo purse
 And I don't bust back, because I shoot first"
-Seventh Floor Crew,Seventh Floor Crew,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Marvelous]
+Seventh Floor Crew,Seventh Floor Crew,"['hip hop', 'r&b']","[Intro: Marvelous]
 Is this thing on? Good
 Hi, this is Marvelous; this song
 This song in its entirety is not meant to disrespect any women
@@ -40808,7 +40808,7 @@ Really? (Yuh) Nigga, I'm illy (Ayy)
 
 [Outro]
 Yeah (It's the King, bitch!)"
-2012 It Aint the End,Jay Sean,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Jay Sean & Nicki Minaj]
+2012 It Aint the End,Jay Sean,"['hip hop', 'pop', 'dance', 'r&b']","[Intro: Jay Sean & Nicki Minaj]
 Ohh
 Jay Sean (Jay Sean, Jay Sean)
 2-0-1-2 (Nicki Minaj, Nicki Minaj), oh-yeah
@@ -40903,7 +40903,7 @@ It ain't the end of the world
 The world
 Because the world keeps spinnin'
 The world keeps spinnin' around"
-Too Many Rappers,Beastie Boys,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro - Nas]
+Too Many Rappers,Beastie Boys,"['hip hop', 'r&b']","[Intro - Nas]
 Mic check, mic check
 
 [Hook - Nas] (Beastie Boys)
@@ -41002,7 +41002,7 @@ Rockin' stadiums and shitty bars
 Go back in time, send a fax from my car
 
 [Hook]"
-Mythsysizer,J Dilla,['hip hop'],"[Intro: J Dilla & radio host]
+Mythsysizer,J Dilla,"['hip hop', 'r&b']","[Intro: J Dilla & radio host]
 I’m already working on the next one though
 So now, you must have got paid mad loot for that
 Oh, I don’t even want to talk about that, knahmsayin?
@@ -41013,7 +41013,7 @@ Yo, yo, yo-yo-yo, yo, yo
 Yo-yo yo, yo-yo yo-yo-yo
 Yo, yo, YO, yo, YO, yo
 Yo, yo-yo, yo, yo-yo"
-Need Some Lovin,Lakim Shabazz,['hip hop'],"Put negativity to a halt, it's not my fault that we're killin
+Need Some Lovin,Lakim Shabazz,"['hip hop', 'r&b']","Put negativity to a halt, it's not my fault that we're killin
 And illin, that's why I'm takin my time and I'm spillin
 My guts on a cut like this one
 Make sure you don't miss none
@@ -41081,7 +41081,7 @@ Stick together, no matter the weather
 Let no one stop ya, I'm sure you can prosper
 We need to cut it out, we're self-destructin
 Play ya part, open your heart and spread some lovin"
-The Manipulation Pt. 2,Wale,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Wale]
+The Manipulation Pt. 2,Wale,"['hip hop', 'r&b']","[Intro: Wale]
 I got that better love, that no one better love, that here today gone tomorrow but this forever love
 Let me mine you until your vagina is wet enough and fill your mind with pleasant thoughts
 Champaign by your tub, rose petals as she walk, you know the floor don't need to see you
@@ -41122,7 +41122,7 @@ I am sick of women treatin' niggas like that lotto ticket
 Yeah my shit ain't no scratch and win
 You just tryin' to get over, so baby get over, here
 And get it open, get it open, get it open"
-Real Muthaphuckkin Gs,Eazy-E,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Real Muthaphuckkin Gs,Eazy-E,"['hip hop', 'r&b']","[Intro]
 Compton, Compton, Compton
 Ahh, real muthaphuckkin G's
 Ahh, real muthaphuckkin G's
@@ -41343,7 +41343,7 @@ Kookies
 (Voice 2): He must be mad
 (Voice 4): Well, if anyone can do it. Nevertheless let's get out of here, while we can
 (Misc. Voice): Food, we need food"
-Playing with Fire,Lil Wayne,['hip hop'],"[Intro]
+Playing with Fire,Lil Wayne,"['hip hop', 'r&b']","[Intro]
 StreetRunner
 
 [Chorus: Betty Wright & Lil Wayne]
@@ -41432,7 +41432,7 @@ If I set this stage on fire!
 
 [Outro: Lil Wayne]
 C3, 3Peat"
-Fire Hazard,Rick Ross,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Fire Hazard,Rick Ross,"['hip hop', 'r&b']","[Intro]
 Who the fuck you think you fuckin' with, I'm a fuckin' earner
 Ring the fuckin' fire alarm, here come the money burners
 My money burnin', my money burnin', my money burnin'
@@ -41481,7 +41481,7 @@ Bon Jovi in this bitch blow for everybody
 Ricky Ross, Ric Flair, black watch, brick fare
 Never Hollywood even though I got it good
 I ain't got a goon but fuck it somebody gotta do it"
-Blueprint Momma Loves Me,JAY-Z,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Blueprint Momma Loves Me,JAY-Z,"['hip hop', 'r&b']","[Intro]
 Yeah, yeah
 Uh, right, right, right
 Right, right, right, right
@@ -41539,7 +41539,7 @@ Your time is coming, you one hit away
 Beans, I ain't tryna change you, just give you some game
 To make the transition from the street to the fame
 My mama loves me"
-No One Remix,Kanye West,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Bridge: Kanye West]
+No One Remix,Kanye West,"['hip hop', 'r&b']","[Bridge: Kanye West]
 People keep talking
 They can say what they like
 I don't worry cause
@@ -41626,7 +41626,7 @@ No one no one no one
 Can get in the way of what I feel for you
 You you
 Can get in the way of what I feel for you"
-You Know You Know,Drake,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus]
+You Know You Know,Drake,"['hip hop', 'r&b']","[Chorus]
 You know, you know
 You know, you know
 
@@ -41904,7 +41904,7 @@ So won't you raise your glass, won't you?
 So won't you raise your glass, won't you?
 So won't you raise your glass, won't you?
 So won't you raise your glass, won't you?"
-Rocking Just to Make Ya Move,Bomfunk MC's,"['hip hop', 'alternative', 'dance', 'jazz', 'pop']","Rocking just to make you move
+Rocking Just to Make Ya Move,Bomfunk MC's,"['hip hop', 'dance', 'r&b']","Rocking just to make you move
 Rocking just to make you move
 Rocking just to make you move
 Rocking just to make you move
@@ -41987,7 +41987,7 @@ Make you move, make you move
 Make you move, make you move
 Make you move, make you move
 Make you move, make you move"
-Ego Remix,Beyonc,"['pop', 'r&b', 'jazz', 'rock', 'alternative', 'hip hop', 'blues']","[Verse 1: Kanye West]
+Ego Remix,Beyonc,['pop'],"[Verse 1: Kanye West]
 I got a big ego (Ha ha ha), I’m such a big ego (Uh-uh-uh)
 I got a big, (eh-eh-eh), ego, she love my big, (eh-eh-eh), ego
 So stroke my big, (eh-eh-eh), ego
@@ -42079,7 +42079,7 @@ Whoa, whoa, whoa, whoa, woo
 Oh, oh-oh-oh
 Oh, oh-oh-oh
 Oh, oh-oh-oh)"
-Magnificent,Rick Ross,['hip hop'],"[Intro: Rick Ross]
+Magnificent,Rick Ross,"['hip hop', 'r&b']","[Intro: Rick Ross]
 Baby, you a true thoroughbred, a born winner
 I expect you to be magnificent
 It's the boss
@@ -42176,7 +42176,7 @@ Oh I, I can show you
 Oh I, show you better than I can tell you (ooh-whoa-ooh-whoa)
 Oh I, I-I can show you
 Oh I, oh I, oh I"
-I’m Back,Eminem,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Chorus]
+I’m Back,Eminem,"['hip hop', 'r&b']","[Chorus]
 That's why they call me Slim Shady (I'm back)
 I'm back (I'm back), I'm back
 That's why they call me Slim Shady (I'm back)
@@ -42295,7 +42295,7 @@ Dr. Dre {​​*scratch*}​​ guess who's back
 Back back {​​*scratch*}​​ back {​​*scratch*}​​
 Slim Shady, 2001
 I'm blew out from this blunt (*sighs*) fuck"
-8 Mile,Eminem,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+8 Mile,Eminem,"['hip hop', 'r&b']","[Intro]
 It's alright, it's okay
 I'm gonna make it anyway
 Gonna make it, can't give up now
@@ -42445,7 +42445,7 @@ Ain't gon' follow no footsteps, I'm makin' my own
 (Gonna make it, can't give up now)
 Only way that I know how to escape from this 8 Mile Road
 (I'ma make it somehow)"
-Nail in the Coffin,Eminem,['hip hop'],"[Intro]
+Nail in the Coffin,Eminem,"['hip hop', 'r&b']","[Intro]
 This motherfucker, man! Just won't shut up, will you?
 Talking 'bout I owe him
 Bitch, you owe me! I'm promotin' you right now
@@ -42551,7 +42551,7 @@ Fuckin' sissy! And you got us scared up in here, motherfucker
 Suck our motherfuckin' dicks!
 Oh!... And for those that don't know
 Don't get it twisted, y'all... The Source has a white owner!"
-Billionaire,Travie McCoy,"['pop', 'r&b', 'jazz', 'rock', 'alternative', 'hip hop', 'blues']","[Pre-Chorus: Bruno Mars]
+Billionaire,Travie McCoy,['pop'],"[Pre-Chorus: Bruno Mars]
 I wanna be a billionaire so fucking bad
 Buy all of the things I never had
 I wanna be on the cover of Forbes magazine
@@ -42617,7 +42617,7 @@ Oh-oh, oh-oh (Oh)
 
 [Outro: Bruno Mars]
 I wanna be a billionaire so fucking bad"
-Queens Get the Money,Nas,"['hip hop', 'r&b', 'pop']","[Produced by Jay Electronica]
+Queens Get the Money,Nas,"['hip hop', 'r&b']","[Produced by Jay Electronica]
 
 [Verse]
 Ayo, Queens get the money, niggas still screaming, paper-chasing
@@ -42661,7 +42661,7 @@ The square mileage of Earth or what pi is
 I'm the shaky hand that touched George Foreman in Zaire
 The same hand that punched down devils
 That brought down the Towers"
-Real,Lupe Fiasco,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+Real,Lupe Fiasco,"['hip hop', 'r&b']","[Intro]
 Food & Liquor
 
 [Hook: Lupe Fiasco]
@@ -42739,7 +42739,7 @@ Baby girl said she was in the mood for something real
 Real, real, real, real
 Let's go
 So real, so real, so real"
-Funeral,Goodie Mob,['hip hop'],"Naaah I can't do this shit y'all my stuff home
+Funeral,Goodie Mob,"['hip hop', 'r&b']","Naaah I can't do this shit y'all my stuff home
 Gotta nigga name all lit up
 This ain't the first time this name all lit up
 
@@ -42761,7 +42761,7 @@ Ain't no tellin man, knowhatI'msayin when I'm gonna be off in
 That motherfucker dirty, knowhatI'msayin? I don't how they knew
 YaknowhatI'msayin, I don't know what they gon say when I'm gon hog
 KnowhatI'msayin? I can feel that shit dirty"
-Show Me What You Got,JAY-Z,"['hip hop', 'r&b', 'pop']","[Produced by Just Blaze]
+Show Me What You Got,JAY-Z,"['hip hop', 'r&b']","[Produced by Just Blaze]
 
 [Intro: Jay-Z]
 This is a state of emergency, bitches
@@ -42859,7 +42859,7 @@ Blazettes
 Roc-A-Fella Records
 Dynasty continues, y'all die
 Uh huh, peace!"
-This Cant Be Life,JAY-Z,"['hip hop', 'r&b', 'alternative', 'pop']","[Intro: Jay-Z]
+This Cant Be Life,JAY-Z,"['hip hop', 'r&b']","[Intro: Jay-Z]
 Geah.. whassup?
 To all my street niggas, project niggas
 Real niggas, worldwide
@@ -43068,7 +43068,7 @@ Same blonde hair, same rap channel
 Good night, everyone!
 Thank you for coming! Your host for the evening (Marshall!)
 Oh! Heh"
-Locked Up,Akon,['hip hop'],"[Verse 1]
+Locked Up,Akon,"['hip hop', 'r&b']","[Verse 1]
 I'm steady tryna find the motive (Motive)
 Why I do what I do?
 Freedom ain't getting no closer (Closer)
@@ -43151,7 +43151,7 @@ I'm locked up, they won't let me out
 Ohhh! They won't let me out
 Can you please accept my phone calls? (They won't let me out)
 I'm locked up, locked up, locked up"
-That Aint Right,Non-Prophets,"['hip hop', 'r&b', 'pop', 'alternative', 'jazz', 'blues', 'rock']","[Hook]
+That Aint Right,Non-Prophets,"['hip hop', 'alternative', 'r&b', 'pop']","[Hook]
 Wasting away at your job (that ain't right)
 Are you fronting on my squad? (that ain't right)
 And you're always acting hard (that ain't right)
@@ -43209,7 +43209,7 @@ I don't blast lead, I write until my pen explodes
 All over fashion dreads and your Ecko clothes
 I don't listen when they say ""shit ain't ever gonna change""
 And they say I ain't got no soul"
-The 3rd World,Immortal Technique,"['hip hop', 'alternative']","[Intro]
+The 3rd World,Immortal Technique,"['hip hop', 'r&b']","[Intro]
 Yeah
 Immortal Technique
 And DJ Green Lantern
@@ -43293,7 +43293,7 @@ The water is poison where I'm from, the Third World, son
 700 children died by the end of this song
 Revolution'll come where I'm from, the Third World, son
 Constant occupation leaves the Third World torn"
-Medicine Ball,Eminem,['hip hop'],"[Intro]
+Medicine Ball,Eminem,"['hip hop', 'r&b']","[Intro]
 Oh my goodness, what have I done?
 Oh no, I can't believe it
 It's like I've got the whole world in my palm
@@ -43382,7 +43382,7 @@ My medicine ball, you're in my medicine ball, friends
 
 [Outro]
 The world is mine"
-Youre a Customer,EPMD,"['hip hop', 'r&b', 'jazz', 'pop', 'alternative']","[Erick Sermon]
+Youre a Customer,EPMD,"['hip hop', 'r&b']","[Erick Sermon]
 Knick knack patty whack give a dog a bone
 Yo, don't give him nothing but a microphone
 Don't stop, I'm not finished yet
@@ -43506,7 +43506,7 @@ People, they say that I'm a party pooper
 That’s not true, I’m a Long Island trooper
 
 You a customer"
-You Gots to Chill,EPMD,"['hip hop', 'r&b', 'pop']","[Intro: Parrish Smith + sample]
+You Gots to Chill,EPMD,"['hip hop', 'r&b']","[Intro: Parrish Smith + sample]
 You gots to chill
 DJ K La Boss cuts ""Jungle boogie""
 
@@ -43706,7 +43706,7 @@ Crossover
 Whatever you want
 Whatever you need
 I wanna do it for you, I do"
-So Wat Cha Sayin,EPMD,"['hip hop', 'r&b', 'pop', 'jazz']","[Erick Sermon]
+So Wat Cha Sayin,EPMD,"['hip hop', 'r&b']","[Erick Sermon]
 The employees of the year, yeah, we're back to work
 I took time off, while other rappers got jerked
 Due to the fact they wack in their track
@@ -43793,7 +43793,7 @@ Sip a Pepsi or Coke, with a twist of lime
 Or crack a forty-oh, and then I go for mine
 So what you sayin'?
 So what you sayin'?"
-Verbal Intercourse,Raekwon,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by RZA]
+Verbal Intercourse,Raekwon,"['hip hop', 'r&b']","[Produced by RZA]
 
 [Intro: Raekwon, Nas & Ghostface Killah]
 No tricks, no tricks, baby
@@ -43880,7 +43880,7 @@ Cream, my whole team is eatin' off of this good shit (Word up, throw your hands 
 Good shit, nigga, next time, no more reload shit (Cock back the MAC if, say whatever your Hawaiian style)
 Keep your eyes open and your wallet in your front pocket (Exoticness, fly shit)
 RZA, Ghost, and Chef, and Nas, niggas in the profit (Floatin' on a nine-five in the wind)"
-Put It On,Big L,"['hip hop', 'r&b', 'pop', 'alternative']","[Intro: Kid Capri]
+Put It On,Big L,"['hip hop', 'r&b']","[Intro: Kid Capri]
 Hey, hey, hey
 Come on, come on, come on, come on
 Come on, come on, come on, come on
@@ -43977,7 +43977,7 @@ The whole D.I.T.C. (Yeah, they be puttin' it on and on)
 And of course Kid Capri (Yeah, I be puttin' it on)
 The whole N.Y.C. (Yeah, we be puttin' it on and on)
 And I’m out"
-Im Housin,EPMD,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Parrish Smith]
+Im Housin,EPMD,"['hip hop', 'r&b']","[Parrish Smith]
 Coolin' on the scene like a horse in a stable
 A brother got ill and tried to snatch a fat cable
 I stepped back, like it wasn't no thing
@@ -44045,7 +44045,7 @@ All party goers, also behind show-ers
 Who like the not, fast slow flow of rhymes that form in my dome
 Out the mouth, to the microphone
 Because I'm housin'"
-Hard,Rihanna,['hip hop'],"[Intro: Rihanna & Jeezy]
+Hard,Rihanna,"['pop', 'hip hop', 'r&b']","[Intro: Rihanna & Jeezy]
 Yeah, yeah, yeah (Yeah, yeah, yeah, yeah, yeah, yeah)
 Yeah, yeah, yeah (Ah yeah, yeah, yeah yeah, yeah, yeah)
 Ah yeah yeah yeah (Ah yeah yeah yeah, haha)
@@ -44155,7 +44155,7 @@ So hard, so hard (Too hard)
 
 [Outro: Rihanna]
 That I, I, I"
-Skys The Limit,The Notorious B.I.G.,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: Voletta Wallace]
+Skys The Limit,The Notorious B.I.G.,"['pop', 'hip hop', 'r&b']","[Intro: Voletta Wallace]
 Baby, look at me
 Mama love you
 And I know you ain't no little boy no more
@@ -44579,7 +44579,7 @@ Nah, nah, we stay at 50, how I go down to 30
 Well, okay, it gon' be drizzlin' then, it ain't gon' rains, fuck it
 Ayy? It gon' be drizzly
 Mm-hm, nigga, that ain't participation, mm-hm, no, mm-hm"
-Hustlers Ambition,50 Cent,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Sample: Maze]
+Hustlers Ambition,50 Cent,"['hip hop', 'r&b']","[Sample: Maze]
 Like the fire needs the air
 I won't burn unless you're there, you're there
 Oooh I need you
@@ -44673,7 +44673,7 @@ I don't care who you run with, or where you from
 Nigga, fuck you (Fuck you)
 I want the finer things in my life
 So I hustle (Hustle)"
-Beamer Benz or Bentley,Lloyd Banks,['hip hop'],"[Chorus: Lloyd Banks & Juelz Santana]
+Beamer Benz or Bentley,Lloyd Banks,"['hip hop', 'r&b']","[Chorus: Lloyd Banks & Juelz Santana]
 Beamer, Benz or Bentley
 Beamer, Benz or Bentley
 Beamer, Benz or Bentley
@@ -44771,7 +44771,7 @@ Beamer, Benz or Bentley (Ay)
 Beamer, Benz or Bentley (Whoa)
 Beamer, Benz or Bentley (Whoa, whoa)
 This scheming don't affect me (Ay)"
-Im So Hood Remix,DJ Khaled,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro: DJ Khaled]
+Im So Hood Remix,DJ Khaled,"['hip hop', 'r&b']","[Intro: DJ Khaled]
 DJ Khaled! We the best
 Who? We, nigga! We the best
 This the remix! The ""I'm So Hood"" remix!
@@ -44937,7 +44937,7 @@ I just bought me a ranch, watch the hundreds stacks
 No, those ain't Rolex diamonds, what you done to that?
 You fools fugazi, my fools from Haiti
 I moves 'em daily – it's a movie, baby! (Hood!)"
-In The Mornin,J. Cole,['hip hop'],"[Intro]
+In The Mornin,J. Cole,"['hip hop', 'r&b']","[Intro]
 Naw, I'm just saying like, I'm just trynna see you, you know what I'm saying? What you was doing after this
 Naw, I stay not too far from here, like right down the street-yea like right there
 
@@ -45012,7 +45012,7 @@ That ass is fat baby ain't no way to hide your frame
 Thank God I found you
 Just holla when you want it
 Cause girl your so thorough"
-Hungry,Common,"['hip hop', 'r&b', 'jazz', 'pop', 'blues', 'alternative', 'rock']","Yo, niggas don't want none of this
+Hungry,Common,"['hip hop', 'r&b', 'blues', 'jazz', 'pop']","Yo, niggas don't want none of this
 Niggas know they can't fuck with this
 Turn this shit up just a little more
 
@@ -45158,7 +45158,7 @@ Before Pete Rocked it on
 Now on with the mental plane, to spark the brain
 With the building to be born
 Yo, RZA flip the track with the what to cut"
-Take It in Blood,Nas,['hip hop'],"[Produced By: Live Squad, Lo Ground & Top General Sounds]
+Take It in Blood,Nas,"['hip hop', 'r&b']","[Produced By: Live Squad, Lo Ground & Top General Sounds]
 
 [Hook]
 I made it like that, I bought it like that, I'm livin' like that
@@ -45286,7 +45286,7 @@ VA, NC, LA
 So on and so on
 Big Ha, Houston Fifth Ward
 Black Ed, keep it real Moe"
-I Gave You Power,Nas,"['hip hop', 'r&b', 'pop']","[Produced by DJ Premier]
+I Gave You Power,Nas,"['hip hop', 'r&b']","[Produced by DJ Premier]
 
 [Intro]
 Damn
@@ -45394,7 +45394,7 @@ So fast, I didn't know he was hit, it's over wit'
 Heard mad niggas screaming, niggas running, cops is coming
 Now I'm happy, until I felt somebody else grab me
 Damn!"
-Ms. Fat Booty,Yasiin Bey,"['hip hop', 'r&b', 'alternative']","[Hook]
+Ms. Fat Booty,Yasiin Bey,"['hip hop', 'pop', 'r&b', 'alternative']","[Hook]
 I know I can't afford to stop
 For one moment, that it's too soon to forget
 I know I can't afford to stop
@@ -45494,7 +45494,7 @@ My 911's unanswered by my fly Taurus enchantress
 Next week, Mu hit me up, I saw Sharice at the Kittie club
 With some bangin' ass Asian playin' lay it down and lick me up
 What!?"
-Beef Rap,MF DOOM,['hip hop'],"[Produced by Metal Fingers]
+Beef Rap,MF DOOM,"['hip hop', 'r&b']","[Produced by Metal Fingers]
 
 [Skit 1]
 Now I haven't eaten all day. How am I gonna do this man?
@@ -45604,7 +45604,7 @@ Punk, try and ask why ours be better
 Could be the iron mask or the Cosby sweater
 Yes, you, who's screwed by the dude on the CD, nude
 (""We need food!"")"
-I’m Talkin’ to You,T.I.,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Produced by Just Blaze]
+I’m Talkin’ to You,T.I.,"['hip hop', 'r&b']","[Produced by Just Blaze]
 
 [Intro: Just Blaze (Tip)]
 No more hand claps
@@ -45739,7 +45739,7 @@ Youz a lame uz a shame to the game
 I say it you know what ya name is (I'm talkin to you)
 We can shoot it out whenever you wanna
 Whatever you wanna do boi I'm talkin to you"
-Makeshift Patriot,Sage Francis,"['hip hop', 'alternative', 'r&b']","[Intro]
+Makeshift Patriot,Sage Francis,"['hip hop', 'r&b']","[Intro]
 I’ve heard enough of you young fellas, who think you know it all
 You know nothing, you have not seen a shot fired
 And you’re waving the damn flag
@@ -45855,7 +45855,7 @@ I hang myself at half-mast
 It's the makeshift, the patriot
 The flag shop is out of stock
 I hang myself, don't waive your rights with your flags"
-Ass Like That,Eminem,"['hip hop', 'r&b', 'alternative', 'pop', 'jazz']","[Intro]
+Ass Like That,Eminem,"['hip hop', 'r&b']","[Intro]
 Ow, baby
 
 [Chorus]
@@ -45954,7 +45954,7 @@ D-doing, doing, doing
 Woo
 Fuck is wrong with you?
 Hah"
-We Takin Over Remix,Lil Wayne,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","[Intro]
+We Takin Over Remix,Lil Wayne,"['hip hop', 'r&b']","[Intro]
 Yessir!
 It's me
 The rapper eater, haha!
@@ -46020,7 +46020,7 @@ Light them trees, bring a log out
 Every day Christmas, I'm eggnogged out
 And hip-hop is my new-bought house
 My flow just grew legs and walked out—bye"
-Poker Face,Lady Gaga,"['dance', 'pop']","[Intro]
+Poker Face,Lady Gaga,"['pop', 'dance']","[Intro]
 Mum mum mum mah
 Mum mum mum mah
 Mum mum mum mah
@@ -46124,7 +46124,7 @@ P-p-p-poker face, f-f-fuck her face
 (Mum mum mum mah)
 P-p-p-poker face, f-f-fuck her face
 (Mum mum mum mah)"
-The Immaculate Conception,Jedi Mind Tricks,"['hip hop', 'r&b', 'pop', 'jazz', 'alternative', 'blues', 'rock']","Intro: Famke Janssen (Lord of Illusions) [Sample]
+The Immaculate Conception,Jedi Mind Tricks,"['hip hop', 'r&b']","Intro: Famke Janssen (Lord of Illusions) [Sample]
 ""Flesh is a trap. That's what he used to say
 Flesh is a trap. And magic sets us free.""
 

@@ -1,0 +1,34 @@
+{
+    
+    "ALL_GENRES" : {
+        "pop": ["pop"],
+        "rock": ["rock"],
+        "hip hop": ["hip hop", "rap"], 
+        "dance": ["dance", "eccentric", "party", "festive"],
+        "country": ["country"],
+        "jazz": ["jazz"],
+        "blues": ["blues"],
+        "r&b": ["r&b", "soul"],
+        "metal": ["metal"],
+        "gospel": ["gospel", "church", "spirtual"],
+        "alternative": ["alternative", "indie"]
+    },
+
+    "GENRE_TO_INDEX" : {
+        "pop": 0,
+        "rock": 1,
+        "hip hop": 2,
+        "dance": 3,
+        "country": 4,
+        "jazz": 5,
+        "blues": 6,
+        "r&b":  7,
+        "metal": 8,
+        "gospel": 9,
+        "alternative": 10
+    },
+
+    "INPUT_LENGTH": 600,
+    "WORD_EMBED_LEN": 100, 
+    "WORD_EMBED_FILE": "glove/glove.6B.100d.txt"
+}
