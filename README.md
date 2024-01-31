@@ -29,6 +29,9 @@ This project focuses on music genre classification using machine learning models
 
 ## Key Points
 
+- **Download GloVe embeddings:**
+    - Download GloVe embeddings [here](https://nlp.stanford.edu/projects/glove/). Ensure to paste the glove files into the folder called "glove." This is crucial for the notebooks to run properly.
+
 - **Configuration File (`config.json`):**
     - Contains essential settings like word embeddings file, embedding dimensions, input length, and genre mappings.
     
@@ -67,4 +70,3 @@ This project aims to explore the exciting intersection of music and machine lear
 - Last.fm API can be found [here](https://www.last.fm/api)
 
 - Genuis API can be found [here](https://docs.genius.com/)
-
