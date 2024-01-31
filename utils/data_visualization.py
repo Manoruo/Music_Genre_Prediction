@@ -74,7 +74,7 @@ def plot_multilabel_confusion_matrix(y_true, y_pred, labels):
                     xticklabels=['False', 'True'], yticklabels=['False', 'True'])
         plt.title(f'Confusion Matrix for Label: {label}')
         plt.xlabel('Predicted')
-        plt.ylabel('True')
+        plt.ylabel('Actual')
     plt.tight_layout()
     plt.show()
 

@@ -91,11 +91,10 @@ def message_to_word_vectors(message, word_dict):
             word_embeddings.append(word_dict[token])
     return np.array(word_embeddings, dtype=float)
 
-def one_hot_encode(label, mapping=GENRE_TO_INDEX, single_label=True):
+def one_hot_encode(label, mapping=GENRE_TO_INDEX):
     """
     
     Takes in label for a given song dataset and returns the one hot encoded version.
-    You can specify if only one genre possible or multiple using single_label
     
     Ex input:
     label = ['hip hop', 'r&b', blues]
@@ -104,25 +103,16 @@ def one_hot_encode(label, mapping=GENRE_TO_INDEX, single_label=True):
     Args:
         label (list): genres for the given song 
         mapping (dictionary, optional): the word embedding dictionary
-        single_label (boolean, optional): weather or not only one label possible 
     Returns:
         _type_: one hot representation of the genre for given label 
     """
     
     encoding = np.zeros(shape=(len(mapping.keys())))
-    # change this later, but I will only use 1 genre instead of multiple
-    
-    
-     # break if only one label possible
-    if single_label:
-        # pick a random genre that the song has and mark it as 1 (meaining song has that genre)
-        random_label = label[random.randint(0, len(label) - 1)]
-        encoding[GENRE_TO_INDEX[random_label]] = 1 
-    else:
-        # set the corresponding positions to 1 (meaning song has that genre)
-        for genre in label:
-            if genre in GENRE_TO_INDEX.keys():
-                encoding[GENRE_TO_INDEX[genre]] = 1
+   
+    # set the corresponding positions to 1 (meaning song has that genre)
+    for genre in label:
+        if genre in GENRE_TO_INDEX.keys():
+            encoding[GENRE_TO_INDEX[genre]] = 1    
                 
     
     return encoding
@@ -162,7 +152,7 @@ def pad_X(X, desired_sequency_length=INPUT_LENGTH):
      
     return np.array(X_copy).astype(float)
 
-def dataset_to_X_y(dataset, word_embed_dict, multi_class=False):
+def dataset_to_X_y(dataset, word_embed_dict):
     """
     
     Takes in a dataframe with columns:
@@ -200,7 +190,7 @@ def dataset_to_X_y(dataset, word_embed_dict, multi_class=False):
     y = pd.Series(y)
     
     # make sure to convert y_train (genres) to one hot numerical represnetation 
-    y = np.array([one_hot_encode(y, single_label=multi_class) for y in y.tolist()])
+    y = np.array([one_hot_encode(y) for y in y.tolist()])
     # ensure all lyrics are same size
     x = pad_X(all_word_vector_sequences)
     return x, y

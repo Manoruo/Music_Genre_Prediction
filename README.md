@@ -1,32 +1,70 @@
-# Song_Genre_Prediction
+# Music Genre Classification Project Overview
 
-The goal of this project is to develop a machine-learning model that predicts the genre of a song based on a given set of lyrics.
-We train our model on a kaggle dataset as well as a custom dataset generated using Spotify + Genius Lyrics 
+## Project Description
 
-# Setup # 
+This project focuses on music genre classification using machine learning models. The goal is to predict music genres based on song lyrics. Two separate aspects are addressed: predicting a single genre per song and predicting multiple genres for a song. The project involves creating custom datasets from [LastFM](https://www.last.fm/home) and [Genius Lyrics](https://genius.com/), as well as processing a premadee [Kaggle dataset](https://www.kaggle.com/code/jvedarutvija/music-genre-classification) to build models for genre prediction.
 
+<p align="center">
+  <img src="images/last_fm.png" alt="LastFM" height="200"/> 
+  <img src="images/Genuis_Lyrics.png" alt="Genius Lyrics" height="200"/>
+</p>
 
-## Testing the model 
-1. Clone this repo 
-2. Install required dependancies 
-3. Run the ___ file to test 
+## Key Files
 
+1. **create_custom_dataset.ipynb:**
+    - Creates a custom dataset by combining information from LastFM and Genius Lyrics.
+    - Obtains song metadata, lyrics, and genres.
+  
+2. **create_modified_kaggle_dataset.ipynb:**
+    - Generates chunk files from a larger Kaggle dataset.
+    - Modifies the dataset using tags obtained from LastFM, enhancing genre information.
 
-## Generating the Dataset 
-1. Open the custom_dataset_generator.ipynb file 
-2. Install required dependencies 
-3. Run all the cells 
-4. The final output is a csv file called custom_dataset.csv 
+3. **genre_prediction_model_build.ipynb:**
+    - Builds LSTM and CNN models capable of predicting a single genre for a given song.
+    - Utilizes a configuration file (`config.json`) for settings such as word embeddings file, embedding dimensions, input length, and genre mappings.
+  
+4. **multi_class_genre_prediction_build.ipynb:**
+    - Constructs LSTM and CNN models capable of predicting multiple genres for a given song.
+    - Extends the single-genre prediction model to handle multiple genres.
 
-Note: If you would like to create a dataset using a different playlist update the TOP_SONGS_URI variable to be the URI for Spotify playlist. More info can be found here: https://misswood.us/pages/como-conseguir-el-codigo-uri-en-spotify
+## Key Points
 
+- **Configuration File (`config.json`):**
+    - Contains essential settings like word embeddings file, embedding dimensions, input length, and genre mappings.
+    
+- **Main Libraries Used:**
+    - Pandas, NumPy, TensorFlow (Keras), Scikit-learn, Seaborn, Matplotlib, JSON.
+    
+- **Application Areas:**
+    - Music genre classification can be applied in various domains such as music recommendation systems, playlist generation, and music streaming platforms.
 
-# Credit # 
-1. For spotify API calls - https://developer.spotify.com/
-2. For Genuis lyrics https://lyricsgenius.readthedocs.io/en/master/- 
-3. Playlist used - https://open.spotify.com/playlist/5ABHKGoOzxkaa28ttQV9sE
+## Execution Steps
 
+1. **Custom Dataset Creation:**
+    - Execute `create_custom_dataset.ipynb` to create a custom dataset from LastFM and Genius Lyrics.
+  
+2. **Kaggle Dataset Processing:**
+    - Run `create_modified_kaggle_dataset.ipynb` to generate chunk files and enhance genre information using LastFM tags.
+  
+3. **Genre Prediction Models:**
+    - Execute `genre_prediction_model_build.ipynb` to build LSTM and CNN models for predicting a single genre per song.
+  
+4. **Multi-class Genre Prediction Models:**
+    - Run `multi_class_genre_prediction_build.ipynb` to extend the models for predicting multiple genres for a song.
 
-Note: The genre's given to each song is the genre of the artist.
+## Future Work
 
-![!\[Alt text\](images/Genuis_Spot.png)](images/Genuis_Spot_2.png)
+- Experiment with different model architectures and hyperparameters for enhanced performance.
+- Explore additional feature engineering techniques for improved genre prediction.
+- Obtain a more diverse dataset (most songs are hiphop and r&b causing overfitting)
+
+This project aims to explore the exciting intersection of music and machine learning, providing valuable insights into genre prediction from song lyrics.
+
+## Helpful links
+
+- The kaggle dataset can be found [here](https://www.kaggle.com/code/jvedarutvija/music-genre-classification). Download it and place it in the root of the repo. Ensure it is named "song_lyrics.csv"
+
+- Last.fm API can be found [here](https://www.last.fm/api)
+
+- Genuis API can be found [here](https://docs.genius.com/)
+
